@@ -31,7 +31,6 @@ Najlepiej czytać notebooki po kolei:
 - `exports/` zawiera pliki CSV wygenerowane przez kolejne etapy analizy.
 - `figures/thesis/` zawiera grafiki używane w pracy.
 - `data/` i `f1_cache/` zawierają lokalne dane robocze oraz cache FastF1.
-- `archive_notebooks/`, `archive_scripts/` i `archive_reports/` przechowują wcześniejsze, bardziej rozdrobnione wersje pracy.
 
 ## Przygotowanie środowiska
 
