@@ -48,4 +48,4 @@ pip install -r requirements.txt
 
 Aktualna wersja kodu pracy znajduje się w `thesis_latex/`. Główny plik to `thesis_latex/main.tex`.
 
-PDF poglądowy znajduje się w `thesis_latex/praca_magisterska_preview.pdf`.
+PDF poglądowy znajduje się w `thesis_latex/Jaskolski_magisterka.pdf`.
