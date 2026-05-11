@@ -24,14 +24,14 @@ Najlepiej czytać notebooki po kolei:
 6. `06_team_bias_and_hierarchical_models.ipynb` - bias zespołowy, modele hierarchiczne i team-aware.
 7. `07_sequence_full_history_rerun.ipynb` - pełne historie uczenia modeli sekwencyjnych.
 8. `08_driver_style_case_studies.ipynb` - studia przypadków stylu kierowcy i transferu między zespołami.
-9. `09_thesis_figures_and_reporting_assets.ipynb` - figury EDA, wyniki i grafiki do pracy.
+9. `09_thesis_figures_and_reporting_assets.ipynb` - wykresy EDA, wyniki i grafiki do pracy.
 
 ## Dane i wyniki
 
 - `exports/` zawiera pliki CSV wygenerowane przez kolejne etapy analizy.
 - `figures/` zawiera grafiki używane w notebookach i pracy.
 - `scripts/` zawiera najnowsze skrypty Python użyte przy późniejszych eksperymentach.
-- `thesis_latex/` zawiera aktualny kod pracy w LaTeX, bibliografię, klasę dokumentu, logo, figury oraz PDF poglądowy.
+- `thesis_latex/` zawiera aktualny kod pracy w LaTeX, bibliografię, klasę dokumentu, logo, wykresy oraz PDF poglądowy.
 
 Największe surowe pliki telemetryczne nie są wrzucone do repozytorium, ponieważ są zbyt duże dla zwykłego repo GitHub i mogą zostać odtworzone lokalnie przez uruchomienie odpowiednich notebooków lub skryptów.
 
