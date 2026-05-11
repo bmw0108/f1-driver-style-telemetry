@@ -1,0 +1,6 @@
+setup,fold,n_train,n_train_inner,n_val,n_test
+long_qualifying_top5,1,560,444,116,138
+long_qualifying_top5,2,559,450,109,139
+long_qualifying_top5,3,554,442,112,144
+long_qualifying_top5,4,558,446,112,140
+long_qualifying_top5,5,561,450,111,137

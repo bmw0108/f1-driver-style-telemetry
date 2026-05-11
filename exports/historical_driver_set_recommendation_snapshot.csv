@@ -1,0 +1,2 @@
+candidate_name,drivers,n_drivers,min_n_seasons,min_n_sessions,mean_n_sessions,min_n_lap_rows,mean_n_lap_rows,n_seasons_with_full_overlap,full_overlap_seasons,recommendation_reason
+season5_top5,"BOT, SAI, RIC, GAS, LEC",5,5,187,187.0,6476,6656.8,5,"2018, 2019, 2020, 2021, 2022",Best current balance of long-horizon overlap and sample volume in the downloaded 2018-2022 snapshot.

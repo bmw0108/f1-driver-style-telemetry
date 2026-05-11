@@ -1,0 +1,20 @@
+# Core data stack
+numpy
+pandas
+
+# Formula 1 data access
+fastf1
+
+# Modeling
+scikit-learn
+xgboost
+tensorflow
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook execution
+jupyter
+ipykernel
+nbformat

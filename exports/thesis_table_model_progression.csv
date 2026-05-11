@@ -1,0 +1,6 @@
+experiment_stage,dataset,validation,n_laps,n_drivers,n_sessions,model,accuracy,macro_f1
+Broad baseline,"14 drivers, no-time handcrafted features",Stratified 5-fold CV,766,14,55,logistic_regression,0.6175,0.616
+Grouped broad baseline,"14 drivers, no-time handcrafted features",StratifiedGroupKFold by session,766,14,55,logistic_regression,0.6397,0.6392
+Focused handcrafted model,"distinctive_top5, compact_no_context_no_phase",StratifiedGroupKFold by session,273,5,55,handcrafted_compact_logreg,0.8571,0.8581
+Sequence baseline,"distinctive_top5, resampled telemetry sequences",StratifiedGroupKFold by session,273,5,55,cnn,0.8974,0.8952
+Best final model,"distinctive_top5, hybrid sequence + compact features",StratifiedGroupKFold by session,273,5,55,hybrid_cnn_tabular,0.9158,0.9147

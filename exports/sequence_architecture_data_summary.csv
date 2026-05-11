@@ -1,0 +1,2 @@
+n_laps,n_drivers,n_sessions,seq_len,n_seq_channels,n_tab_features,tabular_config
+273,5,55,300,5,57,compact_no_context_no_phase

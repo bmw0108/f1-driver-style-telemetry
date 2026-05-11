@@ -1,0 +1,10 @@
+step,n_rows,n_unique_drivers,n_unique_sessions
+00_raw_race_laps,26692,21,24
+01_lap_time_not_null,26337,21,24
+02_dry_sessions_only,20349,21,18
+03_is_accurate_true,18011,21,18
+04_not_deleted,18011,21,18
+05_not_fastf1_generated,18011,21,18
+06_track_status_eq_1,17622,21,18
+07_not_pit_in_out,17622,21,18
+08_within_2s_of_stint_median,17265,21,18

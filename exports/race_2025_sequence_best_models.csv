@@ -1,0 +1,2 @@
+model,n_samples,n_drivers,n_sessions,oof_accuracy,oof_balanced_accuracy,oof_macro_f1,mean_train_accuracy,mean_test_accuracy,mean_train_macro_f1,mean_test_macro_f1,mean_accuracy_gap,mean_macro_f1_gap
+hybrid_cnn_tabular,4334,5,18,0.8567143516382095,0.8559862628159631,0.856407149159734,0.9675076726907681,0.8645125478620624,0.9678226927669066,0.8625514055576297,0.10299512482870565,0.10527128720927692

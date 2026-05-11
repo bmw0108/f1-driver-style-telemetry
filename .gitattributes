@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.tex text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.ipynb text eol=lf

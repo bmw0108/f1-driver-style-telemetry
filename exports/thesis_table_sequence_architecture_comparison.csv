@@ -1,0 +1,5 @@
+architecture,subset_name,n_laps,n_sessions,seq_len,n_seq_channels,oof_accuracy,oof_macro_f1,mean_train_accuracy,mean_test_accuracy,mean_accuracy_gap
+Hybrid CNN + tabular,distinctive_top5,273,55,300,5,0.9158,0.9147,0.9789,0.9156,0.0633
+1D CNN,distinctive_top5,273,55,300,5,0.8974,0.8952,0.9643,0.8974,0.0669
+GRU,distinctive_top5,273,55,300,5,0.4945,0.4595,0.5879,0.4945,0.0934
+LSTM,distinctive_top5,273,55,300,5,0.37,0.3365,0.4324,0.3694,0.063

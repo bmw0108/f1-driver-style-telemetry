@@ -1,0 +1,1696 @@
+lap_key,subset_name,session_key,event_name,true_driver,pred_driver
+2023_1_ALB_5.0,distinctive_top5,2023_1,Bahrain Grand Prix,ALB,ALB
+2023_1_LEC_16.0,distinctive_top5,2023_1,Bahrain Grand Prix,LEC,LEC
+2023_1_OCO_11.0,distinctive_top5,2023_1,Bahrain Grand Prix,OCO,OCO
+2023_1_SAI_17.0,distinctive_top5,2023_1,Bahrain Grand Prix,SAI,SAI
+2023_1_VER_14.0,distinctive_top5,2023_1,Bahrain Grand Prix,VER,VER
+2023_2_ALB_8.0,distinctive_top5,2023_2,Saudi Arabian Grand Prix,ALB,ALB
+2023_2_LEC_18.0,distinctive_top5,2023_2,Saudi Arabian Grand Prix,LEC,LEC
+2023_2_OCO_23.0,distinctive_top5,2023_2,Saudi Arabian Grand Prix,OCO,OCO
+2023_2_SAI_23.0,distinctive_top5,2023_2,Saudi Arabian Grand Prix,SAI,LEC
+2023_2_VER_2.0,distinctive_top5,2023_2,Saudi Arabian Grand Prix,VER,VER
+2023_4_ALB_18.0,distinctive_top5,2023_4,Azerbaijan Grand Prix,ALB,ALB
+2023_4_LEC_20.0,distinctive_top5,2023_4,Azerbaijan Grand Prix,LEC,LEC
+2023_4_OCO_18.0,distinctive_top5,2023_4,Azerbaijan Grand Prix,OCO,OCO
+2023_4_SAI_20.0,distinctive_top5,2023_4,Azerbaijan Grand Prix,SAI,SAI
+2023_4_VER_19.0,distinctive_top5,2023_4,Azerbaijan Grand Prix,VER,VER
+2023_5_ALB_11.0,distinctive_top5,2023_5,Miami Grand Prix,ALB,ALB
+2023_5_LEC_13.0,distinctive_top5,2023_5,Miami Grand Prix,LEC,LEC
+2023_5_OCO_14.0,distinctive_top5,2023_5,Miami Grand Prix,OCO,OCO
+2023_5_SAI_10.0,distinctive_top5,2023_5,Miami Grand Prix,SAI,SAI
+2023_5_VER_11.0,distinctive_top5,2023_5,Miami Grand Prix,VER,VER
+2023_6_ALB_18.0,distinctive_top5,2023_6,Monaco Grand Prix,ALB,VER
+2023_6_LEC_25.0,distinctive_top5,2023_6,Monaco Grand Prix,LEC,LEC
+2023_6_OCO_25.0,distinctive_top5,2023_6,Monaco Grand Prix,OCO,OCO
+2023_6_SAI_27.0,distinctive_top5,2023_6,Monaco Grand Prix,SAI,SAI
+2023_6_VER_29.0,distinctive_top5,2023_6,Monaco Grand Prix,VER,VER
+2023_9_ALB_20.0,distinctive_top5,2023_9,Austrian Grand Prix,ALB,ALB
+2023_9_LEC_25.0,distinctive_top5,2023_9,Austrian Grand Prix,LEC,LEC
+2023_9_OCO_14.0,distinctive_top5,2023_9,Austrian Grand Prix,OCO,OCO
+2023_9_SAI_24.0,distinctive_top5,2023_9,Austrian Grand Prix,SAI,SAI
+2023_9_VER_23.0,distinctive_top5,2023_9,Austrian Grand Prix,VER,VER
+2023_11_ALB_7.0,distinctive_top5,2023_11,Hungarian Grand Prix,ALB,ALB
+2023_11_LEC_20.0,distinctive_top5,2023_11,Hungarian Grand Prix,LEC,LEC
+2023_11_OCO_15.0,distinctive_top5,2023_11,Hungarian Grand Prix,OCO,OCO
+2023_11_SAI_14.0,distinctive_top5,2023_11,Hungarian Grand Prix,SAI,SAI
+2023_11_VER_17.0,distinctive_top5,2023_11,Hungarian Grand Prix,VER,VER
+2023_14_ALB_20.0,distinctive_top5,2023_14,Italian Grand Prix,ALB,ALB
+2023_14_LEC_20.0,distinctive_top5,2023_14,Italian Grand Prix,LEC,SAI
+2023_14_OCO_7.0,distinctive_top5,2023_14,Italian Grand Prix,OCO,OCO
+2023_14_SAI_19.0,distinctive_top5,2023_14,Italian Grand Prix,SAI,SAI
+2023_14_VER_20.0,distinctive_top5,2023_14,Italian Grand Prix,VER,VER
+2023_15_ALB_5.0,distinctive_top5,2023_15,Singapore Grand Prix,ALB,ALB
+2023_15_LEC_20.0,distinctive_top5,2023_15,Singapore Grand Prix,LEC,LEC
+2023_15_OCO_17.0,distinctive_top5,2023_15,Singapore Grand Prix,OCO,OCO
+2023_15_SAI_19.0,distinctive_top5,2023_15,Singapore Grand Prix,SAI,SAI
+2023_15_VER_10.0,distinctive_top5,2023_15,Singapore Grand Prix,VER,VER
+2023_16_ALB_11.0,distinctive_top5,2023_16,Japanese Grand Prix,ALB,ALB
+2023_16_LEC_13.0,distinctive_top5,2023_16,Japanese Grand Prix,LEC,LEC
+2023_16_OCO_11.0,distinctive_top5,2023_16,Japanese Grand Prix,OCO,OCO
+2023_16_SAI_13.0,distinctive_top5,2023_16,Japanese Grand Prix,SAI,SAI
+2023_16_VER_11.0,distinctive_top5,2023_16,Japanese Grand Prix,VER,VER
+2023_17_ALB_12.0,distinctive_top5,2023_17,Qatar Grand Prix,ALB,ALB
+2023_17_LEC_25.0,distinctive_top5,2023_17,Qatar Grand Prix,LEC,LEC
+2023_17_OCO_23.0,distinctive_top5,2023_17,Qatar Grand Prix,OCO,OCO
+2023_17_SAI_17.0,distinctive_top5,2023_17,Qatar Grand Prix,SAI,OCO
+2023_17_VER_16.0,distinctive_top5,2023_17,Qatar Grand Prix,VER,ALB
+2023_18_ALB_5.0,distinctive_top5,2023_18,United States Grand Prix,ALB,ALB
+2023_18_LEC_20.0,distinctive_top5,2023_18,United States Grand Prix,LEC,LEC
+2023_18_OCO_20.0,distinctive_top5,2023_18,United States Grand Prix,OCO,OCO
+2023_18_SAI_17.0,distinctive_top5,2023_18,United States Grand Prix,SAI,SAI
+2023_18_VER_17.0,distinctive_top5,2023_18,United States Grand Prix,VER,VER
+2023_19_ALB_11.0,distinctive_top5,2023_19,Mexico City Grand Prix,ALB,ALB
+2023_19_LEC_13.0,distinctive_top5,2023_19,Mexico City Grand Prix,LEC,LEC
+2023_19_OCO_2.0,distinctive_top5,2023_19,Mexico City Grand Prix,OCO,OCO
+2023_19_SAI_13.0,distinctive_top5,2023_19,Mexico City Grand Prix,SAI,SAI
+2023_19_VER_14.0,distinctive_top5,2023_19,Mexico City Grand Prix,VER,VER
+2023_21_ALB_20.0,distinctive_top5,2023_21,Las Vegas Grand Prix,ALB,ALB
+2023_21_LEC_22.0,distinctive_top5,2023_21,Las Vegas Grand Prix,LEC,LEC
+2023_21_OCO_7.0,distinctive_top5,2023_21,Las Vegas Grand Prix,OCO,OCO
+2023_21_SAI_22.0,distinctive_top5,2023_21,Las Vegas Grand Prix,SAI,SAI
+2023_21_VER_16.0,distinctive_top5,2023_21,Las Vegas Grand Prix,VER,VER
+2023_22_ALB_5.0,distinctive_top5,2023_22,Abu Dhabi Grand Prix,ALB,ALB
+2023_22_LEC_17.0,distinctive_top5,2023_22,Abu Dhabi Grand Prix,LEC,LEC
+2023_22_OCO_11.0,distinctive_top5,2023_22,Abu Dhabi Grand Prix,OCO,OCO
+2023_22_SAI_5.0,distinctive_top5,2023_22,Abu Dhabi Grand Prix,SAI,SAI
+2023_22_VER_11.0,distinctive_top5,2023_22,Abu Dhabi Grand Prix,VER,VER
+2024_1_ALB_11.0,distinctive_top5,2024_1,Bahrain Grand Prix,ALB,ALB
+2024_1_LEC_12.0,distinctive_top5,2024_1,Bahrain Grand Prix,LEC,LEC
+2024_1_OCO_8.0,distinctive_top5,2024_1,Bahrain Grand Prix,OCO,OCO
+2024_1_SAI_17.0,distinctive_top5,2024_1,Bahrain Grand Prix,SAI,SAI
+2024_1_VER_16.0,distinctive_top5,2024_1,Bahrain Grand Prix,VER,VER
+2024_2_ALB_15.0,distinctive_top5,2024_2,Saudi Arabian Grand Prix,ALB,ALB
+2024_2_LEC_22.0,distinctive_top5,2024_2,Saudi Arabian Grand Prix,LEC,LEC
+2024_2_OCO_9.0,distinctive_top5,2024_2,Saudi Arabian Grand Prix,OCO,OCO
+2024_2_VER_14.0,distinctive_top5,2024_2,Saudi Arabian Grand Prix,VER,VER
+2024_4_ALB_8.0,distinctive_top5,2024_4,Japanese Grand Prix,ALB,ALB
+2024_4_LEC_11.0,distinctive_top5,2024_4,Japanese Grand Prix,LEC,LEC
+2024_4_OCO_5.0,distinctive_top5,2024_4,Japanese Grand Prix,OCO,OCO
+2024_4_SAI_8.0,distinctive_top5,2024_4,Japanese Grand Prix,SAI,SAI
+2024_4_VER_11.0,distinctive_top5,2024_4,Japanese Grand Prix,VER,VER
+2024_5_ALB_13.0,distinctive_top5,2024_5,Chinese Grand Prix,ALB,ALB
+2024_5_LEC_19.0,distinctive_top5,2024_5,Chinese Grand Prix,LEC,LEC
+2024_5_OCO_14.0,distinctive_top5,2024_5,Chinese Grand Prix,OCO,OCO
+2024_5_SAI_16.0,distinctive_top5,2024_5,Chinese Grand Prix,SAI,SAI
+2024_5_VER_17.0,distinctive_top5,2024_5,Chinese Grand Prix,VER,VER
+2024_6_ALB_8.0,distinctive_top5,2024_6,Miami Grand Prix,ALB,ALB
+2024_6_LEC_17.0,distinctive_top5,2024_6,Miami Grand Prix,LEC,LEC
+2024_6_OCO_8.0,distinctive_top5,2024_6,Miami Grand Prix,OCO,OCO
+2024_6_SAI_17.0,distinctive_top5,2024_6,Miami Grand Prix,SAI,SAI
+2024_6_VER_14.0,distinctive_top5,2024_6,Miami Grand Prix,VER,VER
+2024_7_ALB_11.0,distinctive_top5,2024_7,Emilia Romagna Grand Prix,ALB,LEC
+2024_7_LEC_20.0,distinctive_top5,2024_7,Emilia Romagna Grand Prix,LEC,LEC
+2024_7_OCO_14.0,distinctive_top5,2024_7,Emilia Romagna Grand Prix,OCO,OCO
+2024_7_SAI_19.0,distinctive_top5,2024_7,Emilia Romagna Grand Prix,SAI,SAI
+2024_7_VER_17.0,distinctive_top5,2024_7,Emilia Romagna Grand Prix,VER,VER
+2024_8_ALB_28.0,distinctive_top5,2024_8,Monaco Grand Prix,ALB,ALB
+2024_8_LEC_25.0,distinctive_top5,2024_8,Monaco Grand Prix,LEC,LEC
+2024_8_OCO_15.0,distinctive_top5,2024_8,Monaco Grand Prix,OCO,OCO
+2024_8_SAI_27.0,distinctive_top5,2024_8,Monaco Grand Prix,SAI,SAI
+2024_8_VER_24.0,distinctive_top5,2024_8,Monaco Grand Prix,VER,VER
+2024_10_ALB_5.0,distinctive_top5,2024_10,Spanish Grand Prix,ALB,ALB
+2024_10_LEC_8.0,distinctive_top5,2024_10,Spanish Grand Prix,LEC,LEC
+2024_10_OCO_11.0,distinctive_top5,2024_10,Spanish Grand Prix,OCO,OCO
+2024_10_SAI_5.0,distinctive_top5,2024_10,Spanish Grand Prix,SAI,VER
+2024_10_VER_5.0,distinctive_top5,2024_10,Spanish Grand Prix,VER,VER
+2024_11_ALB_8.0,distinctive_top5,2024_11,Austrian Grand Prix,ALB,ALB
+2024_11_LEC_18.0,distinctive_top5,2024_11,Austrian Grand Prix,LEC,LEC
+2024_11_OCO_17.0,distinctive_top5,2024_11,Austrian Grand Prix,OCO,OCO
+2024_11_SAI_17.0,distinctive_top5,2024_11,Austrian Grand Prix,SAI,SAI
+2024_11_VER_17.0,distinctive_top5,2024_11,Austrian Grand Prix,VER,VER
+2024_15_ALB_17.0,distinctive_top5,2024_15,Dutch Grand Prix,ALB,ALB
+2024_15_LEC_23.0,distinctive_top5,2024_15,Dutch Grand Prix,LEC,LEC
+2024_15_OCO_8.0,distinctive_top5,2024_15,Dutch Grand Prix,OCO,OCO
+2024_15_SAI_17.0,distinctive_top5,2024_15,Dutch Grand Prix,SAI,SAI
+2024_15_VER_13.0,distinctive_top5,2024_15,Dutch Grand Prix,VER,VER
+2024_16_ALB_17.0,distinctive_top5,2024_16,Italian Grand Prix,ALB,ALB
+2024_16_LEC_20.0,distinctive_top5,2024_16,Italian Grand Prix,LEC,LEC
+2024_16_OCO_5.0,distinctive_top5,2024_16,Italian Grand Prix,OCO,ALB
+2024_16_SAI_17.0,distinctive_top5,2024_16,Italian Grand Prix,SAI,SAI
+2024_16_VER_11.0,distinctive_top5,2024_16,Italian Grand Prix,VER,VER
+2024_17_ALB_13.0,distinctive_top5,2024_17,Azerbaijan Grand Prix,ALB,ALB
+2024_17_LEC_19.0,distinctive_top5,2024_17,Azerbaijan Grand Prix,LEC,LEC
+2024_17_OCO_5.0,distinctive_top5,2024_17,Azerbaijan Grand Prix,OCO,OCO
+2024_17_SAI_22.0,distinctive_top5,2024_17,Azerbaijan Grand Prix,SAI,SAI
+2024_17_VER_19.0,distinctive_top5,2024_17,Azerbaijan Grand Prix,VER,VER
+2024_18_ALB_11.0,distinctive_top5,2024_18,Singapore Grand Prix,ALB,ALB
+2024_18_LEC_13.0,distinctive_top5,2024_18,Singapore Grand Prix,LEC,LEC
+2024_18_OCO_14.0,distinctive_top5,2024_18,Singapore Grand Prix,OCO,OCO
+2024_18_SAI_14.0,distinctive_top5,2024_18,Singapore Grand Prix,SAI,SAI
+2024_18_VER_11.0,distinctive_top5,2024_18,Singapore Grand Prix,VER,VER
+2024_19_ALB_7.0,distinctive_top5,2024_19,United States Grand Prix,ALB,ALB
+2024_19_LEC_17.0,distinctive_top5,2024_19,United States Grand Prix,LEC,LEC
+2024_19_OCO_14.0,distinctive_top5,2024_19,United States Grand Prix,OCO,OCO
+2024_19_SAI_16.0,distinctive_top5,2024_19,United States Grand Prix,SAI,SAI
+2024_19_VER_14.0,distinctive_top5,2024_19,United States Grand Prix,VER,VER
+2024_20_ALB_11.0,distinctive_top5,2024_20,Mexico City Grand Prix,ALB,SAI
+2024_20_LEC_20.0,distinctive_top5,2024_20,Mexico City Grand Prix,LEC,LEC
+2024_20_OCO_8.0,distinctive_top5,2024_20,Mexico City Grand Prix,OCO,OCO
+2024_20_SAI_20.0,distinctive_top5,2024_20,Mexico City Grand Prix,SAI,SAI
+2024_20_VER_17.0,distinctive_top5,2024_20,Mexico City Grand Prix,VER,VER
+2024_22_ALB_5.0,distinctive_top5,2024_22,Las Vegas Grand Prix,ALB,ALB
+2024_22_LEC_22.0,distinctive_top5,2024_22,Las Vegas Grand Prix,LEC,LEC
+2024_22_OCO_17.0,distinctive_top5,2024_22,Las Vegas Grand Prix,OCO,OCO
+2024_22_SAI_23.0,distinctive_top5,2024_22,Las Vegas Grand Prix,SAI,SAI
+2024_22_VER_20.0,distinctive_top5,2024_22,Las Vegas Grand Prix,VER,ALB
+2024_23_ALB_8.0,distinctive_top5,2024_23,Qatar Grand Prix,ALB,ALB
+2024_23_LEC_25.0,distinctive_top5,2024_23,Qatar Grand Prix,LEC,LEC
+2024_23_OCO_9.0,distinctive_top5,2024_23,Qatar Grand Prix,OCO,OCO
+2024_23_SAI_25.0,distinctive_top5,2024_23,Qatar Grand Prix,SAI,SAI
+2024_23_VER_21.0,distinctive_top5,2024_23,Qatar Grand Prix,VER,VER
+2024_24_ALB_5.0,distinctive_top5,2024_24,Abu Dhabi Grand Prix,ALB,ALB
+2024_24_LEC_11.0,distinctive_top5,2024_24,Abu Dhabi Grand Prix,LEC,LEC
+2024_24_SAI_15.0,distinctive_top5,2024_24,Abu Dhabi Grand Prix,SAI,SAI
+2024_24_VER_11.0,distinctive_top5,2024_24,Abu Dhabi Grand Prix,VER,VER
+2025_1_ALB_20.0,distinctive_top5,2025_1,Australian Grand Prix,ALB,SAI
+2025_1_LEC_17.0,distinctive_top5,2025_1,Australian Grand Prix,LEC,LEC
+2025_1_OCO_5.0,distinctive_top5,2025_1,Australian Grand Prix,OCO,OCO
+2025_1_SAI_20.0,distinctive_top5,2025_1,Australian Grand Prix,SAI,SAI
+2025_1_VER_16.0,distinctive_top5,2025_1,Australian Grand Prix,VER,VER
+2025_2_ALB_7.0,distinctive_top5,2025_2,Chinese Grand Prix,ALB,SAI
+2025_2_LEC_20.0,distinctive_top5,2025_2,Chinese Grand Prix,LEC,LEC
+2025_2_OCO_14.0,distinctive_top5,2025_2,Chinese Grand Prix,OCO,OCO
+2025_2_SAI_8.0,distinctive_top5,2025_2,Chinese Grand Prix,SAI,OCO
+2025_2_VER_14.0,distinctive_top5,2025_2,Chinese Grand Prix,VER,VER
+2025_3_ALB_19.0,distinctive_top5,2025_3,Japanese Grand Prix,ALB,OCO
+2025_3_LEC_17.0,distinctive_top5,2025_3,Japanese Grand Prix,LEC,LEC
+2025_3_OCO_8.0,distinctive_top5,2025_3,Japanese Grand Prix,OCO,OCO
+2025_3_SAI_14.0,distinctive_top5,2025_3,Japanese Grand Prix,SAI,SAI
+2025_3_VER_16.0,distinctive_top5,2025_3,Japanese Grand Prix,VER,VER
+2025_4_ALB_5.0,distinctive_top5,2025_4,Bahrain Grand Prix,ALB,ALB
+2025_4_LEC_15.0,distinctive_top5,2025_4,Bahrain Grand Prix,LEC,LEC
+2025_4_OCO_5.0,distinctive_top5,2025_4,Bahrain Grand Prix,OCO,OCO
+2025_4_SAI_18.0,distinctive_top5,2025_4,Bahrain Grand Prix,SAI,ALB
+2025_4_VER_16.0,distinctive_top5,2025_4,Bahrain Grand Prix,VER,VER
+2025_5_ALB_13.0,distinctive_top5,2025_5,Saudi Arabian Grand Prix,ALB,ALB
+2025_5_LEC_18.0,distinctive_top5,2025_5,Saudi Arabian Grand Prix,LEC,LEC
+2025_5_OCO_5.0,distinctive_top5,2025_5,Saudi Arabian Grand Prix,OCO,OCO
+2025_5_SAI_14.0,distinctive_top5,2025_5,Saudi Arabian Grand Prix,SAI,SAI
+2025_5_VER_18.0,distinctive_top5,2025_5,Saudi Arabian Grand Prix,VER,VER
+2025_6_ALB_19.0,distinctive_top5,2025_6,Miami Grand Prix,ALB,SAI
+2025_6_LEC_19.0,distinctive_top5,2025_6,Miami Grand Prix,LEC,LEC
+2025_6_OCO_20.0,distinctive_top5,2025_6,Miami Grand Prix,OCO,OCO
+2025_6_SAI_19.0,distinctive_top5,2025_6,Miami Grand Prix,SAI,ALB
+2025_6_VER_17.0,distinctive_top5,2025_6,Miami Grand Prix,VER,VER
+2025_7_ALB_19.0,distinctive_top5,2025_7,Emilia Romagna Grand Prix,ALB,VER
+2025_7_LEC_10.0,distinctive_top5,2025_7,Emilia Romagna Grand Prix,LEC,OCO
+2025_7_OCO_2.0,distinctive_top5,2025_7,Emilia Romagna Grand Prix,OCO,OCO
+2025_7_SAI_14.0,distinctive_top5,2025_7,Emilia Romagna Grand Prix,SAI,SAI
+2025_7_VER_16.0,distinctive_top5,2025_7,Emilia Romagna Grand Prix,VER,VER
+2025_8_ALB_24.0,distinctive_top5,2025_8,Monaco Grand Prix,ALB,ALB
+2025_8_LEC_26.0,distinctive_top5,2025_8,Monaco Grand Prix,LEC,LEC
+2025_8_OCO_31.0,distinctive_top5,2025_8,Monaco Grand Prix,OCO,OCO
+2025_8_SAI_20.0,distinctive_top5,2025_8,Monaco Grand Prix,SAI,ALB
+2025_8_VER_17.0,distinctive_top5,2025_8,Monaco Grand Prix,VER,VER
+2025_9_ALB_13.0,distinctive_top5,2025_9,Spanish Grand Prix,ALB,ALB
+2025_9_LEC_11.0,distinctive_top5,2025_9,Spanish Grand Prix,LEC,LEC
+2025_9_OCO_8.0,distinctive_top5,2025_9,Spanish Grand Prix,OCO,OCO
+2025_9_SAI_5.0,distinctive_top5,2025_9,Spanish Grand Prix,SAI,SAI
+2025_9_VER_11.0,distinctive_top5,2025_9,Spanish Grand Prix,VER,VER
+2025_10_ALB_21.0,distinctive_top5,2025_10,Canadian Grand Prix,ALB,ALB
+2025_10_LEC_17.0,distinctive_top5,2025_10,Canadian Grand Prix,LEC,SAI
+2025_10_OCO_12.0,distinctive_top5,2025_10,Canadian Grand Prix,OCO,OCO
+2025_10_SAI_12.0,distinctive_top5,2025_10,Canadian Grand Prix,SAI,SAI
+2025_10_VER_19.0,distinctive_top5,2025_10,Canadian Grand Prix,VER,VER
+2025_11_ALB_8.0,distinctive_top5,2025_11,Austrian Grand Prix,ALB,ALB
+2025_11_LEC_17.0,distinctive_top5,2025_11,Austrian Grand Prix,LEC,LEC
+2025_11_OCO_8.0,distinctive_top5,2025_11,Austrian Grand Prix,OCO,OCO
+2025_11_SAI_8.0,distinctive_top5,2025_11,Austrian Grand Prix,SAI,ALB
+2025_11_VER_11.0,distinctive_top5,2025_11,Austrian Grand Prix,VER,VER
+2025_12_ALB_9.0,distinctive_top5,2025_12,British Grand Prix,ALB,ALB
+2025_12_LEC_20.0,distinctive_top5,2025_12,British Grand Prix,LEC,LEC
+2025_12_OCO_8.0,distinctive_top5,2025_12,British Grand Prix,OCO,ALB
+2025_12_SAI_11.0,distinctive_top5,2025_12,British Grand Prix,SAI,SAI
+2025_12_VER_17.0,distinctive_top5,2025_12,British Grand Prix,VER,VER
+2025_13_ALB_19.0,distinctive_top5,2025_13,Belgian Grand Prix,ALB,SAI
+2025_13_LEC_17.0,distinctive_top5,2025_13,Belgian Grand Prix,LEC,LEC
+2025_13_OCO_13.0,distinctive_top5,2025_13,Belgian Grand Prix,OCO,SAI
+2025_13_SAI_4.0,distinctive_top5,2025_13,Belgian Grand Prix,SAI,SAI
+2025_13_VER_14.0,distinctive_top5,2025_13,Belgian Grand Prix,VER,ALB
+2025_14_ALB_8.0,distinctive_top5,2025_14,Hungarian Grand Prix,ALB,ALB
+2025_14_LEC_17.0,distinctive_top5,2025_14,Hungarian Grand Prix,LEC,LEC
+2025_14_OCO_5.0,distinctive_top5,2025_14,Hungarian Grand Prix,OCO,SAI
+2025_14_SAI_8.0,distinctive_top5,2025_14,Hungarian Grand Prix,SAI,SAI
+2025_14_VER_11.0,distinctive_top5,2025_14,Hungarian Grand Prix,VER,VER
+2025_15_ALB_8.0,distinctive_top5,2025_15,Dutch Grand Prix,ALB,ALB
+2025_15_LEC_14.0,distinctive_top5,2025_15,Dutch Grand Prix,LEC,SAI
+2025_15_OCO_8.0,distinctive_top5,2025_15,Dutch Grand Prix,OCO,SAI
+2025_15_SAI_11.0,distinctive_top5,2025_15,Dutch Grand Prix,SAI,SAI
+2025_15_VER_17.0,distinctive_top5,2025_15,Dutch Grand Prix,VER,VER
+2025_16_ALB_15.0,distinctive_top5,2025_16,Italian Grand Prix,ALB,ALB
+2025_16_LEC_16.0,distinctive_top5,2025_16,Italian Grand Prix,LEC,LEC
+2025_16_OCO_14.0,distinctive_top5,2025_16,Italian Grand Prix,OCO,OCO
+2025_16_SAI_18.0,distinctive_top5,2025_16,Italian Grand Prix,SAI,SAI
+2025_16_VER_17.0,distinctive_top5,2025_16,Italian Grand Prix,VER,VER
+2025_18_ALB_13.0,distinctive_top5,2025_18,Singapore Grand Prix,ALB,ALB
+2025_18_LEC_18.0,distinctive_top5,2025_18,Singapore Grand Prix,LEC,LEC
+2025_18_OCO_2.0,distinctive_top5,2025_18,Singapore Grand Prix,OCO,ALB
+2025_18_SAI_10.0,distinctive_top5,2025_18,Singapore Grand Prix,SAI,ALB
+2025_18_VER_14.0,distinctive_top5,2025_18,Singapore Grand Prix,VER,VER
+2025_19_ALB_8.0,distinctive_top5,2025_19,United States Grand Prix,ALB,ALB
+2025_19_LEC_16.0,distinctive_top5,2025_19,United States Grand Prix,LEC,OCO
+2025_19_OCO_7.0,distinctive_top5,2025_19,United States Grand Prix,OCO,OCO
+2025_19_SAI_10.0,distinctive_top5,2025_19,United States Grand Prix,SAI,SAI
+2025_19_VER_11.0,distinctive_top5,2025_19,United States Grand Prix,VER,VER
+2025_20_ALB_5.0,distinctive_top5,2025_20,Mexico City Grand Prix,ALB,ALB
+2025_20_LEC_19.0,distinctive_top5,2025_20,Mexico City Grand Prix,LEC,SAI
+2025_20_OCO_14.0,distinctive_top5,2025_20,Mexico City Grand Prix,OCO,OCO
+2025_20_SAI_17.0,distinctive_top5,2025_20,Mexico City Grand Prix,SAI,ALB
+2025_20_VER_17.0,distinctive_top5,2025_20,Mexico City Grand Prix,VER,VER
+2025_21_ALB_14.0,distinctive_top5,2025_21,São Paulo Grand Prix,ALB,ALB
+2025_21_LEC_15.0,distinctive_top5,2025_21,São Paulo Grand Prix,LEC,ALB
+2025_21_OCO_8.0,distinctive_top5,2025_21,São Paulo Grand Prix,OCO,OCO
+2025_21_SAI_9.0,distinctive_top5,2025_21,São Paulo Grand Prix,SAI,SAI
+2025_21_VER_8.0,distinctive_top5,2025_21,São Paulo Grand Prix,VER,ALB
+2025_23_ALB_10.0,distinctive_top5,2025_23,Qatar Grand Prix,ALB,VER
+2025_23_LEC_17.0,distinctive_top5,2025_23,Qatar Grand Prix,LEC,LEC
+2025_23_OCO_10.0,distinctive_top5,2025_23,Qatar Grand Prix,OCO,OCO
+2025_23_SAI_15.0,distinctive_top5,2025_23,Qatar Grand Prix,SAI,VER
+2025_23_VER_22.0,distinctive_top5,2025_23,Qatar Grand Prix,VER,VER
+2025_24_ALB_5.0,distinctive_top5,2025_24,Abu Dhabi Grand Prix,ALB,ALB
+2025_24_LEC_17.0,distinctive_top5,2025_24,Abu Dhabi Grand Prix,LEC,LEC
+2025_24_OCO_17.0,distinctive_top5,2025_24,Abu Dhabi Grand Prix,OCO,VER
+2025_24_SAI_11.0,distinctive_top5,2025_24,Abu Dhabi Grand Prix,SAI,SAI
+2025_24_VER_17.0,distinctive_top5,2025_24,Abu Dhabi Grand Prix,VER,VER
+2023_1_ALB_5.0,distinctive_top6,2023_1,Bahrain Grand Prix,ALB,ALB
+2023_1_LEC_16.0,distinctive_top6,2023_1,Bahrain Grand Prix,LEC,LEC
+2023_1_OCO_11.0,distinctive_top6,2023_1,Bahrain Grand Prix,OCO,OCO
+2023_1_SAI_17.0,distinctive_top6,2023_1,Bahrain Grand Prix,SAI,SAI
+2023_1_TSU_8.0,distinctive_top6,2023_1,Bahrain Grand Prix,TSU,TSU
+2023_1_VER_14.0,distinctive_top6,2023_1,Bahrain Grand Prix,VER,VER
+2023_2_ALB_8.0,distinctive_top6,2023_2,Saudi Arabian Grand Prix,ALB,ALB
+2023_2_LEC_18.0,distinctive_top6,2023_2,Saudi Arabian Grand Prix,LEC,LEC
+2023_2_OCO_23.0,distinctive_top6,2023_2,Saudi Arabian Grand Prix,OCO,OCO
+2023_2_SAI_23.0,distinctive_top6,2023_2,Saudi Arabian Grand Prix,SAI,LEC
+2023_2_TSU_9.0,distinctive_top6,2023_2,Saudi Arabian Grand Prix,TSU,TSU
+2023_2_VER_2.0,distinctive_top6,2023_2,Saudi Arabian Grand Prix,VER,VER
+2023_4_ALB_18.0,distinctive_top6,2023_4,Azerbaijan Grand Prix,ALB,ALB
+2023_4_LEC_20.0,distinctive_top6,2023_4,Azerbaijan Grand Prix,LEC,LEC
+2023_4_OCO_18.0,distinctive_top6,2023_4,Azerbaijan Grand Prix,OCO,OCO
+2023_4_SAI_20.0,distinctive_top6,2023_4,Azerbaijan Grand Prix,SAI,SAI
+2023_4_TSU_16.0,distinctive_top6,2023_4,Azerbaijan Grand Prix,TSU,TSU
+2023_4_VER_19.0,distinctive_top6,2023_4,Azerbaijan Grand Prix,VER,VER
+2023_5_ALB_11.0,distinctive_top6,2023_5,Miami Grand Prix,ALB,ALB
+2023_5_LEC_13.0,distinctive_top6,2023_5,Miami Grand Prix,LEC,LEC
+2023_5_OCO_14.0,distinctive_top6,2023_5,Miami Grand Prix,OCO,OCO
+2023_5_SAI_10.0,distinctive_top6,2023_5,Miami Grand Prix,SAI,SAI
+2023_5_TSU_9.0,distinctive_top6,2023_5,Miami Grand Prix,TSU,TSU
+2023_5_VER_11.0,distinctive_top6,2023_5,Miami Grand Prix,VER,VER
+2023_6_ALB_18.0,distinctive_top6,2023_6,Monaco Grand Prix,ALB,TSU
+2023_6_LEC_25.0,distinctive_top6,2023_6,Monaco Grand Prix,LEC,LEC
+2023_6_OCO_25.0,distinctive_top6,2023_6,Monaco Grand Prix,OCO,OCO
+2023_6_SAI_27.0,distinctive_top6,2023_6,Monaco Grand Prix,SAI,SAI
+2023_6_TSU_28.0,distinctive_top6,2023_6,Monaco Grand Prix,TSU,TSU
+2023_6_VER_29.0,distinctive_top6,2023_6,Monaco Grand Prix,VER,TSU
+2023_9_ALB_20.0,distinctive_top6,2023_9,Austrian Grand Prix,ALB,ALB
+2023_9_LEC_25.0,distinctive_top6,2023_9,Austrian Grand Prix,LEC,LEC
+2023_9_OCO_14.0,distinctive_top6,2023_9,Austrian Grand Prix,OCO,OCO
+2023_9_SAI_24.0,distinctive_top6,2023_9,Austrian Grand Prix,SAI,SAI
+2023_9_TSU_6.0,distinctive_top6,2023_9,Austrian Grand Prix,TSU,VER
+2023_9_VER_23.0,distinctive_top6,2023_9,Austrian Grand Prix,VER,VER
+2023_11_ALB_7.0,distinctive_top6,2023_11,Hungarian Grand Prix,ALB,ALB
+2023_11_LEC_20.0,distinctive_top6,2023_11,Hungarian Grand Prix,LEC,LEC
+2023_11_OCO_15.0,distinctive_top6,2023_11,Hungarian Grand Prix,OCO,OCO
+2023_11_SAI_14.0,distinctive_top6,2023_11,Hungarian Grand Prix,SAI,SAI
+2023_11_TSU_5.0,distinctive_top6,2023_11,Hungarian Grand Prix,TSU,TSU
+2023_11_VER_17.0,distinctive_top6,2023_11,Hungarian Grand Prix,VER,VER
+2023_14_ALB_20.0,distinctive_top6,2023_14,Italian Grand Prix,ALB,TSU
+2023_14_LEC_20.0,distinctive_top6,2023_14,Italian Grand Prix,LEC,SAI
+2023_14_OCO_7.0,distinctive_top6,2023_14,Italian Grand Prix,OCO,OCO
+2023_14_SAI_19.0,distinctive_top6,2023_14,Italian Grand Prix,SAI,SAI
+2023_14_TSU_14.0,distinctive_top6,2023_14,Italian Grand Prix,TSU,TSU
+2023_14_VER_20.0,distinctive_top6,2023_14,Italian Grand Prix,VER,VER
+2023_15_ALB_5.0,distinctive_top6,2023_15,Singapore Grand Prix,ALB,ALB
+2023_15_LEC_20.0,distinctive_top6,2023_15,Singapore Grand Prix,LEC,LEC
+2023_15_OCO_17.0,distinctive_top6,2023_15,Singapore Grand Prix,OCO,OCO
+2023_15_SAI_19.0,distinctive_top6,2023_15,Singapore Grand Prix,SAI,SAI
+2023_15_TSU_5.0,distinctive_top6,2023_15,Singapore Grand Prix,TSU,TSU
+2023_15_VER_10.0,distinctive_top6,2023_15,Singapore Grand Prix,VER,VER
+2023_16_ALB_11.0,distinctive_top6,2023_16,Japanese Grand Prix,ALB,ALB
+2023_16_LEC_13.0,distinctive_top6,2023_16,Japanese Grand Prix,LEC,LEC
+2023_16_OCO_11.0,distinctive_top6,2023_16,Japanese Grand Prix,OCO,OCO
+2023_16_SAI_13.0,distinctive_top6,2023_16,Japanese Grand Prix,SAI,SAI
+2023_16_TSU_11.0,distinctive_top6,2023_16,Japanese Grand Prix,TSU,TSU
+2023_16_VER_11.0,distinctive_top6,2023_16,Japanese Grand Prix,VER,VER
+2023_17_ALB_12.0,distinctive_top6,2023_17,Qatar Grand Prix,ALB,ALB
+2023_17_LEC_25.0,distinctive_top6,2023_17,Qatar Grand Prix,LEC,LEC
+2023_17_OCO_23.0,distinctive_top6,2023_17,Qatar Grand Prix,OCO,OCO
+2023_17_SAI_17.0,distinctive_top6,2023_17,Qatar Grand Prix,SAI,OCO
+2023_17_TSU_15.0,distinctive_top6,2023_17,Qatar Grand Prix,TSU,TSU
+2023_17_VER_16.0,distinctive_top6,2023_17,Qatar Grand Prix,VER,ALB
+2023_18_ALB_5.0,distinctive_top6,2023_18,United States Grand Prix,ALB,ALB
+2023_18_LEC_20.0,distinctive_top6,2023_18,United States Grand Prix,LEC,LEC
+2023_18_OCO_20.0,distinctive_top6,2023_18,United States Grand Prix,OCO,OCO
+2023_18_SAI_17.0,distinctive_top6,2023_18,United States Grand Prix,SAI,SAI
+2023_18_TSU_11.0,distinctive_top6,2023_18,United States Grand Prix,TSU,TSU
+2023_18_VER_17.0,distinctive_top6,2023_18,United States Grand Prix,VER,VER
+2023_19_ALB_11.0,distinctive_top6,2023_19,Mexico City Grand Prix,ALB,ALB
+2023_19_LEC_13.0,distinctive_top6,2023_19,Mexico City Grand Prix,LEC,LEC
+2023_19_OCO_2.0,distinctive_top6,2023_19,Mexico City Grand Prix,OCO,OCO
+2023_19_SAI_13.0,distinctive_top6,2023_19,Mexico City Grand Prix,SAI,SAI
+2023_19_TSU_2.0,distinctive_top6,2023_19,Mexico City Grand Prix,TSU,TSU
+2023_19_VER_14.0,distinctive_top6,2023_19,Mexico City Grand Prix,VER,VER
+2023_21_ALB_20.0,distinctive_top6,2023_21,Las Vegas Grand Prix,ALB,ALB
+2023_21_LEC_22.0,distinctive_top6,2023_21,Las Vegas Grand Prix,LEC,LEC
+2023_21_OCO_7.0,distinctive_top6,2023_21,Las Vegas Grand Prix,OCO,OCO
+2023_21_SAI_22.0,distinctive_top6,2023_21,Las Vegas Grand Prix,SAI,SAI
+2023_21_TSU_3.0,distinctive_top6,2023_21,Las Vegas Grand Prix,TSU,TSU
+2023_21_VER_16.0,distinctive_top6,2023_21,Las Vegas Grand Prix,VER,VER
+2023_22_ALB_5.0,distinctive_top6,2023_22,Abu Dhabi Grand Prix,ALB,ALB
+2023_22_LEC_17.0,distinctive_top6,2023_22,Abu Dhabi Grand Prix,LEC,LEC
+2023_22_OCO_11.0,distinctive_top6,2023_22,Abu Dhabi Grand Prix,OCO,OCO
+2023_22_SAI_5.0,distinctive_top6,2023_22,Abu Dhabi Grand Prix,SAI,SAI
+2023_22_TSU_17.0,distinctive_top6,2023_22,Abu Dhabi Grand Prix,TSU,TSU
+2023_22_VER_11.0,distinctive_top6,2023_22,Abu Dhabi Grand Prix,VER,VER
+2024_1_ALB_11.0,distinctive_top6,2024_1,Bahrain Grand Prix,ALB,ALB
+2024_1_LEC_12.0,distinctive_top6,2024_1,Bahrain Grand Prix,LEC,LEC
+2024_1_OCO_8.0,distinctive_top6,2024_1,Bahrain Grand Prix,OCO,OCO
+2024_1_SAI_17.0,distinctive_top6,2024_1,Bahrain Grand Prix,SAI,SAI
+2024_1_TSU_11.0,distinctive_top6,2024_1,Bahrain Grand Prix,TSU,TSU
+2024_1_VER_16.0,distinctive_top6,2024_1,Bahrain Grand Prix,VER,VER
+2024_2_ALB_15.0,distinctive_top6,2024_2,Saudi Arabian Grand Prix,ALB,ALB
+2024_2_LEC_22.0,distinctive_top6,2024_2,Saudi Arabian Grand Prix,LEC,LEC
+2024_2_OCO_9.0,distinctive_top6,2024_2,Saudi Arabian Grand Prix,OCO,OCO
+2024_2_TSU_17.0,distinctive_top6,2024_2,Saudi Arabian Grand Prix,TSU,ALB
+2024_2_VER_14.0,distinctive_top6,2024_2,Saudi Arabian Grand Prix,VER,VER
+2024_4_ALB_8.0,distinctive_top6,2024_4,Japanese Grand Prix,ALB,ALB
+2024_4_LEC_11.0,distinctive_top6,2024_4,Japanese Grand Prix,LEC,LEC
+2024_4_OCO_5.0,distinctive_top6,2024_4,Japanese Grand Prix,OCO,OCO
+2024_4_SAI_8.0,distinctive_top6,2024_4,Japanese Grand Prix,SAI,SAI
+2024_4_TSU_17.0,distinctive_top6,2024_4,Japanese Grand Prix,TSU,TSU
+2024_4_VER_11.0,distinctive_top6,2024_4,Japanese Grand Prix,VER,VER
+2024_5_ALB_13.0,distinctive_top6,2024_5,Chinese Grand Prix,ALB,ALB
+2024_5_LEC_19.0,distinctive_top6,2024_5,Chinese Grand Prix,LEC,LEC
+2024_5_OCO_14.0,distinctive_top6,2024_5,Chinese Grand Prix,OCO,OCO
+2024_5_SAI_16.0,distinctive_top6,2024_5,Chinese Grand Prix,SAI,SAI
+2024_5_TSU_8.0,distinctive_top6,2024_5,Chinese Grand Prix,TSU,TSU
+2024_5_VER_17.0,distinctive_top6,2024_5,Chinese Grand Prix,VER,VER
+2024_6_ALB_8.0,distinctive_top6,2024_6,Miami Grand Prix,ALB,ALB
+2024_6_LEC_17.0,distinctive_top6,2024_6,Miami Grand Prix,LEC,LEC
+2024_6_OCO_8.0,distinctive_top6,2024_6,Miami Grand Prix,OCO,OCO
+2024_6_SAI_17.0,distinctive_top6,2024_6,Miami Grand Prix,SAI,SAI
+2024_6_TSU_14.0,distinctive_top6,2024_6,Miami Grand Prix,TSU,TSU
+2024_6_VER_14.0,distinctive_top6,2024_6,Miami Grand Prix,VER,VER
+2024_7_ALB_11.0,distinctive_top6,2024_7,Emilia Romagna Grand Prix,ALB,OCO
+2024_7_LEC_20.0,distinctive_top6,2024_7,Emilia Romagna Grand Prix,LEC,LEC
+2024_7_OCO_14.0,distinctive_top6,2024_7,Emilia Romagna Grand Prix,OCO,OCO
+2024_7_SAI_19.0,distinctive_top6,2024_7,Emilia Romagna Grand Prix,SAI,SAI
+2024_7_TSU_8.0,distinctive_top6,2024_7,Emilia Romagna Grand Prix,TSU,TSU
+2024_7_VER_17.0,distinctive_top6,2024_7,Emilia Romagna Grand Prix,VER,VER
+2024_8_ALB_28.0,distinctive_top6,2024_8,Monaco Grand Prix,ALB,ALB
+2024_8_LEC_25.0,distinctive_top6,2024_8,Monaco Grand Prix,LEC,SAI
+2024_8_OCO_15.0,distinctive_top6,2024_8,Monaco Grand Prix,OCO,OCO
+2024_8_SAI_27.0,distinctive_top6,2024_8,Monaco Grand Prix,SAI,SAI
+2024_8_TSU_24.0,distinctive_top6,2024_8,Monaco Grand Prix,TSU,VER
+2024_8_VER_24.0,distinctive_top6,2024_8,Monaco Grand Prix,VER,VER
+2024_10_ALB_5.0,distinctive_top6,2024_10,Spanish Grand Prix,ALB,ALB
+2024_10_LEC_8.0,distinctive_top6,2024_10,Spanish Grand Prix,LEC,LEC
+2024_10_OCO_11.0,distinctive_top6,2024_10,Spanish Grand Prix,OCO,OCO
+2024_10_SAI_5.0,distinctive_top6,2024_10,Spanish Grand Prix,SAI,SAI
+2024_10_TSU_8.0,distinctive_top6,2024_10,Spanish Grand Prix,TSU,TSU
+2024_10_VER_5.0,distinctive_top6,2024_10,Spanish Grand Prix,VER,VER
+2024_11_ALB_8.0,distinctive_top6,2024_11,Austrian Grand Prix,ALB,ALB
+2024_11_LEC_18.0,distinctive_top6,2024_11,Austrian Grand Prix,LEC,LEC
+2024_11_OCO_17.0,distinctive_top6,2024_11,Austrian Grand Prix,OCO,OCO
+2024_11_SAI_17.0,distinctive_top6,2024_11,Austrian Grand Prix,SAI,SAI
+2024_11_TSU_11.0,distinctive_top6,2024_11,Austrian Grand Prix,TSU,TSU
+2024_11_VER_17.0,distinctive_top6,2024_11,Austrian Grand Prix,VER,VER
+2024_15_ALB_17.0,distinctive_top6,2024_15,Dutch Grand Prix,ALB,ALB
+2024_15_LEC_23.0,distinctive_top6,2024_15,Dutch Grand Prix,LEC,LEC
+2024_15_OCO_8.0,distinctive_top6,2024_15,Dutch Grand Prix,OCO,OCO
+2024_15_SAI_17.0,distinctive_top6,2024_15,Dutch Grand Prix,SAI,SAI
+2024_15_TSU_14.0,distinctive_top6,2024_15,Dutch Grand Prix,TSU,TSU
+2024_15_VER_13.0,distinctive_top6,2024_15,Dutch Grand Prix,VER,VER
+2024_16_ALB_17.0,distinctive_top6,2024_16,Italian Grand Prix,ALB,ALB
+2024_16_LEC_20.0,distinctive_top6,2024_16,Italian Grand Prix,LEC,LEC
+2024_16_OCO_5.0,distinctive_top6,2024_16,Italian Grand Prix,OCO,ALB
+2024_16_SAI_17.0,distinctive_top6,2024_16,Italian Grand Prix,SAI,SAI
+2024_16_TSU_2.0,distinctive_top6,2024_16,Italian Grand Prix,TSU,TSU
+2024_16_VER_11.0,distinctive_top6,2024_16,Italian Grand Prix,VER,VER
+2024_17_ALB_13.0,distinctive_top6,2024_17,Azerbaijan Grand Prix,ALB,ALB
+2024_17_LEC_19.0,distinctive_top6,2024_17,Azerbaijan Grand Prix,LEC,LEC
+2024_17_OCO_5.0,distinctive_top6,2024_17,Azerbaijan Grand Prix,OCO,OCO
+2024_17_SAI_22.0,distinctive_top6,2024_17,Azerbaijan Grand Prix,SAI,SAI
+2024_17_TSU_15.0,distinctive_top6,2024_17,Azerbaijan Grand Prix,TSU,TSU
+2024_17_VER_19.0,distinctive_top6,2024_17,Azerbaijan Grand Prix,VER,VER
+2024_18_ALB_11.0,distinctive_top6,2024_18,Singapore Grand Prix,ALB,ALB
+2024_18_LEC_13.0,distinctive_top6,2024_18,Singapore Grand Prix,LEC,LEC
+2024_18_OCO_14.0,distinctive_top6,2024_18,Singapore Grand Prix,OCO,OCO
+2024_18_SAI_14.0,distinctive_top6,2024_18,Singapore Grand Prix,SAI,SAI
+2024_18_TSU_11.0,distinctive_top6,2024_18,Singapore Grand Prix,TSU,TSU
+2024_18_VER_11.0,distinctive_top6,2024_18,Singapore Grand Prix,VER,VER
+2024_19_ALB_7.0,distinctive_top6,2024_19,United States Grand Prix,ALB,ALB
+2024_19_LEC_17.0,distinctive_top6,2024_19,United States Grand Prix,LEC,LEC
+2024_19_OCO_14.0,distinctive_top6,2024_19,United States Grand Prix,OCO,OCO
+2024_19_SAI_16.0,distinctive_top6,2024_19,United States Grand Prix,SAI,SAI
+2024_19_TSU_13.0,distinctive_top6,2024_19,United States Grand Prix,TSU,TSU
+2024_19_VER_14.0,distinctive_top6,2024_19,United States Grand Prix,VER,VER
+2024_20_ALB_11.0,distinctive_top6,2024_20,Mexico City Grand Prix,ALB,SAI
+2024_20_LEC_20.0,distinctive_top6,2024_20,Mexico City Grand Prix,LEC,LEC
+2024_20_OCO_8.0,distinctive_top6,2024_20,Mexico City Grand Prix,OCO,OCO
+2024_20_SAI_20.0,distinctive_top6,2024_20,Mexico City Grand Prix,SAI,SAI
+2024_20_TSU_8.0,distinctive_top6,2024_20,Mexico City Grand Prix,TSU,TSU
+2024_20_VER_17.0,distinctive_top6,2024_20,Mexico City Grand Prix,VER,VER
+2024_22_ALB_5.0,distinctive_top6,2024_22,Las Vegas Grand Prix,ALB,SAI
+2024_22_LEC_22.0,distinctive_top6,2024_22,Las Vegas Grand Prix,LEC,LEC
+2024_22_OCO_17.0,distinctive_top6,2024_22,Las Vegas Grand Prix,OCO,OCO
+2024_22_SAI_23.0,distinctive_top6,2024_22,Las Vegas Grand Prix,SAI,SAI
+2024_22_TSU_24.0,distinctive_top6,2024_22,Las Vegas Grand Prix,TSU,TSU
+2024_22_VER_20.0,distinctive_top6,2024_22,Las Vegas Grand Prix,VER,TSU
+2024_23_ALB_8.0,distinctive_top6,2024_23,Qatar Grand Prix,ALB,ALB
+2024_23_LEC_25.0,distinctive_top6,2024_23,Qatar Grand Prix,LEC,LEC
+2024_23_OCO_9.0,distinctive_top6,2024_23,Qatar Grand Prix,OCO,OCO
+2024_23_SAI_25.0,distinctive_top6,2024_23,Qatar Grand Prix,SAI,SAI
+2024_23_TSU_15.0,distinctive_top6,2024_23,Qatar Grand Prix,TSU,TSU
+2024_23_VER_21.0,distinctive_top6,2024_23,Qatar Grand Prix,VER,VER
+2024_24_ALB_5.0,distinctive_top6,2024_24,Abu Dhabi Grand Prix,ALB,ALB
+2024_24_LEC_11.0,distinctive_top6,2024_24,Abu Dhabi Grand Prix,LEC,LEC
+2024_24_SAI_15.0,distinctive_top6,2024_24,Abu Dhabi Grand Prix,SAI,SAI
+2024_24_TSU_11.0,distinctive_top6,2024_24,Abu Dhabi Grand Prix,TSU,TSU
+2024_24_VER_11.0,distinctive_top6,2024_24,Abu Dhabi Grand Prix,VER,VER
+2025_1_ALB_20.0,distinctive_top6,2025_1,Australian Grand Prix,ALB,ALB
+2025_1_LEC_17.0,distinctive_top6,2025_1,Australian Grand Prix,LEC,LEC
+2025_1_OCO_5.0,distinctive_top6,2025_1,Australian Grand Prix,OCO,OCO
+2025_1_SAI_20.0,distinctive_top6,2025_1,Australian Grand Prix,SAI,SAI
+2025_1_TSU_17.0,distinctive_top6,2025_1,Australian Grand Prix,TSU,VER
+2025_1_VER_16.0,distinctive_top6,2025_1,Australian Grand Prix,VER,VER
+2025_2_ALB_7.0,distinctive_top6,2025_2,Chinese Grand Prix,ALB,SAI
+2025_2_LEC_20.0,distinctive_top6,2025_2,Chinese Grand Prix,LEC,LEC
+2025_2_OCO_14.0,distinctive_top6,2025_2,Chinese Grand Prix,OCO,OCO
+2025_2_SAI_8.0,distinctive_top6,2025_2,Chinese Grand Prix,SAI,OCO
+2025_2_TSU_7.0,distinctive_top6,2025_2,Chinese Grand Prix,TSU,OCO
+2025_2_VER_14.0,distinctive_top6,2025_2,Chinese Grand Prix,VER,VER
+2025_3_ALB_19.0,distinctive_top6,2025_3,Japanese Grand Prix,ALB,OCO
+2025_3_LEC_17.0,distinctive_top6,2025_3,Japanese Grand Prix,LEC,LEC
+2025_3_OCO_8.0,distinctive_top6,2025_3,Japanese Grand Prix,OCO,OCO
+2025_3_SAI_14.0,distinctive_top6,2025_3,Japanese Grand Prix,SAI,SAI
+2025_3_TSU_5.0,distinctive_top6,2025_3,Japanese Grand Prix,TSU,VER
+2025_3_VER_16.0,distinctive_top6,2025_3,Japanese Grand Prix,VER,VER
+2025_4_ALB_5.0,distinctive_top6,2025_4,Bahrain Grand Prix,ALB,ALB
+2025_4_LEC_15.0,distinctive_top6,2025_4,Bahrain Grand Prix,LEC,LEC
+2025_4_OCO_5.0,distinctive_top6,2025_4,Bahrain Grand Prix,OCO,OCO
+2025_4_SAI_18.0,distinctive_top6,2025_4,Bahrain Grand Prix,SAI,ALB
+2025_4_TSU_10.0,distinctive_top6,2025_4,Bahrain Grand Prix,TSU,TSU
+2025_4_VER_16.0,distinctive_top6,2025_4,Bahrain Grand Prix,VER,TSU
+2025_5_ALB_13.0,distinctive_top6,2025_5,Saudi Arabian Grand Prix,ALB,ALB
+2025_5_LEC_18.0,distinctive_top6,2025_5,Saudi Arabian Grand Prix,LEC,LEC
+2025_5_OCO_5.0,distinctive_top6,2025_5,Saudi Arabian Grand Prix,OCO,OCO
+2025_5_SAI_14.0,distinctive_top6,2025_5,Saudi Arabian Grand Prix,SAI,SAI
+2025_5_TSU_11.0,distinctive_top6,2025_5,Saudi Arabian Grand Prix,TSU,TSU
+2025_5_VER_18.0,distinctive_top6,2025_5,Saudi Arabian Grand Prix,VER,TSU
+2025_6_ALB_19.0,distinctive_top6,2025_6,Miami Grand Prix,ALB,SAI
+2025_6_LEC_19.0,distinctive_top6,2025_6,Miami Grand Prix,LEC,LEC
+2025_6_OCO_20.0,distinctive_top6,2025_6,Miami Grand Prix,OCO,OCO
+2025_6_SAI_19.0,distinctive_top6,2025_6,Miami Grand Prix,SAI,ALB
+2025_6_TSU_20.0,distinctive_top6,2025_6,Miami Grand Prix,TSU,TSU
+2025_6_VER_17.0,distinctive_top6,2025_6,Miami Grand Prix,VER,TSU
+2025_7_ALB_19.0,distinctive_top6,2025_7,Emilia Romagna Grand Prix,ALB,VER
+2025_7_LEC_10.0,distinctive_top6,2025_7,Emilia Romagna Grand Prix,LEC,OCO
+2025_7_OCO_2.0,distinctive_top6,2025_7,Emilia Romagna Grand Prix,OCO,OCO
+2025_7_SAI_14.0,distinctive_top6,2025_7,Emilia Romagna Grand Prix,SAI,SAI
+2025_7_VER_16.0,distinctive_top6,2025_7,Emilia Romagna Grand Prix,VER,VER
+2025_8_ALB_24.0,distinctive_top6,2025_8,Monaco Grand Prix,ALB,ALB
+2025_8_LEC_26.0,distinctive_top6,2025_8,Monaco Grand Prix,LEC,LEC
+2025_8_OCO_31.0,distinctive_top6,2025_8,Monaco Grand Prix,OCO,OCO
+2025_8_SAI_20.0,distinctive_top6,2025_8,Monaco Grand Prix,SAI,ALB
+2025_8_TSU_16.0,distinctive_top6,2025_8,Monaco Grand Prix,TSU,VER
+2025_8_VER_17.0,distinctive_top6,2025_8,Monaco Grand Prix,VER,VER
+2025_9_ALB_13.0,distinctive_top6,2025_9,Spanish Grand Prix,ALB,ALB
+2025_9_LEC_11.0,distinctive_top6,2025_9,Spanish Grand Prix,LEC,LEC
+2025_9_OCO_8.0,distinctive_top6,2025_9,Spanish Grand Prix,OCO,OCO
+2025_9_SAI_5.0,distinctive_top6,2025_9,Spanish Grand Prix,SAI,SAI
+2025_9_TSU_5.0,distinctive_top6,2025_9,Spanish Grand Prix,TSU,TSU
+2025_9_VER_11.0,distinctive_top6,2025_9,Spanish Grand Prix,VER,VER
+2025_10_ALB_21.0,distinctive_top6,2025_10,Canadian Grand Prix,ALB,ALB
+2025_10_LEC_17.0,distinctive_top6,2025_10,Canadian Grand Prix,LEC,SAI
+2025_10_OCO_12.0,distinctive_top6,2025_10,Canadian Grand Prix,OCO,OCO
+2025_10_SAI_12.0,distinctive_top6,2025_10,Canadian Grand Prix,SAI,SAI
+2025_10_TSU_14.0,distinctive_top6,2025_10,Canadian Grand Prix,TSU,TSU
+2025_10_VER_19.0,distinctive_top6,2025_10,Canadian Grand Prix,VER,VER
+2025_11_ALB_8.0,distinctive_top6,2025_11,Austrian Grand Prix,ALB,ALB
+2025_11_LEC_17.0,distinctive_top6,2025_11,Austrian Grand Prix,LEC,LEC
+2025_11_OCO_8.0,distinctive_top6,2025_11,Austrian Grand Prix,OCO,OCO
+2025_11_SAI_8.0,distinctive_top6,2025_11,Austrian Grand Prix,SAI,ALB
+2025_11_TSU_5.0,distinctive_top6,2025_11,Austrian Grand Prix,TSU,TSU
+2025_11_VER_11.0,distinctive_top6,2025_11,Austrian Grand Prix,VER,VER
+2025_12_ALB_9.0,distinctive_top6,2025_12,British Grand Prix,ALB,ALB
+2025_12_LEC_20.0,distinctive_top6,2025_12,British Grand Prix,LEC,LEC
+2025_12_OCO_8.0,distinctive_top6,2025_12,British Grand Prix,OCO,VER
+2025_12_SAI_11.0,distinctive_top6,2025_12,British Grand Prix,SAI,SAI
+2025_12_TSU_12.0,distinctive_top6,2025_12,British Grand Prix,TSU,TSU
+2025_12_VER_17.0,distinctive_top6,2025_12,British Grand Prix,VER,VER
+2025_13_ALB_19.0,distinctive_top6,2025_13,Belgian Grand Prix,ALB,SAI
+2025_13_LEC_17.0,distinctive_top6,2025_13,Belgian Grand Prix,LEC,LEC
+2025_13_OCO_13.0,distinctive_top6,2025_13,Belgian Grand Prix,OCO,SAI
+2025_13_SAI_4.0,distinctive_top6,2025_13,Belgian Grand Prix,SAI,SAI
+2025_13_TSU_8.0,distinctive_top6,2025_13,Belgian Grand Prix,TSU,VER
+2025_13_VER_14.0,distinctive_top6,2025_13,Belgian Grand Prix,VER,ALB
+2025_14_ALB_8.0,distinctive_top6,2025_14,Hungarian Grand Prix,ALB,ALB
+2025_14_LEC_17.0,distinctive_top6,2025_14,Hungarian Grand Prix,LEC,LEC
+2025_14_OCO_5.0,distinctive_top6,2025_14,Hungarian Grand Prix,OCO,SAI
+2025_14_SAI_8.0,distinctive_top6,2025_14,Hungarian Grand Prix,SAI,SAI
+2025_14_TSU_5.0,distinctive_top6,2025_14,Hungarian Grand Prix,TSU,VER
+2025_14_VER_11.0,distinctive_top6,2025_14,Hungarian Grand Prix,VER,VER
+2025_15_ALB_8.0,distinctive_top6,2025_15,Dutch Grand Prix,ALB,ALB
+2025_15_LEC_14.0,distinctive_top6,2025_15,Dutch Grand Prix,LEC,SAI
+2025_15_OCO_8.0,distinctive_top6,2025_15,Dutch Grand Prix,OCO,SAI
+2025_15_SAI_11.0,distinctive_top6,2025_15,Dutch Grand Prix,SAI,SAI
+2025_15_TSU_11.0,distinctive_top6,2025_15,Dutch Grand Prix,TSU,VER
+2025_15_VER_17.0,distinctive_top6,2025_15,Dutch Grand Prix,VER,VER
+2025_16_ALB_15.0,distinctive_top6,2025_16,Italian Grand Prix,ALB,ALB
+2025_16_LEC_16.0,distinctive_top6,2025_16,Italian Grand Prix,LEC,LEC
+2025_16_OCO_14.0,distinctive_top6,2025_16,Italian Grand Prix,OCO,OCO
+2025_16_SAI_18.0,distinctive_top6,2025_16,Italian Grand Prix,SAI,SAI
+2025_16_TSU_8.0,distinctive_top6,2025_16,Italian Grand Prix,TSU,TSU
+2025_16_VER_17.0,distinctive_top6,2025_16,Italian Grand Prix,VER,VER
+2025_18_ALB_13.0,distinctive_top6,2025_18,Singapore Grand Prix,ALB,ALB
+2025_18_LEC_18.0,distinctive_top6,2025_18,Singapore Grand Prix,LEC,LEC
+2025_18_OCO_2.0,distinctive_top6,2025_18,Singapore Grand Prix,OCO,ALB
+2025_18_SAI_10.0,distinctive_top6,2025_18,Singapore Grand Prix,SAI,ALB
+2025_18_TSU_8.0,distinctive_top6,2025_18,Singapore Grand Prix,TSU,TSU
+2025_18_VER_14.0,distinctive_top6,2025_18,Singapore Grand Prix,VER,VER
+2025_19_ALB_8.0,distinctive_top6,2025_19,United States Grand Prix,ALB,ALB
+2025_19_LEC_16.0,distinctive_top6,2025_19,United States Grand Prix,LEC,SAI
+2025_19_OCO_7.0,distinctive_top6,2025_19,United States Grand Prix,OCO,OCO
+2025_19_SAI_10.0,distinctive_top6,2025_19,United States Grand Prix,SAI,SAI
+2025_19_TSU_9.0,distinctive_top6,2025_19,United States Grand Prix,TSU,VER
+2025_19_VER_11.0,distinctive_top6,2025_19,United States Grand Prix,VER,VER
+2025_20_ALB_5.0,distinctive_top6,2025_20,Mexico City Grand Prix,ALB,ALB
+2025_20_LEC_19.0,distinctive_top6,2025_20,Mexico City Grand Prix,LEC,LEC
+2025_20_OCO_14.0,distinctive_top6,2025_20,Mexico City Grand Prix,OCO,OCO
+2025_20_SAI_17.0,distinctive_top6,2025_20,Mexico City Grand Prix,SAI,ALB
+2025_20_TSU_11.0,distinctive_top6,2025_20,Mexico City Grand Prix,TSU,TSU
+2025_20_VER_17.0,distinctive_top6,2025_20,Mexico City Grand Prix,VER,VER
+2025_21_ALB_14.0,distinctive_top6,2025_21,São Paulo Grand Prix,ALB,ALB
+2025_21_LEC_15.0,distinctive_top6,2025_21,São Paulo Grand Prix,LEC,ALB
+2025_21_OCO_8.0,distinctive_top6,2025_21,São Paulo Grand Prix,OCO,OCO
+2025_21_SAI_9.0,distinctive_top6,2025_21,São Paulo Grand Prix,SAI,SAI
+2025_21_TSU_8.0,distinctive_top6,2025_21,São Paulo Grand Prix,TSU,TSU
+2025_21_VER_8.0,distinctive_top6,2025_21,São Paulo Grand Prix,VER,ALB
+2025_23_ALB_10.0,distinctive_top6,2025_23,Qatar Grand Prix,ALB,VER
+2025_23_LEC_17.0,distinctive_top6,2025_23,Qatar Grand Prix,LEC,LEC
+2025_23_OCO_10.0,distinctive_top6,2025_23,Qatar Grand Prix,OCO,OCO
+2025_23_SAI_15.0,distinctive_top6,2025_23,Qatar Grand Prix,SAI,TSU
+2025_23_TSU_8.0,distinctive_top6,2025_23,Qatar Grand Prix,TSU,VER
+2025_23_VER_22.0,distinctive_top6,2025_23,Qatar Grand Prix,VER,VER
+2025_24_ALB_5.0,distinctive_top6,2025_24,Abu Dhabi Grand Prix,ALB,ALB
+2025_24_LEC_17.0,distinctive_top6,2025_24,Abu Dhabi Grand Prix,LEC,LEC
+2025_24_OCO_17.0,distinctive_top6,2025_24,Abu Dhabi Grand Prix,OCO,VER
+2025_24_SAI_11.0,distinctive_top6,2025_24,Abu Dhabi Grand Prix,SAI,SAI
+2025_24_TSU_11.0,distinctive_top6,2025_24,Abu Dhabi Grand Prix,TSU,TSU
+2025_24_VER_17.0,distinctive_top6,2025_24,Abu Dhabi Grand Prix,VER,VER
+2023_1_ALB_5.0,distinctive_top8,2023_1,Bahrain Grand Prix,ALB,ALB
+2023_1_ALO_14.0,distinctive_top8,2023_1,Bahrain Grand Prix,ALO,ALO
+2023_1_HAM_14.0,distinctive_top8,2023_1,Bahrain Grand Prix,HAM,HAM
+2023_1_LEC_16.0,distinctive_top8,2023_1,Bahrain Grand Prix,LEC,HAM
+2023_1_OCO_11.0,distinctive_top8,2023_1,Bahrain Grand Prix,OCO,OCO
+2023_1_SAI_17.0,distinctive_top8,2023_1,Bahrain Grand Prix,SAI,SAI
+2023_1_TSU_8.0,distinctive_top8,2023_1,Bahrain Grand Prix,TSU,TSU
+2023_1_VER_14.0,distinctive_top8,2023_1,Bahrain Grand Prix,VER,ALO
+2023_2_ALB_8.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,ALB,ALB
+2023_2_ALO_17.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,ALO,ALO
+2023_2_HAM_17.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,HAM,ALO
+2023_2_LEC_18.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,LEC,HAM
+2023_2_OCO_23.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,OCO,OCO
+2023_2_SAI_23.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,SAI,LEC
+2023_2_TSU_9.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,TSU,TSU
+2023_2_VER_2.0,distinctive_top8,2023_2,Saudi Arabian Grand Prix,VER,VER
+2023_4_ALB_18.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,ALB,ALO
+2023_4_ALO_22.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,ALO,ALO
+2023_4_HAM_20.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,HAM,HAM
+2023_4_LEC_20.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,LEC,LEC
+2023_4_OCO_18.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,OCO,OCO
+2023_4_SAI_20.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,SAI,SAI
+2023_4_TSU_16.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,TSU,TSU
+2023_4_VER_19.0,distinctive_top8,2023_4,Azerbaijan Grand Prix,VER,VER
+2023_5_ALB_11.0,distinctive_top8,2023_5,Miami Grand Prix,ALB,ALB
+2023_5_ALO_13.0,distinctive_top8,2023_5,Miami Grand Prix,ALO,ALO
+2023_5_HAM_8.0,distinctive_top8,2023_5,Miami Grand Prix,HAM,HAM
+2023_5_LEC_13.0,distinctive_top8,2023_5,Miami Grand Prix,LEC,LEC
+2023_5_OCO_14.0,distinctive_top8,2023_5,Miami Grand Prix,OCO,OCO
+2023_5_SAI_10.0,distinctive_top8,2023_5,Miami Grand Prix,SAI,SAI
+2023_5_TSU_9.0,distinctive_top8,2023_5,Miami Grand Prix,TSU,TSU
+2023_5_VER_11.0,distinctive_top8,2023_5,Miami Grand Prix,VER,VER
+2023_6_ALB_18.0,distinctive_top8,2023_6,Monaco Grand Prix,ALB,TSU
+2023_6_ALO_24.0,distinctive_top8,2023_6,Monaco Grand Prix,ALO,ALO
+2023_6_HAM_29.0,distinctive_top8,2023_6,Monaco Grand Prix,HAM,HAM
+2023_6_LEC_25.0,distinctive_top8,2023_6,Monaco Grand Prix,LEC,LEC
+2023_6_OCO_25.0,distinctive_top8,2023_6,Monaco Grand Prix,OCO,OCO
+2023_6_SAI_27.0,distinctive_top8,2023_6,Monaco Grand Prix,SAI,SAI
+2023_6_TSU_28.0,distinctive_top8,2023_6,Monaco Grand Prix,TSU,TSU
+2023_6_VER_29.0,distinctive_top8,2023_6,Monaco Grand Prix,VER,TSU
+2023_9_ALB_20.0,distinctive_top8,2023_9,Austrian Grand Prix,ALB,ALB
+2023_9_ALO_26.0,distinctive_top8,2023_9,Austrian Grand Prix,ALO,ALO
+2023_9_HAM_24.0,distinctive_top8,2023_9,Austrian Grand Prix,HAM,HAM
+2023_9_LEC_25.0,distinctive_top8,2023_9,Austrian Grand Prix,LEC,LEC
+2023_9_OCO_14.0,distinctive_top8,2023_9,Austrian Grand Prix,OCO,OCO
+2023_9_SAI_24.0,distinctive_top8,2023_9,Austrian Grand Prix,SAI,HAM
+2023_9_TSU_6.0,distinctive_top8,2023_9,Austrian Grand Prix,TSU,VER
+2023_9_VER_23.0,distinctive_top8,2023_9,Austrian Grand Prix,VER,VER
+2023_11_ALB_7.0,distinctive_top8,2023_11,Hungarian Grand Prix,ALB,ALB
+2023_11_ALO_20.0,distinctive_top8,2023_11,Hungarian Grand Prix,ALO,ALO
+2023_11_HAM_19.0,distinctive_top8,2023_11,Hungarian Grand Prix,HAM,HAM
+2023_11_LEC_20.0,distinctive_top8,2023_11,Hungarian Grand Prix,LEC,LEC
+2023_11_OCO_15.0,distinctive_top8,2023_11,Hungarian Grand Prix,OCO,OCO
+2023_11_SAI_14.0,distinctive_top8,2023_11,Hungarian Grand Prix,SAI,SAI
+2023_11_TSU_5.0,distinctive_top8,2023_11,Hungarian Grand Prix,TSU,TSU
+2023_11_VER_17.0,distinctive_top8,2023_11,Hungarian Grand Prix,VER,VER
+2023_14_ALB_20.0,distinctive_top8,2023_14,Italian Grand Prix,ALB,ALB
+2023_14_ALO_15.0,distinctive_top8,2023_14,Italian Grand Prix,ALO,ALB
+2023_14_HAM_20.0,distinctive_top8,2023_14,Italian Grand Prix,HAM,ALB
+2023_14_LEC_20.0,distinctive_top8,2023_14,Italian Grand Prix,LEC,SAI
+2023_14_OCO_7.0,distinctive_top8,2023_14,Italian Grand Prix,OCO,OCO
+2023_14_SAI_19.0,distinctive_top8,2023_14,Italian Grand Prix,SAI,SAI
+2023_14_TSU_14.0,distinctive_top8,2023_14,Italian Grand Prix,TSU,TSU
+2023_14_VER_20.0,distinctive_top8,2023_14,Italian Grand Prix,VER,VER
+2023_15_ALB_5.0,distinctive_top8,2023_15,Singapore Grand Prix,ALB,ALB
+2023_15_ALO_16.0,distinctive_top8,2023_15,Singapore Grand Prix,ALO,ALO
+2023_15_HAM_15.0,distinctive_top8,2023_15,Singapore Grand Prix,HAM,HAM
+2023_15_LEC_20.0,distinctive_top8,2023_15,Singapore Grand Prix,LEC,LEC
+2023_15_OCO_17.0,distinctive_top8,2023_15,Singapore Grand Prix,OCO,OCO
+2023_15_SAI_19.0,distinctive_top8,2023_15,Singapore Grand Prix,SAI,SAI
+2023_15_TSU_5.0,distinctive_top8,2023_15,Singapore Grand Prix,TSU,TSU
+2023_15_VER_10.0,distinctive_top8,2023_15,Singapore Grand Prix,VER,VER
+2023_16_ALB_11.0,distinctive_top8,2023_16,Japanese Grand Prix,ALB,ALB
+2023_16_ALO_11.0,distinctive_top8,2023_16,Japanese Grand Prix,ALO,ALO
+2023_16_HAM_17.0,distinctive_top8,2023_16,Japanese Grand Prix,HAM,HAM
+2023_16_LEC_13.0,distinctive_top8,2023_16,Japanese Grand Prix,LEC,LEC
+2023_16_OCO_11.0,distinctive_top8,2023_16,Japanese Grand Prix,OCO,OCO
+2023_16_SAI_13.0,distinctive_top8,2023_16,Japanese Grand Prix,SAI,SAI
+2023_16_TSU_11.0,distinctive_top8,2023_16,Japanese Grand Prix,TSU,TSU
+2023_16_VER_11.0,distinctive_top8,2023_16,Japanese Grand Prix,VER,VER
+2023_17_ALB_12.0,distinctive_top8,2023_17,Qatar Grand Prix,ALB,ALB
+2023_17_ALO_20.0,distinctive_top8,2023_17,Qatar Grand Prix,ALO,ALO
+2023_17_HAM_17.0,distinctive_top8,2023_17,Qatar Grand Prix,HAM,HAM
+2023_17_LEC_25.0,distinctive_top8,2023_17,Qatar Grand Prix,LEC,SAI
+2023_17_OCO_23.0,distinctive_top8,2023_17,Qatar Grand Prix,OCO,OCO
+2023_17_SAI_17.0,distinctive_top8,2023_17,Qatar Grand Prix,SAI,OCO
+2023_17_TSU_15.0,distinctive_top8,2023_17,Qatar Grand Prix,TSU,TSU
+2023_17_VER_16.0,distinctive_top8,2023_17,Qatar Grand Prix,VER,ALB
+2023_18_ALB_5.0,distinctive_top8,2023_18,United States Grand Prix,ALB,ALB
+2023_18_ALO_7.0,distinctive_top8,2023_18,United States Grand Prix,ALO,OCO
+2023_18_HAM_17.0,distinctive_top8,2023_18,United States Grand Prix,HAM,ALB
+2023_18_LEC_20.0,distinctive_top8,2023_18,United States Grand Prix,LEC,LEC
+2023_18_OCO_20.0,distinctive_top8,2023_18,United States Grand Prix,OCO,OCO
+2023_18_SAI_17.0,distinctive_top8,2023_18,United States Grand Prix,SAI,SAI
+2023_18_TSU_11.0,distinctive_top8,2023_18,United States Grand Prix,TSU,TSU
+2023_18_VER_17.0,distinctive_top8,2023_18,United States Grand Prix,VER,VER
+2023_19_ALB_11.0,distinctive_top8,2023_19,Mexico City Grand Prix,ALB,ALB
+2023_19_ALO_13.0,distinctive_top8,2023_19,Mexico City Grand Prix,ALO,ALB
+2023_19_HAM_17.0,distinctive_top8,2023_19,Mexico City Grand Prix,HAM,SAI
+2023_19_LEC_13.0,distinctive_top8,2023_19,Mexico City Grand Prix,LEC,LEC
+2023_19_OCO_2.0,distinctive_top8,2023_19,Mexico City Grand Prix,OCO,OCO
+2023_19_SAI_13.0,distinctive_top8,2023_19,Mexico City Grand Prix,SAI,LEC
+2023_19_TSU_2.0,distinctive_top8,2023_19,Mexico City Grand Prix,TSU,TSU
+2023_19_VER_14.0,distinctive_top8,2023_19,Mexico City Grand Prix,VER,VER
+2023_21_ALB_20.0,distinctive_top8,2023_21,Las Vegas Grand Prix,ALB,ALB
+2023_21_ALO_19.0,distinctive_top8,2023_21,Las Vegas Grand Prix,ALO,VER
+2023_21_HAM_11.0,distinctive_top8,2023_21,Las Vegas Grand Prix,HAM,HAM
+2023_21_LEC_22.0,distinctive_top8,2023_21,Las Vegas Grand Prix,LEC,HAM
+2023_21_OCO_7.0,distinctive_top8,2023_21,Las Vegas Grand Prix,OCO,OCO
+2023_21_SAI_22.0,distinctive_top8,2023_21,Las Vegas Grand Prix,SAI,SAI
+2023_21_TSU_3.0,distinctive_top8,2023_21,Las Vegas Grand Prix,TSU,TSU
+2023_21_VER_16.0,distinctive_top8,2023_21,Las Vegas Grand Prix,VER,VER
+2023_22_ALB_5.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,ALB,ALB
+2023_22_ALO_17.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,ALO,TSU
+2023_22_HAM_11.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,HAM,HAM
+2023_22_LEC_17.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,LEC,LEC
+2023_22_OCO_11.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,OCO,OCO
+2023_22_SAI_5.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,SAI,SAI
+2023_22_TSU_17.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,TSU,TSU
+2023_22_VER_11.0,distinctive_top8,2023_22,Abu Dhabi Grand Prix,VER,VER
+2024_1_ALB_11.0,distinctive_top8,2024_1,Bahrain Grand Prix,ALB,ALB
+2024_1_ALO_13.0,distinctive_top8,2024_1,Bahrain Grand Prix,ALO,ALO
+2024_1_HAM_17.0,distinctive_top8,2024_1,Bahrain Grand Prix,HAM,HAM
+2024_1_LEC_12.0,distinctive_top8,2024_1,Bahrain Grand Prix,LEC,LEC
+2024_1_OCO_8.0,distinctive_top8,2024_1,Bahrain Grand Prix,OCO,OCO
+2024_1_SAI_17.0,distinctive_top8,2024_1,Bahrain Grand Prix,SAI,SAI
+2024_1_TSU_11.0,distinctive_top8,2024_1,Bahrain Grand Prix,TSU,TSU
+2024_1_VER_16.0,distinctive_top8,2024_1,Bahrain Grand Prix,VER,VER
+2024_2_ALB_15.0,distinctive_top8,2024_2,Saudi Arabian Grand Prix,ALB,ALB
+2024_2_ALO_16.0,distinctive_top8,2024_2,Saudi Arabian Grand Prix,ALO,ALO
+2024_2_HAM_23.0,distinctive_top8,2024_2,Saudi Arabian Grand Prix,HAM,LEC
+2024_2_LEC_22.0,distinctive_top8,2024_2,Saudi Arabian Grand Prix,LEC,HAM
+2024_2_OCO_9.0,distinctive_top8,2024_2,Saudi Arabian Grand Prix,OCO,OCO
+2024_2_TSU_17.0,distinctive_top8,2024_2,Saudi Arabian Grand Prix,TSU,ALB
+2024_2_VER_14.0,distinctive_top8,2024_2,Saudi Arabian Grand Prix,VER,VER
+2024_4_ALB_8.0,distinctive_top8,2024_4,Japanese Grand Prix,ALB,ALB
+2024_4_ALO_11.0,distinctive_top8,2024_4,Japanese Grand Prix,ALO,ALO
+2024_4_HAM_11.0,distinctive_top8,2024_4,Japanese Grand Prix,HAM,HAM
+2024_4_LEC_11.0,distinctive_top8,2024_4,Japanese Grand Prix,LEC,LEC
+2024_4_OCO_5.0,distinctive_top8,2024_4,Japanese Grand Prix,OCO,OCO
+2024_4_SAI_8.0,distinctive_top8,2024_4,Japanese Grand Prix,SAI,SAI
+2024_4_TSU_17.0,distinctive_top8,2024_4,Japanese Grand Prix,TSU,TSU
+2024_4_VER_11.0,distinctive_top8,2024_4,Japanese Grand Prix,VER,VER
+2024_5_ALB_13.0,distinctive_top8,2024_5,Chinese Grand Prix,ALB,ALB
+2024_5_ALO_14.0,distinctive_top8,2024_5,Chinese Grand Prix,ALO,OCO
+2024_5_HAM_2.0,distinctive_top8,2024_5,Chinese Grand Prix,HAM,OCO
+2024_5_LEC_19.0,distinctive_top8,2024_5,Chinese Grand Prix,LEC,LEC
+2024_5_OCO_14.0,distinctive_top8,2024_5,Chinese Grand Prix,OCO,OCO
+2024_5_SAI_16.0,distinctive_top8,2024_5,Chinese Grand Prix,SAI,HAM
+2024_5_TSU_8.0,distinctive_top8,2024_5,Chinese Grand Prix,TSU,TSU
+2024_5_VER_17.0,distinctive_top8,2024_5,Chinese Grand Prix,VER,VER
+2024_6_ALB_8.0,distinctive_top8,2024_6,Miami Grand Prix,ALB,ALB
+2024_6_ALO_14.0,distinctive_top8,2024_6,Miami Grand Prix,ALO,ALO
+2024_6_HAM_14.0,distinctive_top8,2024_6,Miami Grand Prix,HAM,SAI
+2024_6_LEC_17.0,distinctive_top8,2024_6,Miami Grand Prix,LEC,SAI
+2024_6_OCO_8.0,distinctive_top8,2024_6,Miami Grand Prix,OCO,OCO
+2024_6_SAI_17.0,distinctive_top8,2024_6,Miami Grand Prix,SAI,SAI
+2024_6_TSU_14.0,distinctive_top8,2024_6,Miami Grand Prix,TSU,TSU
+2024_6_VER_14.0,distinctive_top8,2024_6,Miami Grand Prix,VER,VER
+2024_7_ALB_11.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,ALB,OCO
+2024_7_ALO_2.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,ALO,VER
+2024_7_HAM_19.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,HAM,SAI
+2024_7_LEC_20.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,LEC,LEC
+2024_7_OCO_14.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,OCO,OCO
+2024_7_SAI_19.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,SAI,SAI
+2024_7_TSU_8.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,TSU,TSU
+2024_7_VER_17.0,distinctive_top8,2024_7,Emilia Romagna Grand Prix,VER,VER
+2024_8_ALB_28.0,distinctive_top8,2024_8,Monaco Grand Prix,ALB,ALB
+2024_8_ALO_10.0,distinctive_top8,2024_8,Monaco Grand Prix,ALO,ALO
+2024_8_HAM_27.0,distinctive_top8,2024_8,Monaco Grand Prix,HAM,HAM
+2024_8_LEC_25.0,distinctive_top8,2024_8,Monaco Grand Prix,LEC,LEC
+2024_8_OCO_15.0,distinctive_top8,2024_8,Monaco Grand Prix,OCO,OCO
+2024_8_SAI_27.0,distinctive_top8,2024_8,Monaco Grand Prix,SAI,SAI
+2024_8_TSU_24.0,distinctive_top8,2024_8,Monaco Grand Prix,TSU,VER
+2024_8_VER_24.0,distinctive_top8,2024_8,Monaco Grand Prix,VER,VER
+2024_10_ALB_5.0,distinctive_top8,2024_10,Spanish Grand Prix,ALB,ALB
+2024_10_ALO_11.0,distinctive_top8,2024_10,Spanish Grand Prix,ALO,ALO
+2024_10_HAM_17.0,distinctive_top8,2024_10,Spanish Grand Prix,HAM,HAM
+2024_10_LEC_8.0,distinctive_top8,2024_10,Spanish Grand Prix,LEC,LEC
+2024_10_OCO_11.0,distinctive_top8,2024_10,Spanish Grand Prix,OCO,VER
+2024_10_SAI_5.0,distinctive_top8,2024_10,Spanish Grand Prix,SAI,VER
+2024_10_TSU_8.0,distinctive_top8,2024_10,Spanish Grand Prix,TSU,TSU
+2024_10_VER_5.0,distinctive_top8,2024_10,Spanish Grand Prix,VER,VER
+2024_11_ALB_8.0,distinctive_top8,2024_11,Austrian Grand Prix,ALB,OCO
+2024_11_ALO_11.0,distinctive_top8,2024_11,Austrian Grand Prix,ALO,ALO
+2024_11_HAM_17.0,distinctive_top8,2024_11,Austrian Grand Prix,HAM,HAM
+2024_11_LEC_18.0,distinctive_top8,2024_11,Austrian Grand Prix,LEC,LEC
+2024_11_OCO_17.0,distinctive_top8,2024_11,Austrian Grand Prix,OCO,OCO
+2024_11_SAI_17.0,distinctive_top8,2024_11,Austrian Grand Prix,SAI,SAI
+2024_11_TSU_11.0,distinctive_top8,2024_11,Austrian Grand Prix,TSU,TSU
+2024_11_VER_17.0,distinctive_top8,2024_11,Austrian Grand Prix,VER,ALO
+2024_15_ALB_17.0,distinctive_top8,2024_15,Dutch Grand Prix,ALB,ALB
+2024_15_ALO_15.0,distinctive_top8,2024_15,Dutch Grand Prix,ALO,TSU
+2024_15_HAM_12.0,distinctive_top8,2024_15,Dutch Grand Prix,HAM,HAM
+2024_15_LEC_23.0,distinctive_top8,2024_15,Dutch Grand Prix,LEC,LEC
+2024_15_OCO_8.0,distinctive_top8,2024_15,Dutch Grand Prix,OCO,OCO
+2024_15_SAI_17.0,distinctive_top8,2024_15,Dutch Grand Prix,SAI,SAI
+2024_15_TSU_14.0,distinctive_top8,2024_15,Dutch Grand Prix,TSU,TSU
+2024_15_VER_13.0,distinctive_top8,2024_15,Dutch Grand Prix,VER,VER
+2024_16_ALB_17.0,distinctive_top8,2024_16,Italian Grand Prix,ALB,ALB
+2024_16_ALO_10.0,distinctive_top8,2024_16,Italian Grand Prix,ALO,ALO
+2024_16_HAM_17.0,distinctive_top8,2024_16,Italian Grand Prix,HAM,TSU
+2024_16_LEC_20.0,distinctive_top8,2024_16,Italian Grand Prix,LEC,LEC
+2024_16_OCO_5.0,distinctive_top8,2024_16,Italian Grand Prix,OCO,ALB
+2024_16_SAI_17.0,distinctive_top8,2024_16,Italian Grand Prix,SAI,SAI
+2024_16_TSU_2.0,distinctive_top8,2024_16,Italian Grand Prix,TSU,TSU
+2024_16_VER_11.0,distinctive_top8,2024_16,Italian Grand Prix,VER,VER
+2024_17_ALB_13.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,ALB,ALB
+2024_17_ALO_18.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,ALO,ALO
+2024_17_HAM_21.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,HAM,VER
+2024_17_LEC_19.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,LEC,LEC
+2024_17_OCO_5.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,OCO,OCO
+2024_17_SAI_22.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,SAI,SAI
+2024_17_TSU_15.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,TSU,TSU
+2024_17_VER_19.0,distinctive_top8,2024_17,Azerbaijan Grand Prix,VER,VER
+2024_18_ALB_11.0,distinctive_top8,2024_18,Singapore Grand Prix,ALB,ALB
+2024_18_ALO_16.0,distinctive_top8,2024_18,Singapore Grand Prix,ALO,ALO
+2024_18_HAM_15.0,distinctive_top8,2024_18,Singapore Grand Prix,HAM,HAM
+2024_18_LEC_13.0,distinctive_top8,2024_18,Singapore Grand Prix,LEC,LEC
+2024_18_OCO_14.0,distinctive_top8,2024_18,Singapore Grand Prix,OCO,OCO
+2024_18_SAI_14.0,distinctive_top8,2024_18,Singapore Grand Prix,SAI,SAI
+2024_18_TSU_11.0,distinctive_top8,2024_18,Singapore Grand Prix,TSU,TSU
+2024_18_VER_11.0,distinctive_top8,2024_18,Singapore Grand Prix,VER,VER
+2024_19_ALB_7.0,distinctive_top8,2024_19,United States Grand Prix,ALB,ALB
+2024_19_ALO_17.0,distinctive_top8,2024_19,United States Grand Prix,ALO,ALO
+2024_19_HAM_5.0,distinctive_top8,2024_19,United States Grand Prix,HAM,HAM
+2024_19_LEC_17.0,distinctive_top8,2024_19,United States Grand Prix,LEC,LEC
+2024_19_OCO_14.0,distinctive_top8,2024_19,United States Grand Prix,OCO,OCO
+2024_19_SAI_16.0,distinctive_top8,2024_19,United States Grand Prix,SAI,HAM
+2024_19_TSU_13.0,distinctive_top8,2024_19,United States Grand Prix,TSU,TSU
+2024_19_VER_14.0,distinctive_top8,2024_19,United States Grand Prix,VER,VER
+2024_20_ALB_11.0,distinctive_top8,2024_20,Mexico City Grand Prix,ALB,SAI
+2024_20_ALO_10.0,distinctive_top8,2024_20,Mexico City Grand Prix,ALO,ALO
+2024_20_HAM_15.0,distinctive_top8,2024_20,Mexico City Grand Prix,HAM,HAM
+2024_20_LEC_20.0,distinctive_top8,2024_20,Mexico City Grand Prix,LEC,LEC
+2024_20_OCO_8.0,distinctive_top8,2024_20,Mexico City Grand Prix,OCO,OCO
+2024_20_SAI_20.0,distinctive_top8,2024_20,Mexico City Grand Prix,SAI,SAI
+2024_20_TSU_8.0,distinctive_top8,2024_20,Mexico City Grand Prix,TSU,TSU
+2024_20_VER_17.0,distinctive_top8,2024_20,Mexico City Grand Prix,VER,VER
+2024_22_ALB_5.0,distinctive_top8,2024_22,Las Vegas Grand Prix,ALB,ALB
+2024_22_ALO_5.0,distinctive_top8,2024_22,Las Vegas Grand Prix,ALO,ALO
+2024_22_HAM_17.0,distinctive_top8,2024_22,Las Vegas Grand Prix,HAM,HAM
+2024_22_LEC_22.0,distinctive_top8,2024_22,Las Vegas Grand Prix,LEC,LEC
+2024_22_OCO_17.0,distinctive_top8,2024_22,Las Vegas Grand Prix,OCO,ALO
+2024_22_SAI_23.0,distinctive_top8,2024_22,Las Vegas Grand Prix,SAI,SAI
+2024_22_TSU_24.0,distinctive_top8,2024_22,Las Vegas Grand Prix,TSU,TSU
+2024_22_VER_20.0,distinctive_top8,2024_22,Las Vegas Grand Prix,VER,TSU
+2024_23_ALB_8.0,distinctive_top8,2024_23,Qatar Grand Prix,ALB,ALB
+2024_23_ALO_12.0,distinctive_top8,2024_23,Qatar Grand Prix,ALO,ALO
+2024_23_HAM_22.0,distinctive_top8,2024_23,Qatar Grand Prix,HAM,LEC
+2024_23_LEC_25.0,distinctive_top8,2024_23,Qatar Grand Prix,LEC,LEC
+2024_23_OCO_9.0,distinctive_top8,2024_23,Qatar Grand Prix,OCO,OCO
+2024_23_SAI_25.0,distinctive_top8,2024_23,Qatar Grand Prix,SAI,SAI
+2024_23_TSU_15.0,distinctive_top8,2024_23,Qatar Grand Prix,TSU,TSU
+2024_23_VER_21.0,distinctive_top8,2024_23,Qatar Grand Prix,VER,VER
+2024_24_ALB_5.0,distinctive_top8,2024_24,Abu Dhabi Grand Prix,ALB,ALB
+2024_24_ALO_18.0,distinctive_top8,2024_24,Abu Dhabi Grand Prix,ALO,ALO
+2024_24_HAM_3.0,distinctive_top8,2024_24,Abu Dhabi Grand Prix,HAM,HAM
+2024_24_LEC_11.0,distinctive_top8,2024_24,Abu Dhabi Grand Prix,LEC,LEC
+2024_24_SAI_15.0,distinctive_top8,2024_24,Abu Dhabi Grand Prix,SAI,SAI
+2024_24_TSU_11.0,distinctive_top8,2024_24,Abu Dhabi Grand Prix,TSU,TSU
+2024_24_VER_11.0,distinctive_top8,2024_24,Abu Dhabi Grand Prix,VER,VER
+2025_1_ALB_20.0,distinctive_top8,2025_1,Australian Grand Prix,ALB,ALB
+2025_1_ALO_5.0,distinctive_top8,2025_1,Australian Grand Prix,ALO,TSU
+2025_1_HAM_14.0,distinctive_top8,2025_1,Australian Grand Prix,HAM,HAM
+2025_1_LEC_17.0,distinctive_top8,2025_1,Australian Grand Prix,LEC,LEC
+2025_1_OCO_5.0,distinctive_top8,2025_1,Australian Grand Prix,OCO,OCO
+2025_1_SAI_20.0,distinctive_top8,2025_1,Australian Grand Prix,SAI,SAI
+2025_1_TSU_17.0,distinctive_top8,2025_1,Australian Grand Prix,TSU,VER
+2025_1_VER_16.0,distinctive_top8,2025_1,Australian Grand Prix,VER,VER
+2025_2_ALB_7.0,distinctive_top8,2025_2,Chinese Grand Prix,ALB,SAI
+2025_2_ALO_14.0,distinctive_top8,2025_2,Chinese Grand Prix,ALO,ALO
+2025_2_HAM_17.0,distinctive_top8,2025_2,Chinese Grand Prix,HAM,HAM
+2025_2_LEC_20.0,distinctive_top8,2025_2,Chinese Grand Prix,LEC,LEC
+2025_2_OCO_14.0,distinctive_top8,2025_2,Chinese Grand Prix,OCO,OCO
+2025_2_SAI_8.0,distinctive_top8,2025_2,Chinese Grand Prix,SAI,OCO
+2025_2_TSU_7.0,distinctive_top8,2025_2,Chinese Grand Prix,TSU,OCO
+2025_2_VER_14.0,distinctive_top8,2025_2,Chinese Grand Prix,VER,VER
+2025_3_ALB_19.0,distinctive_top8,2025_3,Japanese Grand Prix,ALB,OCO
+2025_3_ALO_11.0,distinctive_top8,2025_3,Japanese Grand Prix,ALO,ALO
+2025_3_HAM_14.0,distinctive_top8,2025_3,Japanese Grand Prix,HAM,HAM
+2025_3_LEC_17.0,distinctive_top8,2025_3,Japanese Grand Prix,LEC,LEC
+2025_3_OCO_8.0,distinctive_top8,2025_3,Japanese Grand Prix,OCO,OCO
+2025_3_SAI_14.0,distinctive_top8,2025_3,Japanese Grand Prix,SAI,SAI
+2025_3_TSU_5.0,distinctive_top8,2025_3,Japanese Grand Prix,TSU,LEC
+2025_3_VER_16.0,distinctive_top8,2025_3,Japanese Grand Prix,VER,VER
+2025_4_ALB_5.0,distinctive_top8,2025_4,Bahrain Grand Prix,ALB,ALB
+2025_4_ALO_8.0,distinctive_top8,2025_4,Bahrain Grand Prix,ALO,ALO
+2025_4_HAM_17.0,distinctive_top8,2025_4,Bahrain Grand Prix,HAM,HAM
+2025_4_LEC_15.0,distinctive_top8,2025_4,Bahrain Grand Prix,LEC,LEC
+2025_4_OCO_5.0,distinctive_top8,2025_4,Bahrain Grand Prix,OCO,OCO
+2025_4_SAI_18.0,distinctive_top8,2025_4,Bahrain Grand Prix,SAI,ALB
+2025_4_TSU_10.0,distinctive_top8,2025_4,Bahrain Grand Prix,TSU,TSU
+2025_4_VER_16.0,distinctive_top8,2025_4,Bahrain Grand Prix,VER,TSU
+2025_5_ALB_13.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,ALB,ALB
+2025_5_ALO_13.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,ALO,ALO
+2025_5_HAM_14.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,HAM,HAM
+2025_5_LEC_18.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,LEC,LEC
+2025_5_OCO_5.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,OCO,OCO
+2025_5_SAI_14.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,SAI,SAI
+2025_5_TSU_11.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,TSU,TSU
+2025_5_VER_18.0,distinctive_top8,2025_5,Saudi Arabian Grand Prix,VER,TSU
+2025_6_ALB_19.0,distinctive_top8,2025_6,Miami Grand Prix,ALB,SAI
+2025_6_ALO_8.0,distinctive_top8,2025_6,Miami Grand Prix,ALO,ALO
+2025_6_HAM_11.0,distinctive_top8,2025_6,Miami Grand Prix,HAM,SAI
+2025_6_LEC_19.0,distinctive_top8,2025_6,Miami Grand Prix,LEC,SAI
+2025_6_OCO_20.0,distinctive_top8,2025_6,Miami Grand Prix,OCO,OCO
+2025_6_SAI_19.0,distinctive_top8,2025_6,Miami Grand Prix,SAI,HAM
+2025_6_TSU_20.0,distinctive_top8,2025_6,Miami Grand Prix,TSU,TSU
+2025_6_VER_17.0,distinctive_top8,2025_6,Miami Grand Prix,VER,TSU
+2025_7_ALB_19.0,distinctive_top8,2025_7,Emilia Romagna Grand Prix,ALB,VER
+2025_7_ALO_18.0,distinctive_top8,2025_7,Emilia Romagna Grand Prix,ALO,ALO
+2025_7_HAM_10.0,distinctive_top8,2025_7,Emilia Romagna Grand Prix,HAM,OCO
+2025_7_LEC_10.0,distinctive_top8,2025_7,Emilia Romagna Grand Prix,LEC,OCO
+2025_7_OCO_2.0,distinctive_top8,2025_7,Emilia Romagna Grand Prix,OCO,OCO
+2025_7_SAI_14.0,distinctive_top8,2025_7,Emilia Romagna Grand Prix,SAI,SAI
+2025_7_VER_16.0,distinctive_top8,2025_7,Emilia Romagna Grand Prix,VER,VER
+2025_8_ALB_24.0,distinctive_top8,2025_8,Monaco Grand Prix,ALB,ALB
+2025_8_ALO_29.0,distinctive_top8,2025_8,Monaco Grand Prix,ALO,ALO
+2025_8_HAM_27.0,distinctive_top8,2025_8,Monaco Grand Prix,HAM,HAM
+2025_8_LEC_26.0,distinctive_top8,2025_8,Monaco Grand Prix,LEC,LEC
+2025_8_OCO_31.0,distinctive_top8,2025_8,Monaco Grand Prix,OCO,OCO
+2025_8_SAI_20.0,distinctive_top8,2025_8,Monaco Grand Prix,SAI,ALB
+2025_8_TSU_16.0,distinctive_top8,2025_8,Monaco Grand Prix,TSU,VER
+2025_8_VER_17.0,distinctive_top8,2025_8,Monaco Grand Prix,VER,VER
+2025_9_ALB_13.0,distinctive_top8,2025_9,Spanish Grand Prix,ALB,ALB
+2025_9_ALO_13.0,distinctive_top8,2025_9,Spanish Grand Prix,ALO,ALO
+2025_9_HAM_14.0,distinctive_top8,2025_9,Spanish Grand Prix,HAM,HAM
+2025_9_LEC_11.0,distinctive_top8,2025_9,Spanish Grand Prix,LEC,HAM
+2025_9_OCO_8.0,distinctive_top8,2025_9,Spanish Grand Prix,OCO,OCO
+2025_9_SAI_5.0,distinctive_top8,2025_9,Spanish Grand Prix,SAI,SAI
+2025_9_TSU_5.0,distinctive_top8,2025_9,Spanish Grand Prix,TSU,TSU
+2025_9_VER_11.0,distinctive_top8,2025_9,Spanish Grand Prix,VER,VER
+2025_10_ALB_21.0,distinctive_top8,2025_10,Canadian Grand Prix,ALB,ALB
+2025_10_ALO_24.0,distinctive_top8,2025_10,Canadian Grand Prix,ALO,LEC
+2025_10_HAM_25.0,distinctive_top8,2025_10,Canadian Grand Prix,HAM,HAM
+2025_10_LEC_17.0,distinctive_top8,2025_10,Canadian Grand Prix,LEC,SAI
+2025_10_OCO_12.0,distinctive_top8,2025_10,Canadian Grand Prix,OCO,OCO
+2025_10_SAI_12.0,distinctive_top8,2025_10,Canadian Grand Prix,SAI,SAI
+2025_10_TSU_14.0,distinctive_top8,2025_10,Canadian Grand Prix,TSU,TSU
+2025_10_VER_19.0,distinctive_top8,2025_10,Canadian Grand Prix,VER,VER
+2025_11_ALB_8.0,distinctive_top8,2025_11,Austrian Grand Prix,ALB,ALB
+2025_11_ALO_13.0,distinctive_top8,2025_11,Austrian Grand Prix,ALO,VER
+2025_11_HAM_17.0,distinctive_top8,2025_11,Austrian Grand Prix,HAM,HAM
+2025_11_LEC_17.0,distinctive_top8,2025_11,Austrian Grand Prix,LEC,LEC
+2025_11_OCO_8.0,distinctive_top8,2025_11,Austrian Grand Prix,OCO,OCO
+2025_11_SAI_8.0,distinctive_top8,2025_11,Austrian Grand Prix,SAI,ALB
+2025_11_TSU_5.0,distinctive_top8,2025_11,Austrian Grand Prix,TSU,TSU
+2025_11_VER_11.0,distinctive_top8,2025_11,Austrian Grand Prix,VER,VER
+2025_12_ALB_9.0,distinctive_top8,2025_12,British Grand Prix,ALB,ALB
+2025_12_ALO_8.0,distinctive_top8,2025_12,British Grand Prix,ALO,ALO
+2025_12_HAM_12.0,distinctive_top8,2025_12,British Grand Prix,HAM,HAM
+2025_12_LEC_20.0,distinctive_top8,2025_12,British Grand Prix,LEC,HAM
+2025_12_OCO_8.0,distinctive_top8,2025_12,British Grand Prix,OCO,OCO
+2025_12_SAI_11.0,distinctive_top8,2025_12,British Grand Prix,SAI,SAI
+2025_12_TSU_12.0,distinctive_top8,2025_12,British Grand Prix,TSU,TSU
+2025_12_VER_17.0,distinctive_top8,2025_12,British Grand Prix,VER,VER
+2025_13_ALB_19.0,distinctive_top8,2025_13,Belgian Grand Prix,ALB,SAI
+2025_13_ALO_7.0,distinctive_top8,2025_13,Belgian Grand Prix,ALO,ALO
+2025_13_HAM_7.0,distinctive_top8,2025_13,Belgian Grand Prix,HAM,HAM
+2025_13_LEC_17.0,distinctive_top8,2025_13,Belgian Grand Prix,LEC,LEC
+2025_13_OCO_13.0,distinctive_top8,2025_13,Belgian Grand Prix,OCO,SAI
+2025_13_SAI_4.0,distinctive_top8,2025_13,Belgian Grand Prix,SAI,SAI
+2025_13_TSU_8.0,distinctive_top8,2025_13,Belgian Grand Prix,TSU,VER
+2025_13_VER_14.0,distinctive_top8,2025_13,Belgian Grand Prix,VER,ALB
+2025_14_ALB_8.0,distinctive_top8,2025_14,Hungarian Grand Prix,ALB,ALB
+2025_14_ALO_5.0,distinctive_top8,2025_14,Hungarian Grand Prix,ALO,ALO
+2025_14_HAM_11.0,distinctive_top8,2025_14,Hungarian Grand Prix,HAM,SAI
+2025_14_LEC_17.0,distinctive_top8,2025_14,Hungarian Grand Prix,LEC,LEC
+2025_14_OCO_5.0,distinctive_top8,2025_14,Hungarian Grand Prix,OCO,SAI
+2025_14_SAI_8.0,distinctive_top8,2025_14,Hungarian Grand Prix,SAI,SAI
+2025_14_TSU_5.0,distinctive_top8,2025_14,Hungarian Grand Prix,TSU,TSU
+2025_14_VER_11.0,distinctive_top8,2025_14,Hungarian Grand Prix,VER,VER
+2025_15_ALB_8.0,distinctive_top8,2025_15,Dutch Grand Prix,ALB,ALB
+2025_15_ALO_10.0,distinctive_top8,2025_15,Dutch Grand Prix,ALO,ALO
+2025_15_HAM_13.0,distinctive_top8,2025_15,Dutch Grand Prix,HAM,SAI
+2025_15_LEC_14.0,distinctive_top8,2025_15,Dutch Grand Prix,LEC,SAI
+2025_15_OCO_8.0,distinctive_top8,2025_15,Dutch Grand Prix,OCO,SAI
+2025_15_SAI_11.0,distinctive_top8,2025_15,Dutch Grand Prix,SAI,SAI
+2025_15_TSU_11.0,distinctive_top8,2025_15,Dutch Grand Prix,TSU,VER
+2025_15_VER_17.0,distinctive_top8,2025_15,Dutch Grand Prix,VER,VER
+2025_16_ALB_15.0,distinctive_top8,2025_16,Italian Grand Prix,ALB,ALB
+2025_16_ALO_13.0,distinctive_top8,2025_16,Italian Grand Prix,ALO,ALO
+2025_16_HAM_16.0,distinctive_top8,2025_16,Italian Grand Prix,HAM,HAM
+2025_16_LEC_16.0,distinctive_top8,2025_16,Italian Grand Prix,LEC,LEC
+2025_16_OCO_14.0,distinctive_top8,2025_16,Italian Grand Prix,OCO,LEC
+2025_16_SAI_18.0,distinctive_top8,2025_16,Italian Grand Prix,SAI,SAI
+2025_16_TSU_8.0,distinctive_top8,2025_16,Italian Grand Prix,TSU,TSU
+2025_16_VER_17.0,distinctive_top8,2025_16,Italian Grand Prix,VER,VER
+2025_18_ALB_13.0,distinctive_top8,2025_18,Singapore Grand Prix,ALB,ALB
+2025_18_ALO_17.0,distinctive_top8,2025_18,Singapore Grand Prix,ALO,ALO
+2025_18_HAM_19.0,distinctive_top8,2025_18,Singapore Grand Prix,HAM,HAM
+2025_18_LEC_18.0,distinctive_top8,2025_18,Singapore Grand Prix,LEC,LEC
+2025_18_OCO_2.0,distinctive_top8,2025_18,Singapore Grand Prix,OCO,ALB
+2025_18_SAI_10.0,distinctive_top8,2025_18,Singapore Grand Prix,SAI,ALB
+2025_18_TSU_8.0,distinctive_top8,2025_18,Singapore Grand Prix,TSU,TSU
+2025_18_VER_14.0,distinctive_top8,2025_18,Singapore Grand Prix,VER,VER
+2025_19_ALB_8.0,distinctive_top8,2025_19,United States Grand Prix,ALB,ALB
+2025_19_ALO_17.0,distinctive_top8,2025_19,United States Grand Prix,ALO,ALO
+2025_19_HAM_17.0,distinctive_top8,2025_19,United States Grand Prix,HAM,HAM
+2025_19_LEC_16.0,distinctive_top8,2025_19,United States Grand Prix,LEC,OCO
+2025_19_OCO_7.0,distinctive_top8,2025_19,United States Grand Prix,OCO,OCO
+2025_19_SAI_10.0,distinctive_top8,2025_19,United States Grand Prix,SAI,SAI
+2025_19_TSU_9.0,distinctive_top8,2025_19,United States Grand Prix,TSU,VER
+2025_19_VER_11.0,distinctive_top8,2025_19,United States Grand Prix,VER,VER
+2025_20_ALB_5.0,distinctive_top8,2025_20,Mexico City Grand Prix,ALB,ALB
+2025_20_ALO_14.0,distinctive_top8,2025_20,Mexico City Grand Prix,ALO,ALO
+2025_20_HAM_20.0,distinctive_top8,2025_20,Mexico City Grand Prix,HAM,HAM
+2025_20_LEC_19.0,distinctive_top8,2025_20,Mexico City Grand Prix,LEC,LEC
+2025_20_OCO_14.0,distinctive_top8,2025_20,Mexico City Grand Prix,OCO,OCO
+2025_20_SAI_17.0,distinctive_top8,2025_20,Mexico City Grand Prix,SAI,ALB
+2025_20_TSU_11.0,distinctive_top8,2025_20,Mexico City Grand Prix,TSU,TSU
+2025_20_VER_17.0,distinctive_top8,2025_20,Mexico City Grand Prix,VER,VER
+2025_21_ALB_14.0,distinctive_top8,2025_21,São Paulo Grand Prix,ALB,ALB
+2025_21_ALO_11.0,distinctive_top8,2025_21,São Paulo Grand Prix,ALO,ALO
+2025_21_HAM_8.0,distinctive_top8,2025_21,São Paulo Grand Prix,HAM,LEC
+2025_21_LEC_15.0,distinctive_top8,2025_21,São Paulo Grand Prix,LEC,LEC
+2025_21_OCO_8.0,distinctive_top8,2025_21,São Paulo Grand Prix,OCO,OCO
+2025_21_SAI_9.0,distinctive_top8,2025_21,São Paulo Grand Prix,SAI,SAI
+2025_21_TSU_8.0,distinctive_top8,2025_21,São Paulo Grand Prix,TSU,TSU
+2025_21_VER_8.0,distinctive_top8,2025_21,São Paulo Grand Prix,VER,ALB
+2025_23_ALB_10.0,distinctive_top8,2025_23,Qatar Grand Prix,ALB,VER
+2025_23_ALO_14.0,distinctive_top8,2025_23,Qatar Grand Prix,ALO,ALO
+2025_23_HAM_8.0,distinctive_top8,2025_23,Qatar Grand Prix,HAM,LEC
+2025_23_LEC_17.0,distinctive_top8,2025_23,Qatar Grand Prix,LEC,HAM
+2025_23_OCO_10.0,distinctive_top8,2025_23,Qatar Grand Prix,OCO,OCO
+2025_23_SAI_15.0,distinctive_top8,2025_23,Qatar Grand Prix,SAI,VER
+2025_23_TSU_8.0,distinctive_top8,2025_23,Qatar Grand Prix,TSU,VER
+2025_23_VER_22.0,distinctive_top8,2025_23,Qatar Grand Prix,VER,VER
+2025_24_ALB_5.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,ALB,LEC
+2025_24_ALO_11.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,ALO,HAM
+2025_24_HAM_5.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,HAM,LEC
+2025_24_LEC_17.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,LEC,LEC
+2025_24_OCO_17.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,OCO,VER
+2025_24_SAI_11.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,SAI,SAI
+2025_24_TSU_11.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,TSU,TSU
+2025_24_VER_17.0,distinctive_top8,2025_24,Abu Dhabi Grand Prix,VER,VER
+2023_1_GAS_5.0,confusion_union_top3_pairs,2023_1,Bahrain Grand Prix,GAS,GAS
+2023_1_HUL_13.0,confusion_union_top3_pairs,2023_1,Bahrain Grand Prix,HUL,RUS
+2023_1_NOR_12.0,confusion_union_top3_pairs,2023_1,Bahrain Grand Prix,NOR,RUS
+2023_1_PIA_6.0,confusion_union_top3_pairs,2023_1,Bahrain Grand Prix,PIA,NOR
+2023_1_RUS_14.0,confusion_union_top3_pairs,2023_1,Bahrain Grand Prix,RUS,RUS
+2023_1_TSU_8.0,confusion_union_top3_pairs,2023_1,Bahrain Grand Prix,TSU,TSU
+2023_2_GAS_22.0,confusion_union_top3_pairs,2023_2,Saudi Arabian Grand Prix,GAS,NOR
+2023_2_HUL_17.0,confusion_union_top3_pairs,2023_2,Saudi Arabian Grand Prix,HUL,GAS
+2023_2_NOR_2.0,confusion_union_top3_pairs,2023_2,Saudi Arabian Grand Prix,NOR,TSU
+2023_2_PIA_22.0,confusion_union_top3_pairs,2023_2,Saudi Arabian Grand Prix,PIA,TSU
+2023_2_RUS_20.0,confusion_union_top3_pairs,2023_2,Saudi Arabian Grand Prix,RUS,RUS
+2023_2_TSU_9.0,confusion_union_top3_pairs,2023_2,Saudi Arabian Grand Prix,TSU,NOR
+2023_4_GAS_2.0,confusion_union_top3_pairs,2023_4,Azerbaijan Grand Prix,GAS,NOR
+2023_4_HUL_9.0,confusion_union_top3_pairs,2023_4,Azerbaijan Grand Prix,HUL,HUL
+2023_4_NOR_19.0,confusion_union_top3_pairs,2023_4,Azerbaijan Grand Prix,NOR,PIA
+2023_4_PIA_23.0,confusion_union_top3_pairs,2023_4,Azerbaijan Grand Prix,PIA,PIA
+2023_4_RUS_16.0,confusion_union_top3_pairs,2023_4,Azerbaijan Grand Prix,RUS,RUS
+2023_4_TSU_16.0,confusion_union_top3_pairs,2023_4,Azerbaijan Grand Prix,TSU,TSU
+2023_5_GAS_14.0,confusion_union_top3_pairs,2023_5,Miami Grand Prix,GAS,PIA
+2023_5_HUL_12.0,confusion_union_top3_pairs,2023_5,Miami Grand Prix,HUL,HUL
+2023_5_NOR_7.0,confusion_union_top3_pairs,2023_5,Miami Grand Prix,NOR,PIA
+2023_5_PIA_8.0,confusion_union_top3_pairs,2023_5,Miami Grand Prix,PIA,PIA
+2023_5_RUS_14.0,confusion_union_top3_pairs,2023_5,Miami Grand Prix,RUS,RUS
+2023_5_TSU_9.0,confusion_union_top3_pairs,2023_5,Miami Grand Prix,TSU,NOR
+2023_6_GAS_24.0,confusion_union_top3_pairs,2023_6,Monaco Grand Prix,GAS,TSU
+2023_6_HUL_6.0,confusion_union_top3_pairs,2023_6,Monaco Grand Prix,HUL,RUS
+2023_6_NOR_21.0,confusion_union_top3_pairs,2023_6,Monaco Grand Prix,NOR,NOR
+2023_6_PIA_14.0,confusion_union_top3_pairs,2023_6,Monaco Grand Prix,PIA,RUS
+2023_6_RUS_25.0,confusion_union_top3_pairs,2023_6,Monaco Grand Prix,RUS,RUS
+2023_6_TSU_28.0,confusion_union_top3_pairs,2023_6,Monaco Grand Prix,TSU,TSU
+2023_9_GAS_14.0,confusion_union_top3_pairs,2023_9,Austrian Grand Prix,GAS,TSU
+2023_9_HUL_23.0,confusion_union_top3_pairs,2023_9,Austrian Grand Prix,HUL,HUL
+2023_9_NOR_22.0,confusion_union_top3_pairs,2023_9,Austrian Grand Prix,NOR,NOR
+2023_9_PIA_18.0,confusion_union_top3_pairs,2023_9,Austrian Grand Prix,PIA,PIA
+2023_9_RUS_17.0,confusion_union_top3_pairs,2023_9,Austrian Grand Prix,RUS,RUS
+2023_9_TSU_6.0,confusion_union_top3_pairs,2023_9,Austrian Grand Prix,TSU,TSU
+2023_11_GAS_15.0,confusion_union_top3_pairs,2023_11,Hungarian Grand Prix,GAS,GAS
+2023_11_HUL_19.0,confusion_union_top3_pairs,2023_11,Hungarian Grand Prix,HUL,HUL
+2023_11_NOR_19.0,confusion_union_top3_pairs,2023_11,Hungarian Grand Prix,NOR,NOR
+2023_11_PIA_19.0,confusion_union_top3_pairs,2023_11,Hungarian Grand Prix,PIA,NOR
+2023_11_RUS_8.0,confusion_union_top3_pairs,2023_11,Hungarian Grand Prix,RUS,RUS
+2023_11_TSU_5.0,confusion_union_top3_pairs,2023_11,Hungarian Grand Prix,TSU,TSU
+2023_14_GAS_6.0,confusion_union_top3_pairs,2023_14,Italian Grand Prix,GAS,GAS
+2023_14_HUL_12.0,confusion_union_top3_pairs,2023_14,Italian Grand Prix,HUL,RUS
+2023_14_NOR_19.0,confusion_union_top3_pairs,2023_14,Italian Grand Prix,NOR,PIA
+2023_14_PIA_23.0,confusion_union_top3_pairs,2023_14,Italian Grand Prix,PIA,PIA
+2023_14_RUS_20.0,confusion_union_top3_pairs,2023_14,Italian Grand Prix,RUS,RUS
+2023_14_TSU_14.0,confusion_union_top3_pairs,2023_14,Italian Grand Prix,TSU,TSU
+2023_15_GAS_8.0,confusion_union_top3_pairs,2023_15,Singapore Grand Prix,GAS,GAS
+2023_15_HUL_20.0,confusion_union_top3_pairs,2023_15,Singapore Grand Prix,HUL,HUL
+2023_15_NOR_19.0,confusion_union_top3_pairs,2023_15,Singapore Grand Prix,NOR,NOR
+2023_15_PIA_2.0,confusion_union_top3_pairs,2023_15,Singapore Grand Prix,PIA,RUS
+2023_15_RUS_16.0,confusion_union_top3_pairs,2023_15,Singapore Grand Prix,RUS,RUS
+2023_15_TSU_5.0,confusion_union_top3_pairs,2023_15,Singapore Grand Prix,TSU,TSU
+2023_16_GAS_11.0,confusion_union_top3_pairs,2023_16,Japanese Grand Prix,GAS,GAS
+2023_16_HUL_5.0,confusion_union_top3_pairs,2023_16,Japanese Grand Prix,HUL,HUL
+2023_16_NOR_8.0,confusion_union_top3_pairs,2023_16,Japanese Grand Prix,NOR,TSU
+2023_16_PIA_10.0,confusion_union_top3_pairs,2023_16,Japanese Grand Prix,PIA,PIA
+2023_16_RUS_14.0,confusion_union_top3_pairs,2023_16,Japanese Grand Prix,RUS,RUS
+2023_16_TSU_11.0,confusion_union_top3_pairs,2023_16,Japanese Grand Prix,TSU,TSU
+2023_17_GAS_22.0,confusion_union_top3_pairs,2023_17,Qatar Grand Prix,GAS,GAS
+2023_17_HUL_11.0,confusion_union_top3_pairs,2023_17,Qatar Grand Prix,HUL,NOR
+2023_17_NOR_20.0,confusion_union_top3_pairs,2023_17,Qatar Grand Prix,NOR,PIA
+2023_17_PIA_22.0,confusion_union_top3_pairs,2023_17,Qatar Grand Prix,PIA,PIA
+2023_17_RUS_20.0,confusion_union_top3_pairs,2023_17,Qatar Grand Prix,RUS,RUS
+2023_17_TSU_15.0,confusion_union_top3_pairs,2023_17,Qatar Grand Prix,TSU,TSU
+2023_18_GAS_18.0,confusion_union_top3_pairs,2023_18,United States Grand Prix,GAS,GAS
+2023_18_HUL_2.0,confusion_union_top3_pairs,2023_18,United States Grand Prix,HUL,HUL
+2023_18_NOR_19.0,confusion_union_top3_pairs,2023_18,United States Grand Prix,NOR,NOR
+2023_18_PIA_19.0,confusion_union_top3_pairs,2023_18,United States Grand Prix,PIA,PIA
+2023_18_RUS_17.0,confusion_union_top3_pairs,2023_18,United States Grand Prix,RUS,RUS
+2023_18_TSU_11.0,confusion_union_top3_pairs,2023_18,United States Grand Prix,TSU,TSU
+2023_19_GAS_14.0,confusion_union_top3_pairs,2023_19,Mexico City Grand Prix,GAS,GAS
+2023_19_HUL_11.0,confusion_union_top3_pairs,2023_19,Mexico City Grand Prix,HUL,HUL
+2023_19_NOR_4.0,confusion_union_top3_pairs,2023_19,Mexico City Grand Prix,NOR,GAS
+2023_19_PIA_17.0,confusion_union_top3_pairs,2023_19,Mexico City Grand Prix,PIA,PIA
+2023_19_RUS_12.0,confusion_union_top3_pairs,2023_19,Mexico City Grand Prix,RUS,RUS
+2023_19_TSU_2.0,confusion_union_top3_pairs,2023_19,Mexico City Grand Prix,TSU,GAS
+2023_21_GAS_24.0,confusion_union_top3_pairs,2023_21,Las Vegas Grand Prix,GAS,GAS
+2023_21_HUL_14.0,confusion_union_top3_pairs,2023_21,Las Vegas Grand Prix,HUL,HUL
+2023_21_NOR_5.0,confusion_union_top3_pairs,2023_21,Las Vegas Grand Prix,NOR,PIA
+2023_21_PIA_6.0,confusion_union_top3_pairs,2023_21,Las Vegas Grand Prix,PIA,GAS
+2023_21_RUS_21.0,confusion_union_top3_pairs,2023_21,Las Vegas Grand Prix,RUS,RUS
+2023_21_TSU_3.0,confusion_union_top3_pairs,2023_21,Las Vegas Grand Prix,TSU,TSU
+2023_22_GAS_11.0,confusion_union_top3_pairs,2023_22,Abu Dhabi Grand Prix,GAS,GAS
+2023_22_HUL_17.0,confusion_union_top3_pairs,2023_22,Abu Dhabi Grand Prix,HUL,HUL
+2023_22_NOR_12.0,confusion_union_top3_pairs,2023_22,Abu Dhabi Grand Prix,NOR,GAS
+2023_22_PIA_16.0,confusion_union_top3_pairs,2023_22,Abu Dhabi Grand Prix,PIA,PIA
+2023_22_RUS_17.0,confusion_union_top3_pairs,2023_22,Abu Dhabi Grand Prix,RUS,TSU
+2023_22_TSU_17.0,confusion_union_top3_pairs,2023_22,Abu Dhabi Grand Prix,TSU,NOR
+2024_1_GAS_8.0,confusion_union_top3_pairs,2024_1,Bahrain Grand Prix,GAS,TSU
+2024_1_HUL_11.0,confusion_union_top3_pairs,2024_1,Bahrain Grand Prix,HUL,RUS
+2024_1_NOR_14.0,confusion_union_top3_pairs,2024_1,Bahrain Grand Prix,NOR,NOR
+2024_1_PIA_17.0,confusion_union_top3_pairs,2024_1,Bahrain Grand Prix,PIA,PIA
+2024_1_RUS_16.0,confusion_union_top3_pairs,2024_1,Bahrain Grand Prix,RUS,RUS
+2024_1_TSU_11.0,confusion_union_top3_pairs,2024_1,Bahrain Grand Prix,TSU,TSU
+2024_2_GAS_5.0,confusion_union_top3_pairs,2024_2,Saudi Arabian Grand Prix,GAS,NOR
+2024_2_HUL_7.0,confusion_union_top3_pairs,2024_2,Saudi Arabian Grand Prix,HUL,HUL
+2024_2_NOR_21.0,confusion_union_top3_pairs,2024_2,Saudi Arabian Grand Prix,NOR,HUL
+2024_2_PIA_21.0,confusion_union_top3_pairs,2024_2,Saudi Arabian Grand Prix,PIA,PIA
+2024_2_RUS_19.0,confusion_union_top3_pairs,2024_2,Saudi Arabian Grand Prix,RUS,RUS
+2024_2_TSU_17.0,confusion_union_top3_pairs,2024_2,Saudi Arabian Grand Prix,TSU,NOR
+2024_4_GAS_5.0,confusion_union_top3_pairs,2024_4,Japanese Grand Prix,GAS,NOR
+2024_4_HUL_11.0,confusion_union_top3_pairs,2024_4,Japanese Grand Prix,HUL,HUL
+2024_4_NOR_9.0,confusion_union_top3_pairs,2024_4,Japanese Grand Prix,NOR,NOR
+2024_4_PIA_8.0,confusion_union_top3_pairs,2024_4,Japanese Grand Prix,PIA,PIA
+2024_4_RUS_11.0,confusion_union_top3_pairs,2024_4,Japanese Grand Prix,RUS,RUS
+2024_4_TSU_17.0,confusion_union_top3_pairs,2024_4,Japanese Grand Prix,TSU,TSU
+2024_5_GAS_8.0,confusion_union_top3_pairs,2024_5,Chinese Grand Prix,GAS,GAS
+2024_5_HUL_20.0,confusion_union_top3_pairs,2024_5,Chinese Grand Prix,HUL,NOR
+2024_5_NOR_14.0,confusion_union_top3_pairs,2024_5,Chinese Grand Prix,NOR,GAS
+2024_5_PIA_15.0,confusion_union_top3_pairs,2024_5,Chinese Grand Prix,PIA,NOR
+2024_5_RUS_19.0,confusion_union_top3_pairs,2024_5,Chinese Grand Prix,RUS,GAS
+2024_5_TSU_8.0,confusion_union_top3_pairs,2024_5,Chinese Grand Prix,TSU,TSU
+2024_6_GAS_8.0,confusion_union_top3_pairs,2024_6,Miami Grand Prix,GAS,GAS
+2024_6_HUL_20.0,confusion_union_top3_pairs,2024_6,Miami Grand Prix,HUL,HUL
+2024_6_NOR_20.0,confusion_union_top3_pairs,2024_6,Miami Grand Prix,NOR,NOR
+2024_6_PIA_15.0,confusion_union_top3_pairs,2024_6,Miami Grand Prix,PIA,GAS
+2024_6_RUS_17.0,confusion_union_top3_pairs,2024_6,Miami Grand Prix,RUS,GAS
+2024_6_TSU_14.0,confusion_union_top3_pairs,2024_6,Miami Grand Prix,TSU,TSU
+2024_7_GAS_13.0,confusion_union_top3_pairs,2024_7,Emilia Romagna Grand Prix,GAS,GAS
+2024_7_HUL_14.0,confusion_union_top3_pairs,2024_7,Emilia Romagna Grand Prix,HUL,HUL
+2024_7_NOR_18.0,confusion_union_top3_pairs,2024_7,Emilia Romagna Grand Prix,NOR,NOR
+2024_7_PIA_14.0,confusion_union_top3_pairs,2024_7,Emilia Romagna Grand Prix,PIA,NOR
+2024_7_RUS_17.0,confusion_union_top3_pairs,2024_7,Emilia Romagna Grand Prix,RUS,HUL
+2024_7_TSU_8.0,confusion_union_top3_pairs,2024_7,Emilia Romagna Grand Prix,TSU,GAS
+2024_8_GAS_21.0,confusion_union_top3_pairs,2024_8,Monaco Grand Prix,GAS,PIA
+2024_8_HUL_19.0,confusion_union_top3_pairs,2024_8,Monaco Grand Prix,HUL,HUL
+2024_8_NOR_26.0,confusion_union_top3_pairs,2024_8,Monaco Grand Prix,NOR,NOR
+2024_8_PIA_23.0,confusion_union_top3_pairs,2024_8,Monaco Grand Prix,PIA,PIA
+2024_8_RUS_27.0,confusion_union_top3_pairs,2024_8,Monaco Grand Prix,RUS,HUL
+2024_8_TSU_24.0,confusion_union_top3_pairs,2024_8,Monaco Grand Prix,TSU,TSU
+2024_10_GAS_17.0,confusion_union_top3_pairs,2024_10,Spanish Grand Prix,GAS,GAS
+2024_10_HUL_11.0,confusion_union_top3_pairs,2024_10,Spanish Grand Prix,HUL,RUS
+2024_10_NOR_11.0,confusion_union_top3_pairs,2024_10,Spanish Grand Prix,NOR,GAS
+2024_10_PIA_8.0,confusion_union_top3_pairs,2024_10,Spanish Grand Prix,PIA,PIA
+2024_10_RUS_15.0,confusion_union_top3_pairs,2024_10,Spanish Grand Prix,RUS,RUS
+2024_10_TSU_8.0,confusion_union_top3_pairs,2024_10,Spanish Grand Prix,TSU,TSU
+2024_11_GAS_17.0,confusion_union_top3_pairs,2024_11,Austrian Grand Prix,GAS,PIA
+2024_11_HUL_14.0,confusion_union_top3_pairs,2024_11,Austrian Grand Prix,HUL,HUL
+2024_11_NOR_19.0,confusion_union_top3_pairs,2024_11,Austrian Grand Prix,NOR,TSU
+2024_11_PIA_16.0,confusion_union_top3_pairs,2024_11,Austrian Grand Prix,PIA,NOR
+2024_11_RUS_17.0,confusion_union_top3_pairs,2024_11,Austrian Grand Prix,RUS,RUS
+2024_11_TSU_11.0,confusion_union_top3_pairs,2024_11,Austrian Grand Prix,TSU,NOR
+2024_15_GAS_13.0,confusion_union_top3_pairs,2024_15,Dutch Grand Prix,GAS,NOR
+2024_15_HUL_16.0,confusion_union_top3_pairs,2024_15,Dutch Grand Prix,HUL,HUL
+2024_15_NOR_13.0,confusion_union_top3_pairs,2024_15,Dutch Grand Prix,NOR,NOR
+2024_15_PIA_15.0,confusion_union_top3_pairs,2024_15,Dutch Grand Prix,PIA,NOR
+2024_15_RUS_17.0,confusion_union_top3_pairs,2024_15,Dutch Grand Prix,RUS,RUS
+2024_15_TSU_14.0,confusion_union_top3_pairs,2024_15,Dutch Grand Prix,TSU,TSU
+2024_16_GAS_11.0,confusion_union_top3_pairs,2024_16,Italian Grand Prix,GAS,RUS
+2024_16_HUL_17.0,confusion_union_top3_pairs,2024_16,Italian Grand Prix,HUL,HUL
+2024_16_NOR_11.0,confusion_union_top3_pairs,2024_16,Italian Grand Prix,NOR,TSU
+2024_16_PIA_15.0,confusion_union_top3_pairs,2024_16,Italian Grand Prix,PIA,TSU
+2024_16_RUS_17.0,confusion_union_top3_pairs,2024_16,Italian Grand Prix,RUS,RUS
+2024_16_TSU_2.0,confusion_union_top3_pairs,2024_16,Italian Grand Prix,TSU,TSU
+2024_17_GAS_14.0,confusion_union_top3_pairs,2024_17,Azerbaijan Grand Prix,GAS,TSU
+2024_17_HUL_13.0,confusion_union_top3_pairs,2024_17,Azerbaijan Grand Prix,HUL,HUL
+2024_17_NOR_4.0,confusion_union_top3_pairs,2024_17,Azerbaijan Grand Prix,NOR,GAS
+2024_17_PIA_18.0,confusion_union_top3_pairs,2024_17,Azerbaijan Grand Prix,PIA,GAS
+2024_17_RUS_19.0,confusion_union_top3_pairs,2024_17,Azerbaijan Grand Prix,RUS,HUL
+2024_17_TSU_15.0,confusion_union_top3_pairs,2024_17,Azerbaijan Grand Prix,TSU,TSU
+2024_18_GAS_8.0,confusion_union_top3_pairs,2024_18,Singapore Grand Prix,GAS,GAS
+2024_18_HUL_17.0,confusion_union_top3_pairs,2024_18,Singapore Grand Prix,HUL,HUL
+2024_18_NOR_15.0,confusion_union_top3_pairs,2024_18,Singapore Grand Prix,NOR,HUL
+2024_18_PIA_11.0,confusion_union_top3_pairs,2024_18,Singapore Grand Prix,PIA,HUL
+2024_18_RUS_16.0,confusion_union_top3_pairs,2024_18,Singapore Grand Prix,RUS,RUS
+2024_18_TSU_11.0,confusion_union_top3_pairs,2024_18,Singapore Grand Prix,TSU,TSU
+2024_19_GAS_17.0,confusion_union_top3_pairs,2024_19,United States Grand Prix,GAS,HUL
+2024_19_HUL_8.0,confusion_union_top3_pairs,2024_19,United States Grand Prix,HUL,HUL
+2024_19_NOR_13.0,confusion_union_top3_pairs,2024_19,United States Grand Prix,NOR,TSU
+2024_19_PIA_16.0,confusion_union_top3_pairs,2024_19,United States Grand Prix,PIA,TSU
+2024_19_RUS_12.0,confusion_union_top3_pairs,2024_19,United States Grand Prix,RUS,RUS
+2024_19_TSU_13.0,confusion_union_top3_pairs,2024_19,United States Grand Prix,TSU,TSU
+2024_20_GAS_17.0,confusion_union_top3_pairs,2024_20,Mexico City Grand Prix,GAS,GAS
+2024_20_HUL_2.0,confusion_union_top3_pairs,2024_20,Mexico City Grand Prix,HUL,HUL
+2024_20_NOR_14.0,confusion_union_top3_pairs,2024_20,Mexico City Grand Prix,NOR,HUL
+2024_20_PIA_7.0,confusion_union_top3_pairs,2024_20,Mexico City Grand Prix,PIA,PIA
+2024_20_RUS_18.0,confusion_union_top3_pairs,2024_20,Mexico City Grand Prix,RUS,HUL
+2024_20_TSU_8.0,confusion_union_top3_pairs,2024_20,Mexico City Grand Prix,TSU,TSU
+2024_22_GAS_24.0,confusion_union_top3_pairs,2024_22,Las Vegas Grand Prix,GAS,TSU
+2024_22_HUL_16.0,confusion_union_top3_pairs,2024_22,Las Vegas Grand Prix,HUL,RUS
+2024_22_NOR_19.0,confusion_union_top3_pairs,2024_22,Las Vegas Grand Prix,NOR,PIA
+2024_22_PIA_13.0,confusion_union_top3_pairs,2024_22,Las Vegas Grand Prix,PIA,PIA
+2024_22_RUS_24.0,confusion_union_top3_pairs,2024_22,Las Vegas Grand Prix,RUS,GAS
+2024_22_TSU_24.0,confusion_union_top3_pairs,2024_22,Las Vegas Grand Prix,TSU,TSU
+2024_23_GAS_13.0,confusion_union_top3_pairs,2024_23,Qatar Grand Prix,GAS,GAS
+2024_23_HUL_6.0,confusion_union_top3_pairs,2024_23,Qatar Grand Prix,HUL,PIA
+2024_23_NOR_21.0,confusion_union_top3_pairs,2024_23,Qatar Grand Prix,NOR,GAS
+2024_23_PIA_21.0,confusion_union_top3_pairs,2024_23,Qatar Grand Prix,PIA,PIA
+2024_23_RUS_23.0,confusion_union_top3_pairs,2024_23,Qatar Grand Prix,RUS,RUS
+2024_23_TSU_15.0,confusion_union_top3_pairs,2024_23,Qatar Grand Prix,TSU,TSU
+2024_24_GAS_17.0,confusion_union_top3_pairs,2024_24,Abu Dhabi Grand Prix,GAS,GAS
+2024_24_HUL_16.0,confusion_union_top3_pairs,2024_24,Abu Dhabi Grand Prix,HUL,GAS
+2024_24_NOR_15.0,confusion_union_top3_pairs,2024_24,Abu Dhabi Grand Prix,NOR,GAS
+2024_24_PIA_15.0,confusion_union_top3_pairs,2024_24,Abu Dhabi Grand Prix,PIA,PIA
+2024_24_RUS_18.0,confusion_union_top3_pairs,2024_24,Abu Dhabi Grand Prix,RUS,HUL
+2024_24_TSU_11.0,confusion_union_top3_pairs,2024_24,Abu Dhabi Grand Prix,TSU,GAS
+2025_1_GAS_20.0,confusion_union_top3_pairs,2025_1,Australian Grand Prix,GAS,GAS
+2025_1_HUL_8.0,confusion_union_top3_pairs,2025_1,Australian Grand Prix,HUL,HUL
+2025_1_NOR_19.0,confusion_union_top3_pairs,2025_1,Australian Grand Prix,NOR,NOR
+2025_1_PIA_17.0,confusion_union_top3_pairs,2025_1,Australian Grand Prix,PIA,PIA
+2025_1_RUS_20.0,confusion_union_top3_pairs,2025_1,Australian Grand Prix,RUS,RUS
+2025_1_TSU_17.0,confusion_union_top3_pairs,2025_1,Australian Grand Prix,TSU,GAS
+2025_2_GAS_8.0,confusion_union_top3_pairs,2025_2,Chinese Grand Prix,GAS,GAS
+2025_2_HUL_14.0,confusion_union_top3_pairs,2025_2,Chinese Grand Prix,HUL,GAS
+2025_2_NOR_11.0,confusion_union_top3_pairs,2025_2,Chinese Grand Prix,NOR,NOR
+2025_2_PIA_19.0,confusion_union_top3_pairs,2025_2,Chinese Grand Prix,PIA,NOR
+2025_2_RUS_21.0,confusion_union_top3_pairs,2025_2,Chinese Grand Prix,RUS,RUS
+2025_2_TSU_7.0,confusion_union_top3_pairs,2025_2,Chinese Grand Prix,TSU,GAS
+2025_3_GAS_11.0,confusion_union_top3_pairs,2025_3,Japanese Grand Prix,GAS,NOR
+2025_3_HUL_8.0,confusion_union_top3_pairs,2025_3,Japanese Grand Prix,HUL,HUL
+2025_3_NOR_14.0,confusion_union_top3_pairs,2025_3,Japanese Grand Prix,NOR,NOR
+2025_3_PIA_17.0,confusion_union_top3_pairs,2025_3,Japanese Grand Prix,PIA,NOR
+2025_3_RUS_13.0,confusion_union_top3_pairs,2025_3,Japanese Grand Prix,RUS,RUS
+2025_3_TSU_5.0,confusion_union_top3_pairs,2025_3,Japanese Grand Prix,TSU,GAS
+2025_4_GAS_18.0,confusion_union_top3_pairs,2025_4,Bahrain Grand Prix,GAS,HUL
+2025_4_HUL_13.0,confusion_union_top3_pairs,2025_4,Bahrain Grand Prix,HUL,HUL
+2025_4_NOR_17.0,confusion_union_top3_pairs,2025_4,Bahrain Grand Prix,NOR,PIA
+2025_4_PIA_14.0,confusion_union_top3_pairs,2025_4,Bahrain Grand Prix,PIA,PIA
+2025_4_RUS_19.0,confusion_union_top3_pairs,2025_4,Bahrain Grand Prix,RUS,GAS
+2025_4_TSU_10.0,confusion_union_top3_pairs,2025_4,Bahrain Grand Prix,TSU,TSU
+2025_5_GAS_14.0,confusion_union_top3_pairs,2025_5,Saudi Arabian Grand Prix,GAS,TSU
+2025_5_HUL_5.0,confusion_union_top3_pairs,2025_5,Saudi Arabian Grand Prix,HUL,HUL
+2025_5_NOR_8.0,confusion_union_top3_pairs,2025_5,Saudi Arabian Grand Prix,NOR,PIA
+2025_5_PIA_17.0,confusion_union_top3_pairs,2025_5,Saudi Arabian Grand Prix,PIA,PIA
+2025_5_RUS_15.0,confusion_union_top3_pairs,2025_5,Saudi Arabian Grand Prix,RUS,HUL
+2025_5_TSU_11.0,confusion_union_top3_pairs,2025_5,Saudi Arabian Grand Prix,TSU,RUS
+2025_6_GAS_8.0,confusion_union_top3_pairs,2025_6,Miami Grand Prix,GAS,GAS
+2025_6_HUL_5.0,confusion_union_top3_pairs,2025_6,Miami Grand Prix,HUL,HUL
+2025_6_NOR_20.0,confusion_union_top3_pairs,2025_6,Miami Grand Prix,NOR,TSU
+2025_6_PIA_9.0,confusion_union_top3_pairs,2025_6,Miami Grand Prix,PIA,PIA
+2025_6_RUS_19.0,confusion_union_top3_pairs,2025_6,Miami Grand Prix,RUS,PIA
+2025_6_TSU_20.0,confusion_union_top3_pairs,2025_6,Miami Grand Prix,TSU,TSU
+2025_7_GAS_10.0,confusion_union_top3_pairs,2025_7,Emilia Romagna Grand Prix,GAS,GAS
+2025_7_HUL_5.0,confusion_union_top3_pairs,2025_7,Emilia Romagna Grand Prix,HUL,HUL
+2025_7_NOR_15.0,confusion_union_top3_pairs,2025_7,Emilia Romagna Grand Prix,NOR,NOR
+2025_7_PIA_17.0,confusion_union_top3_pairs,2025_7,Emilia Romagna Grand Prix,PIA,TSU
+2025_7_RUS_16.0,confusion_union_top3_pairs,2025_7,Emilia Romagna Grand Prix,RUS,RUS
+2025_8_GAS_10.0,confusion_union_top3_pairs,2025_8,Monaco Grand Prix,GAS,NOR
+2025_8_HUL_22.0,confusion_union_top3_pairs,2025_8,Monaco Grand Prix,HUL,HUL
+2025_8_NOR_26.0,confusion_union_top3_pairs,2025_8,Monaco Grand Prix,NOR,NOR
+2025_8_PIA_28.0,confusion_union_top3_pairs,2025_8,Monaco Grand Prix,PIA,PIA
+2025_8_RUS_6.0,confusion_union_top3_pairs,2025_8,Monaco Grand Prix,RUS,NOR
+2025_8_TSU_16.0,confusion_union_top3_pairs,2025_8,Monaco Grand Prix,TSU,TSU
+2025_9_GAS_17.0,confusion_union_top3_pairs,2025_9,Spanish Grand Prix,GAS,GAS
+2025_9_HUL_5.0,confusion_union_top3_pairs,2025_9,Spanish Grand Prix,HUL,GAS
+2025_9_NOR_14.0,confusion_union_top3_pairs,2025_9,Spanish Grand Prix,NOR,PIA
+2025_9_PIA_13.0,confusion_union_top3_pairs,2025_9,Spanish Grand Prix,PIA,PIA
+2025_9_RUS_11.0,confusion_union_top3_pairs,2025_9,Spanish Grand Prix,RUS,RUS
+2025_9_TSU_5.0,confusion_union_top3_pairs,2025_9,Spanish Grand Prix,TSU,PIA
+2025_10_GAS_9.0,confusion_union_top3_pairs,2025_10,Canadian Grand Prix,GAS,RUS
+2025_10_HUL_17.0,confusion_union_top3_pairs,2025_10,Canadian Grand Prix,HUL,RUS
+2025_10_NOR_13.0,confusion_union_top3_pairs,2025_10,Canadian Grand Prix,NOR,RUS
+2025_10_PIA_22.0,confusion_union_top3_pairs,2025_10,Canadian Grand Prix,PIA,PIA
+2025_10_RUS_20.0,confusion_union_top3_pairs,2025_10,Canadian Grand Prix,RUS,RUS
+2025_10_TSU_14.0,confusion_union_top3_pairs,2025_10,Canadian Grand Prix,TSU,TSU
+2025_11_GAS_14.0,confusion_union_top3_pairs,2025_11,Austrian Grand Prix,GAS,GAS
+2025_11_HUL_5.0,confusion_union_top3_pairs,2025_11,Austrian Grand Prix,HUL,HUL
+2025_11_NOR_14.0,confusion_union_top3_pairs,2025_11,Austrian Grand Prix,NOR,PIA
+2025_11_PIA_16.0,confusion_union_top3_pairs,2025_11,Austrian Grand Prix,PIA,PIA
+2025_11_RUS_14.0,confusion_union_top3_pairs,2025_11,Austrian Grand Prix,RUS,HUL
+2025_11_TSU_5.0,confusion_union_top3_pairs,2025_11,Austrian Grand Prix,TSU,TSU
+2025_12_GAS_14.0,confusion_union_top3_pairs,2025_12,British Grand Prix,GAS,RUS
+2025_12_HUL_8.0,confusion_union_top3_pairs,2025_12,British Grand Prix,HUL,HUL
+2025_12_NOR_19.0,confusion_union_top3_pairs,2025_12,British Grand Prix,NOR,NOR
+2025_12_PIA_17.0,confusion_union_top3_pairs,2025_12,British Grand Prix,PIA,PIA
+2025_12_RUS_18.0,confusion_union_top3_pairs,2025_12,British Grand Prix,RUS,RUS
+2025_12_TSU_12.0,confusion_union_top3_pairs,2025_12,British Grand Prix,TSU,RUS
+2025_13_GAS_13.0,confusion_union_top3_pairs,2025_13,Belgian Grand Prix,GAS,HUL
+2025_13_HUL_13.0,confusion_union_top3_pairs,2025_13,Belgian Grand Prix,HUL,HUL
+2025_13_NOR_16.0,confusion_union_top3_pairs,2025_13,Belgian Grand Prix,NOR,PIA
+2025_13_PIA_11.0,confusion_union_top3_pairs,2025_13,Belgian Grand Prix,PIA,PIA
+2025_13_RUS_11.0,confusion_union_top3_pairs,2025_13,Belgian Grand Prix,RUS,NOR
+2025_13_TSU_8.0,confusion_union_top3_pairs,2025_13,Belgian Grand Prix,TSU,PIA
+2025_14_GAS_5.0,confusion_union_top3_pairs,2025_14,Hungarian Grand Prix,GAS,GAS
+2025_14_HUL_5.0,confusion_union_top3_pairs,2025_14,Hungarian Grand Prix,HUL,HUL
+2025_14_NOR_8.0,confusion_union_top3_pairs,2025_14,Hungarian Grand Prix,NOR,NOR
+2025_14_PIA_8.0,confusion_union_top3_pairs,2025_14,Hungarian Grand Prix,PIA,PIA
+2025_14_RUS_8.0,confusion_union_top3_pairs,2025_14,Hungarian Grand Prix,RUS,HUL
+2025_14_TSU_5.0,confusion_union_top3_pairs,2025_14,Hungarian Grand Prix,TSU,TSU
+2025_15_GAS_14.0,confusion_union_top3_pairs,2025_15,Dutch Grand Prix,GAS,HUL
+2025_15_HUL_5.0,confusion_union_top3_pairs,2025_15,Dutch Grand Prix,HUL,HUL
+2025_15_NOR_14.0,confusion_union_top3_pairs,2025_15,Dutch Grand Prix,NOR,NOR
+2025_15_PIA_14.0,confusion_union_top3_pairs,2025_15,Dutch Grand Prix,PIA,NOR
+2025_15_RUS_14.0,confusion_union_top3_pairs,2025_15,Dutch Grand Prix,RUS,RUS
+2025_15_TSU_11.0,confusion_union_top3_pairs,2025_15,Dutch Grand Prix,TSU,TSU
+2025_16_GAS_8.0,confusion_union_top3_pairs,2025_16,Italian Grand Prix,GAS,TSU
+2025_16_HUL_14.0,confusion_union_top3_pairs,2025_16,Italian Grand Prix,HUL,HUL
+2025_16_NOR_20.0,confusion_union_top3_pairs,2025_16,Italian Grand Prix,NOR,NOR
+2025_16_PIA_18.0,confusion_union_top3_pairs,2025_16,Italian Grand Prix,PIA,PIA
+2025_16_RUS_14.0,confusion_union_top3_pairs,2025_16,Italian Grand Prix,RUS,HUL
+2025_16_TSU_8.0,confusion_union_top3_pairs,2025_16,Italian Grand Prix,TSU,TSU
+2025_18_GAS_5.0,confusion_union_top3_pairs,2025_18,Singapore Grand Prix,GAS,GAS
+2025_18_HUL_14.0,confusion_union_top3_pairs,2025_18,Singapore Grand Prix,HUL,HUL
+2025_18_NOR_19.0,confusion_union_top3_pairs,2025_18,Singapore Grand Prix,NOR,HUL
+2025_18_PIA_16.0,confusion_union_top3_pairs,2025_18,Singapore Grand Prix,PIA,PIA
+2025_18_RUS_17.0,confusion_union_top3_pairs,2025_18,Singapore Grand Prix,RUS,RUS
+2025_18_TSU_8.0,confusion_union_top3_pairs,2025_18,Singapore Grand Prix,TSU,TSU
+2025_19_GAS_7.0,confusion_union_top3_pairs,2025_19,United States Grand Prix,GAS,HUL
+2025_19_HUL_10.0,confusion_union_top3_pairs,2025_19,United States Grand Prix,HUL,HUL
+2025_19_NOR_19.0,confusion_union_top3_pairs,2025_19,United States Grand Prix,NOR,NOR
+2025_19_PIA_18.0,confusion_union_top3_pairs,2025_19,United States Grand Prix,PIA,NOR
+2025_19_RUS_18.0,confusion_union_top3_pairs,2025_19,United States Grand Prix,RUS,HUL
+2025_19_TSU_9.0,confusion_union_top3_pairs,2025_19,United States Grand Prix,TSU,TSU
+2025_20_GAS_8.0,confusion_union_top3_pairs,2025_20,Mexico City Grand Prix,GAS,TSU
+2025_20_HUL_11.0,confusion_union_top3_pairs,2025_20,Mexico City Grand Prix,HUL,HUL
+2025_20_NOR_20.0,confusion_union_top3_pairs,2025_20,Mexico City Grand Prix,NOR,PIA
+2025_20_PIA_19.0,confusion_union_top3_pairs,2025_20,Mexico City Grand Prix,PIA,HUL
+2025_20_RUS_17.0,confusion_union_top3_pairs,2025_20,Mexico City Grand Prix,RUS,RUS
+2025_20_TSU_11.0,confusion_union_top3_pairs,2025_20,Mexico City Grand Prix,TSU,TSU
+2025_21_GAS_14.0,confusion_union_top3_pairs,2025_21,São Paulo Grand Prix,GAS,TSU
+2025_21_HUL_16.0,confusion_union_top3_pairs,2025_21,São Paulo Grand Prix,HUL,RUS
+2025_21_NOR_20.0,confusion_union_top3_pairs,2025_21,São Paulo Grand Prix,NOR,GAS
+2025_21_PIA_10.0,confusion_union_top3_pairs,2025_21,São Paulo Grand Prix,PIA,GAS
+2025_21_RUS_8.0,confusion_union_top3_pairs,2025_21,São Paulo Grand Prix,RUS,TSU
+2025_21_TSU_8.0,confusion_union_top3_pairs,2025_21,São Paulo Grand Prix,TSU,TSU
+2025_23_GAS_14.0,confusion_union_top3_pairs,2025_23,Qatar Grand Prix,GAS,GAS
+2025_23_HUL_19.0,confusion_union_top3_pairs,2025_23,Qatar Grand Prix,HUL,TSU
+2025_23_NOR_14.0,confusion_union_top3_pairs,2025_23,Qatar Grand Prix,NOR,TSU
+2025_23_PIA_17.0,confusion_union_top3_pairs,2025_23,Qatar Grand Prix,PIA,NOR
+2025_23_RUS_25.0,confusion_union_top3_pairs,2025_23,Qatar Grand Prix,RUS,RUS
+2025_23_TSU_8.0,confusion_union_top3_pairs,2025_23,Qatar Grand Prix,TSU,GAS
+2025_24_GAS_8.0,confusion_union_top3_pairs,2025_24,Abu Dhabi Grand Prix,GAS,GAS
+2025_24_HUL_8.0,confusion_union_top3_pairs,2025_24,Abu Dhabi Grand Prix,HUL,HUL
+2025_24_NOR_16.0,confusion_union_top3_pairs,2025_24,Abu Dhabi Grand Prix,NOR,NOR
+2025_24_PIA_16.0,confusion_union_top3_pairs,2025_24,Abu Dhabi Grand Prix,PIA,PIA
+2025_24_RUS_17.0,confusion_union_top3_pairs,2025_24,Abu Dhabi Grand Prix,RUS,GAS
+2025_24_TSU_11.0,confusion_union_top3_pairs,2025_24,Abu Dhabi Grand Prix,TSU,GAS
+2023_1_NOR_12.0,confusion_pair_NOR_PIA,2023_1,Bahrain Grand Prix,NOR,NOR
+2023_1_PIA_6.0,confusion_pair_NOR_PIA,2023_1,Bahrain Grand Prix,PIA,NOR
+2023_2_NOR_2.0,confusion_pair_NOR_PIA,2023_2,Saudi Arabian Grand Prix,NOR,PIA
+2023_2_PIA_22.0,confusion_pair_NOR_PIA,2023_2,Saudi Arabian Grand Prix,PIA,PIA
+2023_4_NOR_19.0,confusion_pair_NOR_PIA,2023_4,Azerbaijan Grand Prix,NOR,PIA
+2023_4_PIA_23.0,confusion_pair_NOR_PIA,2023_4,Azerbaijan Grand Prix,PIA,PIA
+2023_5_NOR_7.0,confusion_pair_NOR_PIA,2023_5,Miami Grand Prix,NOR,PIA
+2023_5_PIA_8.0,confusion_pair_NOR_PIA,2023_5,Miami Grand Prix,PIA,PIA
+2023_6_NOR_21.0,confusion_pair_NOR_PIA,2023_6,Monaco Grand Prix,NOR,NOR
+2023_6_PIA_14.0,confusion_pair_NOR_PIA,2023_6,Monaco Grand Prix,PIA,NOR
+2023_9_NOR_22.0,confusion_pair_NOR_PIA,2023_9,Austrian Grand Prix,NOR,NOR
+2023_9_PIA_18.0,confusion_pair_NOR_PIA,2023_9,Austrian Grand Prix,PIA,PIA
+2023_11_NOR_19.0,confusion_pair_NOR_PIA,2023_11,Hungarian Grand Prix,NOR,NOR
+2023_11_PIA_19.0,confusion_pair_NOR_PIA,2023_11,Hungarian Grand Prix,PIA,PIA
+2023_14_NOR_19.0,confusion_pair_NOR_PIA,2023_14,Italian Grand Prix,NOR,NOR
+2023_14_PIA_23.0,confusion_pair_NOR_PIA,2023_14,Italian Grand Prix,PIA,NOR
+2023_15_NOR_19.0,confusion_pair_NOR_PIA,2023_15,Singapore Grand Prix,NOR,NOR
+2023_15_PIA_2.0,confusion_pair_NOR_PIA,2023_15,Singapore Grand Prix,PIA,NOR
+2023_16_NOR_8.0,confusion_pair_NOR_PIA,2023_16,Japanese Grand Prix,NOR,NOR
+2023_16_PIA_10.0,confusion_pair_NOR_PIA,2023_16,Japanese Grand Prix,PIA,PIA
+2023_17_NOR_20.0,confusion_pair_NOR_PIA,2023_17,Qatar Grand Prix,NOR,PIA
+2023_17_PIA_22.0,confusion_pair_NOR_PIA,2023_17,Qatar Grand Prix,PIA,PIA
+2023_18_NOR_19.0,confusion_pair_NOR_PIA,2023_18,United States Grand Prix,NOR,NOR
+2023_18_PIA_19.0,confusion_pair_NOR_PIA,2023_18,United States Grand Prix,PIA,PIA
+2023_19_NOR_4.0,confusion_pair_NOR_PIA,2023_19,Mexico City Grand Prix,NOR,NOR
+2023_19_PIA_17.0,confusion_pair_NOR_PIA,2023_19,Mexico City Grand Prix,PIA,PIA
+2023_21_NOR_5.0,confusion_pair_NOR_PIA,2023_21,Las Vegas Grand Prix,NOR,PIA
+2023_21_PIA_6.0,confusion_pair_NOR_PIA,2023_21,Las Vegas Grand Prix,PIA,NOR
+2023_22_NOR_12.0,confusion_pair_NOR_PIA,2023_22,Abu Dhabi Grand Prix,NOR,PIA
+2023_22_PIA_16.0,confusion_pair_NOR_PIA,2023_22,Abu Dhabi Grand Prix,PIA,PIA
+2024_1_NOR_14.0,confusion_pair_NOR_PIA,2024_1,Bahrain Grand Prix,NOR,PIA
+2024_1_PIA_17.0,confusion_pair_NOR_PIA,2024_1,Bahrain Grand Prix,PIA,PIA
+2024_2_NOR_21.0,confusion_pair_NOR_PIA,2024_2,Saudi Arabian Grand Prix,NOR,PIA
+2024_2_PIA_21.0,confusion_pair_NOR_PIA,2024_2,Saudi Arabian Grand Prix,PIA,NOR
+2024_4_NOR_9.0,confusion_pair_NOR_PIA,2024_4,Japanese Grand Prix,NOR,PIA
+2024_4_PIA_8.0,confusion_pair_NOR_PIA,2024_4,Japanese Grand Prix,PIA,PIA
+2024_5_NOR_14.0,confusion_pair_NOR_PIA,2024_5,Chinese Grand Prix,NOR,NOR
+2024_5_PIA_15.0,confusion_pair_NOR_PIA,2024_5,Chinese Grand Prix,PIA,PIA
+2024_6_NOR_20.0,confusion_pair_NOR_PIA,2024_6,Miami Grand Prix,NOR,NOR
+2024_6_PIA_15.0,confusion_pair_NOR_PIA,2024_6,Miami Grand Prix,PIA,PIA
+2024_7_NOR_18.0,confusion_pair_NOR_PIA,2024_7,Emilia Romagna Grand Prix,NOR,NOR
+2024_7_PIA_14.0,confusion_pair_NOR_PIA,2024_7,Emilia Romagna Grand Prix,PIA,NOR
+2024_8_NOR_26.0,confusion_pair_NOR_PIA,2024_8,Monaco Grand Prix,NOR,NOR
+2024_8_PIA_23.0,confusion_pair_NOR_PIA,2024_8,Monaco Grand Prix,PIA,PIA
+2024_10_NOR_11.0,confusion_pair_NOR_PIA,2024_10,Spanish Grand Prix,NOR,NOR
+2024_10_PIA_8.0,confusion_pair_NOR_PIA,2024_10,Spanish Grand Prix,PIA,PIA
+2024_11_NOR_19.0,confusion_pair_NOR_PIA,2024_11,Austrian Grand Prix,NOR,PIA
+2024_11_PIA_16.0,confusion_pair_NOR_PIA,2024_11,Austrian Grand Prix,PIA,NOR
+2024_15_NOR_13.0,confusion_pair_NOR_PIA,2024_15,Dutch Grand Prix,NOR,PIA
+2024_15_PIA_15.0,confusion_pair_NOR_PIA,2024_15,Dutch Grand Prix,PIA,NOR
+2024_16_NOR_11.0,confusion_pair_NOR_PIA,2024_16,Italian Grand Prix,NOR,NOR
+2024_16_PIA_15.0,confusion_pair_NOR_PIA,2024_16,Italian Grand Prix,PIA,NOR
+2024_17_NOR_4.0,confusion_pair_NOR_PIA,2024_17,Azerbaijan Grand Prix,NOR,NOR
+2024_17_PIA_18.0,confusion_pair_NOR_PIA,2024_17,Azerbaijan Grand Prix,PIA,PIA
+2024_18_NOR_15.0,confusion_pair_NOR_PIA,2024_18,Singapore Grand Prix,NOR,NOR
+2024_18_PIA_11.0,confusion_pair_NOR_PIA,2024_18,Singapore Grand Prix,PIA,PIA
+2024_19_NOR_13.0,confusion_pair_NOR_PIA,2024_19,United States Grand Prix,NOR,NOR
+2024_19_PIA_16.0,confusion_pair_NOR_PIA,2024_19,United States Grand Prix,PIA,NOR
+2024_20_NOR_14.0,confusion_pair_NOR_PIA,2024_20,Mexico City Grand Prix,NOR,PIA
+2024_20_PIA_7.0,confusion_pair_NOR_PIA,2024_20,Mexico City Grand Prix,PIA,PIA
+2024_22_NOR_19.0,confusion_pair_NOR_PIA,2024_22,Las Vegas Grand Prix,NOR,PIA
+2024_22_PIA_13.0,confusion_pair_NOR_PIA,2024_22,Las Vegas Grand Prix,PIA,PIA
+2024_23_NOR_21.0,confusion_pair_NOR_PIA,2024_23,Qatar Grand Prix,NOR,NOR
+2024_23_PIA_21.0,confusion_pair_NOR_PIA,2024_23,Qatar Grand Prix,PIA,PIA
+2024_24_NOR_15.0,confusion_pair_NOR_PIA,2024_24,Abu Dhabi Grand Prix,NOR,PIA
+2024_24_PIA_15.0,confusion_pair_NOR_PIA,2024_24,Abu Dhabi Grand Prix,PIA,PIA
+2025_1_NOR_19.0,confusion_pair_NOR_PIA,2025_1,Australian Grand Prix,NOR,NOR
+2025_1_PIA_17.0,confusion_pair_NOR_PIA,2025_1,Australian Grand Prix,PIA,PIA
+2025_2_NOR_11.0,confusion_pair_NOR_PIA,2025_2,Chinese Grand Prix,NOR,NOR
+2025_2_PIA_19.0,confusion_pair_NOR_PIA,2025_2,Chinese Grand Prix,PIA,PIA
+2025_3_NOR_14.0,confusion_pair_NOR_PIA,2025_3,Japanese Grand Prix,NOR,NOR
+2025_3_PIA_17.0,confusion_pair_NOR_PIA,2025_3,Japanese Grand Prix,PIA,NOR
+2025_4_NOR_17.0,confusion_pair_NOR_PIA,2025_4,Bahrain Grand Prix,NOR,NOR
+2025_4_PIA_14.0,confusion_pair_NOR_PIA,2025_4,Bahrain Grand Prix,PIA,PIA
+2025_5_NOR_8.0,confusion_pair_NOR_PIA,2025_5,Saudi Arabian Grand Prix,NOR,PIA
+2025_5_PIA_17.0,confusion_pair_NOR_PIA,2025_5,Saudi Arabian Grand Prix,PIA,PIA
+2025_6_NOR_20.0,confusion_pair_NOR_PIA,2025_6,Miami Grand Prix,NOR,NOR
+2025_6_PIA_9.0,confusion_pair_NOR_PIA,2025_6,Miami Grand Prix,PIA,PIA
+2025_7_NOR_15.0,confusion_pair_NOR_PIA,2025_7,Emilia Romagna Grand Prix,NOR,NOR
+2025_7_PIA_17.0,confusion_pair_NOR_PIA,2025_7,Emilia Romagna Grand Prix,PIA,PIA
+2025_8_NOR_26.0,confusion_pair_NOR_PIA,2025_8,Monaco Grand Prix,NOR,NOR
+2025_8_PIA_28.0,confusion_pair_NOR_PIA,2025_8,Monaco Grand Prix,PIA,PIA
+2025_9_NOR_14.0,confusion_pair_NOR_PIA,2025_9,Spanish Grand Prix,NOR,PIA
+2025_9_PIA_13.0,confusion_pair_NOR_PIA,2025_9,Spanish Grand Prix,PIA,PIA
+2025_10_NOR_13.0,confusion_pair_NOR_PIA,2025_10,Canadian Grand Prix,NOR,NOR
+2025_10_PIA_22.0,confusion_pair_NOR_PIA,2025_10,Canadian Grand Prix,PIA,PIA
+2025_11_NOR_14.0,confusion_pair_NOR_PIA,2025_11,Austrian Grand Prix,NOR,NOR
+2025_11_PIA_16.0,confusion_pair_NOR_PIA,2025_11,Austrian Grand Prix,PIA,PIA
+2025_12_NOR_19.0,confusion_pair_NOR_PIA,2025_12,British Grand Prix,NOR,NOR
+2025_12_PIA_17.0,confusion_pair_NOR_PIA,2025_12,British Grand Prix,PIA,PIA
+2025_13_NOR_16.0,confusion_pair_NOR_PIA,2025_13,Belgian Grand Prix,NOR,NOR
+2025_13_PIA_11.0,confusion_pair_NOR_PIA,2025_13,Belgian Grand Prix,PIA,NOR
+2025_14_NOR_8.0,confusion_pair_NOR_PIA,2025_14,Hungarian Grand Prix,NOR,NOR
+2025_14_PIA_8.0,confusion_pair_NOR_PIA,2025_14,Hungarian Grand Prix,PIA,PIA
+2025_15_NOR_14.0,confusion_pair_NOR_PIA,2025_15,Dutch Grand Prix,NOR,NOR
+2025_15_PIA_14.0,confusion_pair_NOR_PIA,2025_15,Dutch Grand Prix,PIA,NOR
+2025_16_NOR_20.0,confusion_pair_NOR_PIA,2025_16,Italian Grand Prix,NOR,NOR
+2025_16_PIA_18.0,confusion_pair_NOR_PIA,2025_16,Italian Grand Prix,PIA,PIA
+2025_18_NOR_19.0,confusion_pair_NOR_PIA,2025_18,Singapore Grand Prix,NOR,NOR
+2025_18_PIA_16.0,confusion_pair_NOR_PIA,2025_18,Singapore Grand Prix,PIA,PIA
+2025_19_NOR_19.0,confusion_pair_NOR_PIA,2025_19,United States Grand Prix,NOR,NOR
+2025_19_PIA_18.0,confusion_pair_NOR_PIA,2025_19,United States Grand Prix,PIA,PIA
+2025_20_NOR_20.0,confusion_pair_NOR_PIA,2025_20,Mexico City Grand Prix,NOR,PIA
+2025_20_PIA_19.0,confusion_pair_NOR_PIA,2025_20,Mexico City Grand Prix,PIA,PIA
+2025_21_NOR_20.0,confusion_pair_NOR_PIA,2025_21,São Paulo Grand Prix,NOR,NOR
+2025_21_PIA_10.0,confusion_pair_NOR_PIA,2025_21,São Paulo Grand Prix,PIA,PIA
+2025_23_NOR_14.0,confusion_pair_NOR_PIA,2025_23,Qatar Grand Prix,NOR,NOR
+2025_23_PIA_17.0,confusion_pair_NOR_PIA,2025_23,Qatar Grand Prix,PIA,NOR
+2025_24_NOR_16.0,confusion_pair_NOR_PIA,2025_24,Abu Dhabi Grand Prix,NOR,NOR
+2025_24_PIA_16.0,confusion_pair_NOR_PIA,2025_24,Abu Dhabi Grand Prix,PIA,PIA
+2023_1_GAS_5.0,confusion_pair_GAS_TSU,2023_1,Bahrain Grand Prix,GAS,GAS
+2023_1_TSU_8.0,confusion_pair_GAS_TSU,2023_1,Bahrain Grand Prix,TSU,TSU
+2023_2_GAS_22.0,confusion_pair_GAS_TSU,2023_2,Saudi Arabian Grand Prix,GAS,GAS
+2023_2_TSU_9.0,confusion_pair_GAS_TSU,2023_2,Saudi Arabian Grand Prix,TSU,TSU
+2023_4_GAS_2.0,confusion_pair_GAS_TSU,2023_4,Azerbaijan Grand Prix,GAS,GAS
+2023_4_TSU_16.0,confusion_pair_GAS_TSU,2023_4,Azerbaijan Grand Prix,TSU,TSU
+2023_5_GAS_14.0,confusion_pair_GAS_TSU,2023_5,Miami Grand Prix,GAS,TSU
+2023_5_TSU_9.0,confusion_pair_GAS_TSU,2023_5,Miami Grand Prix,TSU,TSU
+2023_6_GAS_24.0,confusion_pair_GAS_TSU,2023_6,Monaco Grand Prix,GAS,TSU
+2023_6_TSU_28.0,confusion_pair_GAS_TSU,2023_6,Monaco Grand Prix,TSU,TSU
+2023_9_GAS_14.0,confusion_pair_GAS_TSU,2023_9,Austrian Grand Prix,GAS,GAS
+2023_9_TSU_6.0,confusion_pair_GAS_TSU,2023_9,Austrian Grand Prix,TSU,TSU
+2023_11_GAS_15.0,confusion_pair_GAS_TSU,2023_11,Hungarian Grand Prix,GAS,GAS
+2023_11_TSU_5.0,confusion_pair_GAS_TSU,2023_11,Hungarian Grand Prix,TSU,TSU
+2023_14_GAS_6.0,confusion_pair_GAS_TSU,2023_14,Italian Grand Prix,GAS,GAS
+2023_14_TSU_14.0,confusion_pair_GAS_TSU,2023_14,Italian Grand Prix,TSU,TSU
+2023_15_GAS_8.0,confusion_pair_GAS_TSU,2023_15,Singapore Grand Prix,GAS,GAS
+2023_15_TSU_5.0,confusion_pair_GAS_TSU,2023_15,Singapore Grand Prix,TSU,TSU
+2023_16_GAS_11.0,confusion_pair_GAS_TSU,2023_16,Japanese Grand Prix,GAS,GAS
+2023_16_TSU_11.0,confusion_pair_GAS_TSU,2023_16,Japanese Grand Prix,TSU,TSU
+2023_17_GAS_22.0,confusion_pair_GAS_TSU,2023_17,Qatar Grand Prix,GAS,GAS
+2023_17_TSU_15.0,confusion_pair_GAS_TSU,2023_17,Qatar Grand Prix,TSU,TSU
+2023_18_GAS_18.0,confusion_pair_GAS_TSU,2023_18,United States Grand Prix,GAS,GAS
+2023_18_TSU_11.0,confusion_pair_GAS_TSU,2023_18,United States Grand Prix,TSU,TSU
+2023_19_GAS_14.0,confusion_pair_GAS_TSU,2023_19,Mexico City Grand Prix,GAS,GAS
+2023_19_TSU_2.0,confusion_pair_GAS_TSU,2023_19,Mexico City Grand Prix,TSU,GAS
+2023_21_GAS_24.0,confusion_pair_GAS_TSU,2023_21,Las Vegas Grand Prix,GAS,GAS
+2023_21_TSU_3.0,confusion_pair_GAS_TSU,2023_21,Las Vegas Grand Prix,TSU,TSU
+2023_22_GAS_11.0,confusion_pair_GAS_TSU,2023_22,Abu Dhabi Grand Prix,GAS,GAS
+2023_22_TSU_17.0,confusion_pair_GAS_TSU,2023_22,Abu Dhabi Grand Prix,TSU,TSU
+2024_1_GAS_8.0,confusion_pair_GAS_TSU,2024_1,Bahrain Grand Prix,GAS,TSU
+2024_1_TSU_11.0,confusion_pair_GAS_TSU,2024_1,Bahrain Grand Prix,TSU,TSU
+2024_2_GAS_5.0,confusion_pair_GAS_TSU,2024_2,Saudi Arabian Grand Prix,GAS,GAS
+2024_2_TSU_17.0,confusion_pair_GAS_TSU,2024_2,Saudi Arabian Grand Prix,TSU,TSU
+2024_4_GAS_5.0,confusion_pair_GAS_TSU,2024_4,Japanese Grand Prix,GAS,GAS
+2024_4_TSU_17.0,confusion_pair_GAS_TSU,2024_4,Japanese Grand Prix,TSU,TSU
+2024_5_GAS_8.0,confusion_pair_GAS_TSU,2024_5,Chinese Grand Prix,GAS,GAS
+2024_5_TSU_8.0,confusion_pair_GAS_TSU,2024_5,Chinese Grand Prix,TSU,TSU
+2024_6_GAS_8.0,confusion_pair_GAS_TSU,2024_6,Miami Grand Prix,GAS,GAS
+2024_6_TSU_14.0,confusion_pair_GAS_TSU,2024_6,Miami Grand Prix,TSU,TSU
+2024_7_GAS_13.0,confusion_pair_GAS_TSU,2024_7,Emilia Romagna Grand Prix,GAS,GAS
+2024_7_TSU_8.0,confusion_pair_GAS_TSU,2024_7,Emilia Romagna Grand Prix,TSU,GAS
+2024_8_GAS_21.0,confusion_pair_GAS_TSU,2024_8,Monaco Grand Prix,GAS,GAS
+2024_8_TSU_24.0,confusion_pair_GAS_TSU,2024_8,Monaco Grand Prix,TSU,TSU
+2024_10_GAS_17.0,confusion_pair_GAS_TSU,2024_10,Spanish Grand Prix,GAS,GAS
+2024_10_TSU_8.0,confusion_pair_GAS_TSU,2024_10,Spanish Grand Prix,TSU,TSU
+2024_11_GAS_17.0,confusion_pair_GAS_TSU,2024_11,Austrian Grand Prix,GAS,GAS
+2024_11_TSU_11.0,confusion_pair_GAS_TSU,2024_11,Austrian Grand Prix,TSU,TSU
+2024_15_GAS_13.0,confusion_pair_GAS_TSU,2024_15,Dutch Grand Prix,GAS,GAS
+2024_15_TSU_14.0,confusion_pair_GAS_TSU,2024_15,Dutch Grand Prix,TSU,TSU
+2024_16_GAS_11.0,confusion_pair_GAS_TSU,2024_16,Italian Grand Prix,GAS,GAS
+2024_16_TSU_2.0,confusion_pair_GAS_TSU,2024_16,Italian Grand Prix,TSU,TSU
+2024_17_GAS_14.0,confusion_pair_GAS_TSU,2024_17,Azerbaijan Grand Prix,GAS,GAS
+2024_17_TSU_15.0,confusion_pair_GAS_TSU,2024_17,Azerbaijan Grand Prix,TSU,TSU
+2024_18_GAS_8.0,confusion_pair_GAS_TSU,2024_18,Singapore Grand Prix,GAS,GAS
+2024_18_TSU_11.0,confusion_pair_GAS_TSU,2024_18,Singapore Grand Prix,TSU,TSU
+2024_19_GAS_17.0,confusion_pair_GAS_TSU,2024_19,United States Grand Prix,GAS,GAS
+2024_19_TSU_13.0,confusion_pair_GAS_TSU,2024_19,United States Grand Prix,TSU,TSU
+2024_20_GAS_17.0,confusion_pair_GAS_TSU,2024_20,Mexico City Grand Prix,GAS,GAS
+2024_20_TSU_8.0,confusion_pair_GAS_TSU,2024_20,Mexico City Grand Prix,TSU,TSU
+2024_22_GAS_24.0,confusion_pair_GAS_TSU,2024_22,Las Vegas Grand Prix,GAS,TSU
+2024_22_TSU_24.0,confusion_pair_GAS_TSU,2024_22,Las Vegas Grand Prix,TSU,TSU
+2024_23_GAS_13.0,confusion_pair_GAS_TSU,2024_23,Qatar Grand Prix,GAS,GAS
+2024_23_TSU_15.0,confusion_pair_GAS_TSU,2024_23,Qatar Grand Prix,TSU,TSU
+2024_24_GAS_17.0,confusion_pair_GAS_TSU,2024_24,Abu Dhabi Grand Prix,GAS,GAS
+2024_24_TSU_11.0,confusion_pair_GAS_TSU,2024_24,Abu Dhabi Grand Prix,TSU,GAS
+2025_1_GAS_20.0,confusion_pair_GAS_TSU,2025_1,Australian Grand Prix,GAS,GAS
+2025_1_TSU_17.0,confusion_pair_GAS_TSU,2025_1,Australian Grand Prix,TSU,TSU
+2025_2_GAS_8.0,confusion_pair_GAS_TSU,2025_2,Chinese Grand Prix,GAS,GAS
+2025_2_TSU_7.0,confusion_pair_GAS_TSU,2025_2,Chinese Grand Prix,TSU,GAS
+2025_3_GAS_11.0,confusion_pair_GAS_TSU,2025_3,Japanese Grand Prix,GAS,GAS
+2025_3_TSU_5.0,confusion_pair_GAS_TSU,2025_3,Japanese Grand Prix,TSU,GAS
+2025_4_GAS_18.0,confusion_pair_GAS_TSU,2025_4,Bahrain Grand Prix,GAS,TSU
+2025_4_TSU_10.0,confusion_pair_GAS_TSU,2025_4,Bahrain Grand Prix,TSU,TSU
+2025_5_GAS_14.0,confusion_pair_GAS_TSU,2025_5,Saudi Arabian Grand Prix,GAS,TSU
+2025_5_TSU_11.0,confusion_pair_GAS_TSU,2025_5,Saudi Arabian Grand Prix,TSU,GAS
+2025_6_GAS_8.0,confusion_pair_GAS_TSU,2025_6,Miami Grand Prix,GAS,GAS
+2025_6_TSU_20.0,confusion_pair_GAS_TSU,2025_6,Miami Grand Prix,TSU,TSU
+2025_7_GAS_10.0,confusion_pair_GAS_TSU,2025_7,Emilia Romagna Grand Prix,GAS,GAS
+2025_8_GAS_10.0,confusion_pair_GAS_TSU,2025_8,Monaco Grand Prix,GAS,TSU
+2025_8_TSU_16.0,confusion_pair_GAS_TSU,2025_8,Monaco Grand Prix,TSU,TSU
+2025_9_GAS_17.0,confusion_pair_GAS_TSU,2025_9,Spanish Grand Prix,GAS,GAS
+2025_9_TSU_5.0,confusion_pair_GAS_TSU,2025_9,Spanish Grand Prix,TSU,TSU
+2025_10_GAS_9.0,confusion_pair_GAS_TSU,2025_10,Canadian Grand Prix,GAS,GAS
+2025_10_TSU_14.0,confusion_pair_GAS_TSU,2025_10,Canadian Grand Prix,TSU,TSU
+2025_11_GAS_14.0,confusion_pair_GAS_TSU,2025_11,Austrian Grand Prix,GAS,GAS
+2025_11_TSU_5.0,confusion_pair_GAS_TSU,2025_11,Austrian Grand Prix,TSU,TSU
+2025_12_GAS_14.0,confusion_pair_GAS_TSU,2025_12,British Grand Prix,GAS,GAS
+2025_12_TSU_12.0,confusion_pair_GAS_TSU,2025_12,British Grand Prix,TSU,GAS
+2025_13_GAS_13.0,confusion_pair_GAS_TSU,2025_13,Belgian Grand Prix,GAS,TSU
+2025_13_TSU_8.0,confusion_pair_GAS_TSU,2025_13,Belgian Grand Prix,TSU,TSU
+2025_14_GAS_5.0,confusion_pair_GAS_TSU,2025_14,Hungarian Grand Prix,GAS,GAS
+2025_14_TSU_5.0,confusion_pair_GAS_TSU,2025_14,Hungarian Grand Prix,TSU,TSU
+2025_15_GAS_14.0,confusion_pair_GAS_TSU,2025_15,Dutch Grand Prix,GAS,GAS
+2025_15_TSU_11.0,confusion_pair_GAS_TSU,2025_15,Dutch Grand Prix,TSU,TSU
+2025_16_GAS_8.0,confusion_pair_GAS_TSU,2025_16,Italian Grand Prix,GAS,TSU
+2025_16_TSU_8.0,confusion_pair_GAS_TSU,2025_16,Italian Grand Prix,TSU,TSU
+2025_18_GAS_5.0,confusion_pair_GAS_TSU,2025_18,Singapore Grand Prix,GAS,GAS
+2025_18_TSU_8.0,confusion_pair_GAS_TSU,2025_18,Singapore Grand Prix,TSU,TSU
+2025_19_GAS_7.0,confusion_pair_GAS_TSU,2025_19,United States Grand Prix,GAS,TSU
+2025_19_TSU_9.0,confusion_pair_GAS_TSU,2025_19,United States Grand Prix,TSU,TSU
+2025_20_GAS_8.0,confusion_pair_GAS_TSU,2025_20,Mexico City Grand Prix,GAS,TSU
+2025_20_TSU_11.0,confusion_pair_GAS_TSU,2025_20,Mexico City Grand Prix,TSU,TSU
+2025_21_GAS_14.0,confusion_pair_GAS_TSU,2025_21,São Paulo Grand Prix,GAS,TSU
+2025_21_TSU_8.0,confusion_pair_GAS_TSU,2025_21,São Paulo Grand Prix,TSU,TSU
+2025_23_GAS_14.0,confusion_pair_GAS_TSU,2025_23,Qatar Grand Prix,GAS,GAS
+2025_23_TSU_8.0,confusion_pair_GAS_TSU,2025_23,Qatar Grand Prix,TSU,GAS
+2025_24_GAS_8.0,confusion_pair_GAS_TSU,2025_24,Abu Dhabi Grand Prix,GAS,GAS
+2025_24_TSU_11.0,confusion_pair_GAS_TSU,2025_24,Abu Dhabi Grand Prix,TSU,GAS
+2023_1_HUL_13.0,confusion_pair_HUL_RUS,2023_1,Bahrain Grand Prix,HUL,HUL
+2023_1_RUS_14.0,confusion_pair_HUL_RUS,2023_1,Bahrain Grand Prix,RUS,RUS
+2023_2_HUL_17.0,confusion_pair_HUL_RUS,2023_2,Saudi Arabian Grand Prix,HUL,HUL
+2023_2_RUS_20.0,confusion_pair_HUL_RUS,2023_2,Saudi Arabian Grand Prix,RUS,RUS
+2023_4_HUL_9.0,confusion_pair_HUL_RUS,2023_4,Azerbaijan Grand Prix,HUL,HUL
+2023_4_RUS_16.0,confusion_pair_HUL_RUS,2023_4,Azerbaijan Grand Prix,RUS,HUL
+2023_5_HUL_12.0,confusion_pair_HUL_RUS,2023_5,Miami Grand Prix,HUL,HUL
+2023_5_RUS_14.0,confusion_pair_HUL_RUS,2023_5,Miami Grand Prix,RUS,RUS
+2023_6_HUL_6.0,confusion_pair_HUL_RUS,2023_6,Monaco Grand Prix,HUL,HUL
+2023_6_RUS_25.0,confusion_pair_HUL_RUS,2023_6,Monaco Grand Prix,RUS,RUS
+2023_9_HUL_23.0,confusion_pair_HUL_RUS,2023_9,Austrian Grand Prix,HUL,HUL
+2023_9_RUS_17.0,confusion_pair_HUL_RUS,2023_9,Austrian Grand Prix,RUS,RUS
+2023_11_HUL_19.0,confusion_pair_HUL_RUS,2023_11,Hungarian Grand Prix,HUL,HUL
+2023_11_RUS_8.0,confusion_pair_HUL_RUS,2023_11,Hungarian Grand Prix,RUS,RUS
+2023_14_HUL_12.0,confusion_pair_HUL_RUS,2023_14,Italian Grand Prix,HUL,RUS
+2023_14_RUS_20.0,confusion_pair_HUL_RUS,2023_14,Italian Grand Prix,RUS,RUS
+2023_15_HUL_20.0,confusion_pair_HUL_RUS,2023_15,Singapore Grand Prix,HUL,HUL
+2023_15_RUS_16.0,confusion_pair_HUL_RUS,2023_15,Singapore Grand Prix,RUS,RUS
+2023_16_HUL_5.0,confusion_pair_HUL_RUS,2023_16,Japanese Grand Prix,HUL,HUL
+2023_16_RUS_14.0,confusion_pair_HUL_RUS,2023_16,Japanese Grand Prix,RUS,RUS
+2023_17_HUL_11.0,confusion_pair_HUL_RUS,2023_17,Qatar Grand Prix,HUL,HUL
+2023_17_RUS_20.0,confusion_pair_HUL_RUS,2023_17,Qatar Grand Prix,RUS,RUS
+2023_18_HUL_2.0,confusion_pair_HUL_RUS,2023_18,United States Grand Prix,HUL,HUL
+2023_18_RUS_17.0,confusion_pair_HUL_RUS,2023_18,United States Grand Prix,RUS,RUS
+2023_19_HUL_11.0,confusion_pair_HUL_RUS,2023_19,Mexico City Grand Prix,HUL,HUL
+2023_19_RUS_12.0,confusion_pair_HUL_RUS,2023_19,Mexico City Grand Prix,RUS,HUL
+2023_21_HUL_14.0,confusion_pair_HUL_RUS,2023_21,Las Vegas Grand Prix,HUL,HUL
+2023_21_RUS_21.0,confusion_pair_HUL_RUS,2023_21,Las Vegas Grand Prix,RUS,RUS
+2023_22_HUL_17.0,confusion_pair_HUL_RUS,2023_22,Abu Dhabi Grand Prix,HUL,HUL
+2023_22_RUS_17.0,confusion_pair_HUL_RUS,2023_22,Abu Dhabi Grand Prix,RUS,RUS
+2024_1_HUL_11.0,confusion_pair_HUL_RUS,2024_1,Bahrain Grand Prix,HUL,RUS
+2024_1_RUS_16.0,confusion_pair_HUL_RUS,2024_1,Bahrain Grand Prix,RUS,RUS
+2024_2_HUL_7.0,confusion_pair_HUL_RUS,2024_2,Saudi Arabian Grand Prix,HUL,HUL
+2024_2_RUS_19.0,confusion_pair_HUL_RUS,2024_2,Saudi Arabian Grand Prix,RUS,RUS
+2024_4_HUL_11.0,confusion_pair_HUL_RUS,2024_4,Japanese Grand Prix,HUL,HUL
+2024_4_RUS_11.0,confusion_pair_HUL_RUS,2024_4,Japanese Grand Prix,RUS,RUS
+2024_5_HUL_20.0,confusion_pair_HUL_RUS,2024_5,Chinese Grand Prix,HUL,HUL
+2024_5_RUS_19.0,confusion_pair_HUL_RUS,2024_5,Chinese Grand Prix,RUS,RUS
+2024_6_HUL_20.0,confusion_pair_HUL_RUS,2024_6,Miami Grand Prix,HUL,HUL
+2024_6_RUS_17.0,confusion_pair_HUL_RUS,2024_6,Miami Grand Prix,RUS,RUS
+2024_7_HUL_14.0,confusion_pair_HUL_RUS,2024_7,Emilia Romagna Grand Prix,HUL,HUL
+2024_7_RUS_17.0,confusion_pair_HUL_RUS,2024_7,Emilia Romagna Grand Prix,RUS,HUL
+2024_8_HUL_19.0,confusion_pair_HUL_RUS,2024_8,Monaco Grand Prix,HUL,HUL
+2024_8_RUS_27.0,confusion_pair_HUL_RUS,2024_8,Monaco Grand Prix,RUS,HUL
+2024_10_HUL_11.0,confusion_pair_HUL_RUS,2024_10,Spanish Grand Prix,HUL,HUL
+2024_10_RUS_15.0,confusion_pair_HUL_RUS,2024_10,Spanish Grand Prix,RUS,RUS
+2024_11_HUL_14.0,confusion_pair_HUL_RUS,2024_11,Austrian Grand Prix,HUL,HUL
+2024_11_RUS_17.0,confusion_pair_HUL_RUS,2024_11,Austrian Grand Prix,RUS,RUS
+2024_15_HUL_16.0,confusion_pair_HUL_RUS,2024_15,Dutch Grand Prix,HUL,HUL
+2024_15_RUS_17.0,confusion_pair_HUL_RUS,2024_15,Dutch Grand Prix,RUS,RUS
+2024_16_HUL_17.0,confusion_pair_HUL_RUS,2024_16,Italian Grand Prix,HUL,HUL
+2024_16_RUS_17.0,confusion_pair_HUL_RUS,2024_16,Italian Grand Prix,RUS,RUS
+2024_17_HUL_13.0,confusion_pair_HUL_RUS,2024_17,Azerbaijan Grand Prix,HUL,HUL
+2024_17_RUS_19.0,confusion_pair_HUL_RUS,2024_17,Azerbaijan Grand Prix,RUS,HUL
+2024_18_HUL_17.0,confusion_pair_HUL_RUS,2024_18,Singapore Grand Prix,HUL,HUL
+2024_18_RUS_16.0,confusion_pair_HUL_RUS,2024_18,Singapore Grand Prix,RUS,RUS
+2024_19_HUL_8.0,confusion_pair_HUL_RUS,2024_19,United States Grand Prix,HUL,HUL
+2024_19_RUS_12.0,confusion_pair_HUL_RUS,2024_19,United States Grand Prix,RUS,RUS
+2024_20_HUL_2.0,confusion_pair_HUL_RUS,2024_20,Mexico City Grand Prix,HUL,HUL
+2024_20_RUS_18.0,confusion_pair_HUL_RUS,2024_20,Mexico City Grand Prix,RUS,HUL
+2024_22_HUL_16.0,confusion_pair_HUL_RUS,2024_22,Las Vegas Grand Prix,HUL,RUS
+2024_22_RUS_24.0,confusion_pair_HUL_RUS,2024_22,Las Vegas Grand Prix,RUS,HUL
+2024_23_HUL_6.0,confusion_pair_HUL_RUS,2024_23,Qatar Grand Prix,HUL,HUL
+2024_23_RUS_23.0,confusion_pair_HUL_RUS,2024_23,Qatar Grand Prix,RUS,RUS
+2024_24_HUL_16.0,confusion_pair_HUL_RUS,2024_24,Abu Dhabi Grand Prix,HUL,HUL
+2024_24_RUS_18.0,confusion_pair_HUL_RUS,2024_24,Abu Dhabi Grand Prix,RUS,HUL
+2025_1_HUL_8.0,confusion_pair_HUL_RUS,2025_1,Australian Grand Prix,HUL,HUL
+2025_1_RUS_20.0,confusion_pair_HUL_RUS,2025_1,Australian Grand Prix,RUS,RUS
+2025_2_HUL_14.0,confusion_pair_HUL_RUS,2025_2,Chinese Grand Prix,HUL,RUS
+2025_2_RUS_21.0,confusion_pair_HUL_RUS,2025_2,Chinese Grand Prix,RUS,RUS
+2025_3_HUL_8.0,confusion_pair_HUL_RUS,2025_3,Japanese Grand Prix,HUL,HUL
+2025_3_RUS_13.0,confusion_pair_HUL_RUS,2025_3,Japanese Grand Prix,RUS,RUS
+2025_4_HUL_13.0,confusion_pair_HUL_RUS,2025_4,Bahrain Grand Prix,HUL,RUS
+2025_4_RUS_19.0,confusion_pair_HUL_RUS,2025_4,Bahrain Grand Prix,RUS,RUS
+2025_5_HUL_5.0,confusion_pair_HUL_RUS,2025_5,Saudi Arabian Grand Prix,HUL,HUL
+2025_5_RUS_15.0,confusion_pair_HUL_RUS,2025_5,Saudi Arabian Grand Prix,RUS,RUS
+2025_6_HUL_5.0,confusion_pair_HUL_RUS,2025_6,Miami Grand Prix,HUL,HUL
+2025_6_RUS_19.0,confusion_pair_HUL_RUS,2025_6,Miami Grand Prix,RUS,HUL
+2025_7_HUL_5.0,confusion_pair_HUL_RUS,2025_7,Emilia Romagna Grand Prix,HUL,HUL
+2025_7_RUS_16.0,confusion_pair_HUL_RUS,2025_7,Emilia Romagna Grand Prix,RUS,RUS
+2025_8_HUL_22.0,confusion_pair_HUL_RUS,2025_8,Monaco Grand Prix,HUL,HUL
+2025_8_RUS_6.0,confusion_pair_HUL_RUS,2025_8,Monaco Grand Prix,RUS,HUL
+2025_9_HUL_5.0,confusion_pair_HUL_RUS,2025_9,Spanish Grand Prix,HUL,RUS
+2025_9_RUS_11.0,confusion_pair_HUL_RUS,2025_9,Spanish Grand Prix,RUS,RUS
+2025_10_HUL_17.0,confusion_pair_HUL_RUS,2025_10,Canadian Grand Prix,HUL,RUS
+2025_10_RUS_20.0,confusion_pair_HUL_RUS,2025_10,Canadian Grand Prix,RUS,RUS
+2025_11_HUL_5.0,confusion_pair_HUL_RUS,2025_11,Austrian Grand Prix,HUL,HUL
+2025_11_RUS_14.0,confusion_pair_HUL_RUS,2025_11,Austrian Grand Prix,RUS,HUL
+2025_12_HUL_8.0,confusion_pair_HUL_RUS,2025_12,British Grand Prix,HUL,HUL
+2025_12_RUS_18.0,confusion_pair_HUL_RUS,2025_12,British Grand Prix,RUS,RUS
+2025_13_HUL_13.0,confusion_pair_HUL_RUS,2025_13,Belgian Grand Prix,HUL,HUL
+2025_13_RUS_11.0,confusion_pair_HUL_RUS,2025_13,Belgian Grand Prix,RUS,HUL
+2025_14_HUL_5.0,confusion_pair_HUL_RUS,2025_14,Hungarian Grand Prix,HUL,HUL
+2025_14_RUS_8.0,confusion_pair_HUL_RUS,2025_14,Hungarian Grand Prix,RUS,HUL
+2025_15_HUL_5.0,confusion_pair_HUL_RUS,2025_15,Dutch Grand Prix,HUL,HUL
+2025_15_RUS_14.0,confusion_pair_HUL_RUS,2025_15,Dutch Grand Prix,RUS,HUL
+2025_16_HUL_14.0,confusion_pair_HUL_RUS,2025_16,Italian Grand Prix,HUL,RUS
+2025_16_RUS_14.0,confusion_pair_HUL_RUS,2025_16,Italian Grand Prix,RUS,RUS
+2025_18_HUL_14.0,confusion_pair_HUL_RUS,2025_18,Singapore Grand Prix,HUL,HUL
+2025_18_RUS_17.0,confusion_pair_HUL_RUS,2025_18,Singapore Grand Prix,RUS,RUS
+2025_19_HUL_10.0,confusion_pair_HUL_RUS,2025_19,United States Grand Prix,HUL,HUL
+2025_19_RUS_18.0,confusion_pair_HUL_RUS,2025_19,United States Grand Prix,RUS,HUL
+2025_20_HUL_11.0,confusion_pair_HUL_RUS,2025_20,Mexico City Grand Prix,HUL,HUL
+2025_20_RUS_17.0,confusion_pair_HUL_RUS,2025_20,Mexico City Grand Prix,RUS,HUL
+2025_21_HUL_16.0,confusion_pair_HUL_RUS,2025_21,São Paulo Grand Prix,HUL,RUS
+2025_21_RUS_8.0,confusion_pair_HUL_RUS,2025_21,São Paulo Grand Prix,RUS,RUS
+2025_23_HUL_19.0,confusion_pair_HUL_RUS,2025_23,Qatar Grand Prix,HUL,HUL
+2025_23_RUS_25.0,confusion_pair_HUL_RUS,2025_23,Qatar Grand Prix,RUS,RUS
+2025_24_HUL_8.0,confusion_pair_HUL_RUS,2025_24,Abu Dhabi Grand Prix,HUL,HUL
+2025_24_RUS_17.0,confusion_pair_HUL_RUS,2025_24,Abu Dhabi Grand Prix,RUS,RUS

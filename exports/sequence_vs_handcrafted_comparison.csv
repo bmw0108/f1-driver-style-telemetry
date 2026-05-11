@@ -1,0 +1,3 @@
+model_family,subset_name,oof_accuracy,oof_macro_f1,accuracy_vs_handcrafted,macro_f1_vs_handcrafted
+handcrafted_compact_logreg,distinctive_top5,0.8608058608058609,0.8617037086448901,0.0,0.0
+sequence_1d_cnn,distinctive_top5,0.8754578754578755,0.8731537856303527,0.0146520146520146,0.011450076985462632

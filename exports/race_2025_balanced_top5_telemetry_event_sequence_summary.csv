@@ -1,0 +1,19 @@
+round,event_name,n_laps,n_drivers,merged_rows_mean,merged_rows_median
+2,Chinese Grand Prix,251,5,363.45418326693226,363.0
+3,Japanese Grand Prix,249,5,347.2570281124498,346.0
+4,Bahrain Grand Prix,230,5,364.5,365.0
+5,Saudi Arabian Grand Prix,225,5,352.08444444444444,351.0
+7,Emilia Romagna Grand Prix,220,5,300.6136363636364,300.0
+8,Monaco Grand Prix,289,5,281.80276816608995,281.0
+9,Spanish Grand Prix,271,5,299.21771217712177,299.0
+11,Austrian Grand Prix,184,3,261.7282608695652,262.0
+14,Hungarian Grand Prix,319,5,305.8871473354232,306.0
+15,Dutch Grand Prix,220,5,278.31363636363636,278.0
+16,Italian Grand Prix,243,5,309.18106995884773,309.0
+17,Azerbaijan Grand Prix,204,5,392.77941176470586,393.0
+19,United States Grand Prix,194,5,367.42783505154637,368.5
+20,Mexico City Grand Prix,307,5,304.91205211726384,304.0
+21,São Paulo Grand Prix,198,4,279.0,279.0
+22,Las Vegas Grand Prix,211,5,359.02843601895734,359.0
+23,Qatar Grand Prix,249,5,317.73493975903614,318.0
+24,Abu Dhabi Grand Prix,270,5,331.52592592592595,331.5

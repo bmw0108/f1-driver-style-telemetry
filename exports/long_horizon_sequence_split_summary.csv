@@ -1,0 +1,11 @@
+subset_name,fold,n_train,n_train_inner,n_val,n_test
+balanced_top5,1,560,444,116,138
+balanced_top5,2,559,450,109,139
+balanced_top5,3,554,442,112,144
+balanced_top5,4,558,446,112,140
+balanced_top5,5,561,450,111,137
+balanced_top6,1,668,530,138,165
+balanced_top6,2,661,522,139,172
+balanced_top6,3,668,529,139,165
+balanced_top6,4,670,532,138,163
+balanced_top6,5,665,529,136,168

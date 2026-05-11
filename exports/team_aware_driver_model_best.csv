@@ -1,0 +1,4 @@
+dataset,model_family,model_name,n_samples,accuracy,balanced_accuracy,macro_f1,notes
+long_qualifying_2018_2025_top5,sequence_reference,cnn,698,0.9040114613180515,0.9003730882492638,0.9011575144365972,"existing sequence/hybrid result, not retrained in this script"
+race_2025_clean_laps_top5,sequence_reference,hybrid_cnn_tabular,4334,0.8567143516382095,0.8559862628159631,0.856407149159734,"existing sequence/hybrid result, not retrained in this script"
+short_qualifying_2023_2025_top5,sequence_reference,hybrid_cnn_tabular,273,0.9157509157509156,0.9154208754208756,0.9147439815086876,"existing sequence/hybrid result, not retrained in this script"

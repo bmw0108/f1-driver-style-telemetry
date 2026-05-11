@@ -1,0 +1,2 @@
+subset_name,drivers,config_name,n_features,penalty,C,class_weight
+distinctive_top5,"ALB, SAI, VER, OCO, LEC",compact_no_context_no_phase,57,l1,2.0,none

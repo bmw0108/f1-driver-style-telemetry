@@ -1,0 +1,2 @@
+target_laps,extracted_ok_laps,extraction_success_rate,merged_rows_total,merged_rows_mean,merged_rows_median,merged_rows_min,merged_rows_max,events_covered,drivers_covered
+4334,4334,1.0,1396149,322.1386709736964,313.0,245,413,18,5

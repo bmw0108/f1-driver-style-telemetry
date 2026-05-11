@@ -1,0 +1,4 @@
+setup,n_rows,n_columns,numeric_columns,categorical_columns,identifier_or_context_columns,numeric_model_candidate_columns
+Kwalifikacje 2023-2025,273,86,81,5,5,81
+Kwalifikacje 2018-2025,698,58,51,7,7,51
+Wyścigi 2025,4334,70,53,17,8,52

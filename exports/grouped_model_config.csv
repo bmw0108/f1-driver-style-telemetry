@@ -1,0 +1,9 @@
+experiment,model,C,penalty,solver,max_iter,n_estimators,max_depth,min_samples_leaf,max_features,learning_rate,max_leaf_nodes,subsample,colsample_bytree
+experiment_a_with_time_features,logistic_regression,1.0,l2,lbfgs,5000.0,,,,,,,,
+experiment_a_with_time_features,random_forest,,,,,500.0,,1.0,sqrt,,,,
+experiment_a_with_time_features,hist_gradient_boosting,,,,,,,20.0,,0.1,31.0,,
+experiment_a_with_time_features,xgboost,,,,,400.0,6.0,,,0.05,,0.9,0.9
+experiment_b_without_time_features,logistic_regression,1.0,l2,lbfgs,5000.0,,,,,,,,
+experiment_b_without_time_features,random_forest,,,,,500.0,,1.0,sqrt,,,,
+experiment_b_without_time_features,hist_gradient_boosting,,,,,,,20.0,,0.1,31.0,,
+experiment_b_without_time_features,xgboost,,,,,400.0,6.0,,,0.05,,0.9,0.9

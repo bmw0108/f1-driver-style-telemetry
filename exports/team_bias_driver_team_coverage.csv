@@ -1,0 +1,41 @@
+Driver,Team,n_laps,dataset
+ALB,Williams,55,short_qualifying_2023_2025
+ALO,Aston Martin,55,short_qualifying_2023_2025
+GAS,Alpine,55,short_qualifying_2023_2025
+HAM,Mercedes,33,short_qualifying_2023_2025
+HAM,Ferrari,22,short_qualifying_2023_2025
+HUL,Haas F1 Team,33,short_qualifying_2023_2025
+HUL,Kick Sauber,22,short_qualifying_2023_2025
+LEC,Ferrari,55,short_qualifying_2023_2025
+NOR,McLaren,55,short_qualifying_2023_2025
+OCO,Alpine,32,short_qualifying_2023_2025
+OCO,Haas F1 Team,22,short_qualifying_2023_2025
+PIA,McLaren,55,short_qualifying_2023_2025
+RUS,Mercedes,55,short_qualifying_2023_2025
+SAI,Ferrari,32,short_qualifying_2023_2025
+SAI,Williams,22,short_qualifying_2023_2025
+STR,Aston Martin,54,short_qualifying_2023_2025
+TSU,Red Bull Racing,19,short_qualifying_2023_2025
+TSU,RB,18,short_qualifying_2023_2025
+TSU,AlphaTauri,15,short_qualifying_2023_2025
+TSU,Racing Bulls,2,short_qualifying_2023_2025
+VER,Red Bull Racing,55,short_qualifying_2023_2025
+HAM,Mercedes,122,long_qualifying_2018_2025_top5
+HAM,Ferrari,22,long_qualifying_2018_2025_top5
+LEC,Ferrari,128,long_qualifying_2018_2025_top5
+LEC,Sauber,17,long_qualifying_2018_2025_top5
+OCO,Alpine,68,long_qualifying_2018_2025_top5
+OCO,Haas F1 Team,22,long_qualifying_2018_2025_top5
+OCO,Renault,15,long_qualifying_2018_2025_top5
+OCO,Force India,9,long_qualifying_2018_2025_top5
+OCO,Racing Point,7,long_qualifying_2018_2025_top5
+SAI,Ferrari,69,long_qualifying_2018_2025_top5
+SAI,McLaren,35,long_qualifying_2018_2025_top5
+SAI,Williams,22,long_qualifying_2018_2025_top5
+SAI,Renault,18,long_qualifying_2018_2025_top5
+VER,Red Bull Racing,144,long_qualifying_2018_2025_top5
+HAM,Ferrari,867,race_2025_clean_laps_top5
+LEC,Ferrari,875,race_2025_clean_laps_top5
+OCO,Haas F1 Team,911,race_2025_clean_laps_top5
+SAI,Williams,799,race_2025_clean_laps_top5
+VER,Red Bull Racing,882,race_2025_clean_laps_top5

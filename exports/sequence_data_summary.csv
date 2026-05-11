@@ -1,0 +1,2 @@
+n_laps,n_drivers,n_sessions,seq_len,n_channels,raw_len_mean,raw_len_median,raw_len_min,raw_len_max,channels
+273,5,55,300,5,310.56410256410254,316.0,236,399,"Speed, Throttle, Brake, RPM, nGear"

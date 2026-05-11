@@ -1,0 +1,13 @@
+dataset,feature_config,result_name,target,team_model,driver_model,n_samples,n_drivers,n_teams,n_groups,n_features,accuracy,balanced_accuracy,macro_f1
+long_qualifying_2018_2025_top5,no_time_features,direct_driver,Driver,,logistic_l2,698,5,11,146,43,0.8123209169054442,0.8095637408568443,0.8103495186050939
+long_qualifying_2018_2025_top5,no_time_features,direct_team,Team,logistic_l2,,698,5,11,146,43,0.8008595988538681,0.5352137546882783,0.5704991305637548
+long_qualifying_2018_2025_top5,style_core_no_time_context,hierarchical_driver_final,Driver,logistic_l2,logistic_l2,698,5,11,146,40,0.7936962750716332,0.7891704664196827,0.7894614424020177
+long_qualifying_2018_2025_top5,style_core_no_time_context,hierarchical_team_stage,Team,logistic_l2,logistic_l2,698,5,11,146,40,0.7879656160458453,0.5098011355269724,0.5347760795660843
+race_2025_clean_laps_top5,style_core_no_time_context,direct_driver,Driver,,logistic_l2,4334,5,4,18,40,0.7974157821873558,0.7978714808608817,0.7965026090059484
+race_2025_clean_laps_top5,all_telemetry_features,direct_team,Team,logistic_l2,,4334,5,4,18,45,0.8322565759113982,0.8326520212042943,0.8241864799747348
+race_2025_clean_laps_top5,style_core_no_time_context,hierarchical_driver_final,Driver,logistic_l2,logistic_l2,4334,5,4,18,40,0.7833410244577758,0.7845043824426519,0.7815331609990599
+race_2025_clean_laps_top5,style_core_no_time_context,hierarchical_team_stage,Team,logistic_l2,logistic_l2,4334,5,4,18,40,0.8299492385786802,0.8325989472401385,0.8231034232442938
+short_qualifying_2023_2025_top5,no_time_features,direct_driver,Driver,,logistic_l2,273,5,5,24,65,0.8498168498168498,0.8493602693602694,0.8494124399682688
+short_qualifying_2023_2025_top5,style_core_no_time_context,direct_team,Team,logistic_l2,,273,5,5,24,62,0.8754578754578755,0.8509788774443947,0.8443001481504568
+short_qualifying_2023_2025_top5,style_core_no_time_context,hierarchical_driver_final,Driver,logistic_l2,logistic_l2,273,5,5,24,62,0.8424908424908425,0.8418855218855219,0.8411374120072969
+short_qualifying_2023_2025_top5,style_core_no_time_context,hierarchical_team_stage,Team,logistic_l2,logistic_l2,273,5,5,24,62,0.8754578754578755,0.8509788774443947,0.8443001481504568

@@ -1,0 +1,25 @@
+round,event_name,n_raw_laps,n_valid_green_non_pit_laps,is_dry_session
+1,Australian Grand Prix,927,555,False
+2,Chinese Grand Prix,1065,994,True
+3,Japanese Grand Prix,1059,1059,True
+4,Bahrain Grand Prix,1128,1048,True
+5,Saudi Arabian Grand Prix,898,842,True
+6,Miami Grand Prix,1005,881,False
+7,Emilia Romagna Grand Prix,1207,986,True
+8,Monaco Grand Prix,1425,1249,True
+9,Spanish Grand Prix,1203,1088,True
+10,Canadian Grand Prix,1349,1241,False
+11,Austrian Grand Prix,1127,1057,True
+12,British Grand Prix,826,485,False
+13,Belgian Grand Prix,879,799,False
+14,Hungarian Grand Prix,1368,1368,True
+15,Dutch Grand Prix,1364,1048,True
+16,Italian Grand Prix,975,956,True
+17,Azerbaijan Grand Prix,968,828,True
+18,Singapore Grand Prix,1229,1189,False
+19,United States Grand Prix,1067,964,True
+20,Mexico City Grand Prix,1263,1181,True
+21,São Paulo Grand Prix,1251,1100,True
+22,Las Vegas Grand Prix,886,793,True
+23,Qatar Grand Prix,1067,990,True
+24,Abu Dhabi Grand Prix,1156,1156,True

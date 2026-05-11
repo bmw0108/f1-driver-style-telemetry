@@ -1,0 +1,14 @@
+column,present,non_null_fraction
+RPM,True,1.0
+Speed,True,1.0
+nGear,True,1.0
+Throttle,True,1.0
+Brake,True,1.0
+DRS,True,1.0
+X,True,1.0
+Y,True,1.0
+Z,True,1.0
+telemetry_time_sec,True,1.0
+telemetry_session_time_sec,True,1.0
+pos_time_sec,True,1.0
+pos_session_time_sec,True,1.0

@@ -1,0 +1,7 @@
+stage,n_laps,n_drivers,n_sessions
+Raw qualifying laps,22465,28,70
+Dry accurate clean laps,6278,28,55
+Personal-best dry laps,4853,28,55
+Best laps extracted successfully,1091,28,55
+Broad 14-driver modeling set,766,14,55
+Final distinctive_top5 set,273,5,55

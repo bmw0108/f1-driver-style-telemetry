@@ -1,0 +1,4 @@
+feature
+SessionPart
+lap_time_delta_to_stint_median
+stint_median_lap_seconds

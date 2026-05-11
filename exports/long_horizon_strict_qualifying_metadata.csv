@@ -1,0 +1,2 @@
+strict_source_horizon,included_sessions,dry_flag_note,recommended_top5,recommended_top6
+2018-2025,Qualifying only,2018-2022 sessions use compound-based dry inference when weather-derived dry flag is unavailable; 2023-2025 uses existing weather-derived dry flag.,"SAI, VER, LEC, OCO, HAM","SAI, VER, LEC, OCO, HAM, STR"

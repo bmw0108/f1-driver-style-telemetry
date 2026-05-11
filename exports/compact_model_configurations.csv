@@ -1,0 +1,10 @@
+config_name,n_features
+compact_controls,23
+compact_vehicle_state,38
+compact_core_behavior,46
+compact_no_context_no_phase_no_speed,46
+compact_controls_powertrain_dynamics,50
+compact_no_context_no_speed,50
+compact_no_context_no_phase,57
+compact_no_context,61
+full_model,64

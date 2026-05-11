@@ -1,0 +1,5 @@
+candidate_name,drivers,selection_logic
+coverage_top5_q,"LEC, GAS, HAM, SAI, VER",Top 5 by 2018-2025 qualifying coverage among drivers with current 2023-2025 distinctiveness signal.
+distinctiveness_top5_with_coverage_floor,"SAI, VER, OCO, LEC, HAM","Top 5 by current distinctiveness, restricted to drivers with at least 7 qualifying seasons in the 2018-2025 pool."
+balanced_top5,"SAI, VER, LEC, OCO, HAM","Top 5 by equal-weight balance of 2018-2025 qualifying coverage and current 2023-2025 distinctiveness, with a 7-season coverage floor."
+balanced_top6,"SAI, VER, LEC, OCO, HAM, STR","Same as balanced_top5, but keeping 6 drivers for a slightly wider strict benchmark."

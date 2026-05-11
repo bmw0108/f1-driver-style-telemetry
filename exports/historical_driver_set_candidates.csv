@@ -1,0 +1,8 @@
+candidate_name,drivers,n_drivers,min_n_seasons,min_n_sessions,mean_n_sessions,min_n_lap_rows,mean_n_lap_rows,n_seasons_with_full_overlap,full_overlap_seasons
+season5_top5,"BOT, SAI, RIC, GAS, LEC",5,5,187,187.0,6476,6656.8,5,"2018, 2019, 2020, 2021, 2022"
+season5_top6,"BOT, SAI, RIC, GAS, LEC, VER",6,5,186,186.83333333333334,6476,6641.333333333333,5,"2018, 2019, 2020, 2021, 2022"
+season5_top8,"BOT, SAI, RIC, GAS, LEC, VER, HAM, STR",8,5,185,186.375,6155,6660.25,5,"2018, 2019, 2020, 2021, 2022"
+season4plus_top8,"BOT, SAI, RIC, GAS, LEC, VER, HAM, STR",8,5,185,186.375,6155,6660.25,5,"2018, 2019, 2020, 2021, 2022"
+season5_top10,"BOT, SAI, RIC, GAS, LEC, VER, HAM, STR, VET, PER",10,5,183,185.7,6155,6646.2,5,"2018, 2019, 2020, 2021, 2022"
+season4plus_top10,"BOT, SAI, RIC, GAS, LEC, VER, HAM, STR, VET, PER",10,5,183,185.7,6155,6646.2,5,"2018, 2019, 2020, 2021, 2022"
+season4plus_top12,"BOT, SAI, RIC, GAS, LEC, VER, HAM, STR, VET, PER, RAI, NOR",12,4,145,180.0,5393,6448.083333333333,5,"2018, 2019, 2020, 2021, 2022"

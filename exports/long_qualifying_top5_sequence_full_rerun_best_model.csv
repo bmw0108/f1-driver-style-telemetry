@@ -1,0 +1,2 @@
+setup,model,n_samples,n_drivers,n_groups,oof_accuracy,oof_balanced_accuracy,oof_macro_f1
+long_qualifying_top5,hybrid_cnn_tabular,698,5,146,0.9068767908309456,0.9050659415471328,0.905607314120855

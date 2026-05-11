@@ -1,0 +1,9 @@
+step,n_rows,n_unique_drivers,n_unique_sessions
+00_raw_all_qualifying_laps,53690,43,173
+01_lap_time_not_null,36576,43,173
+02_dry_sessions_only,29382,43,146
+03_is_accurate_true,17186,43,146
+04_not_deleted,17186,43,146
+05_not_fastf1_generated,17186,43,146
+06_track_status_eq_1,16217,43,146
+07a_personal_best_only,11848,43,146

@@ -1,0 +1,14 @@
+source_label,season,session_name,n_session_rows,n_unique_sessions,n_unique_drivers
+2018_2022_qr_backfill,2018,Q,4644,21,20
+2018_2022_qr_backfill,2018,R,21933,21,20
+2018_2022_qr_backfill,2019,Q,4533,21,20
+2018_2022_qr_backfill,2019,R,23314,21,20
+2018_2022_qr_backfill,2020,Q,3884,17,23
+2018_2022_qr_backfill,2020,R,17934,17,23
+2018_2022_qr_backfill,2021,Q,5051,22,21
+2018_2022_qr_backfill,2021,R,23314,22,21
+2018_2022_qr_backfill,2022,Q,5306,22,22
+2018_2022_qr_backfill,2022,R,23123,22,22
+2023_2025_q_existing,2023,Q,5622,22,22
+2023_2025_q_existing,2024,Q,5592,24,24
+2023_2025_q_existing,2025,Q,5367,24,21

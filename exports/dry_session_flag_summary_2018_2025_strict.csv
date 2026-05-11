@@ -1,0 +1,16 @@
+season,dry_flag_source,session_is_dry_final,n_sessions
+2018,compound_inference,False,3
+2018,compound_inference,True,18
+2019,compound_inference,True,21
+2020,compound_inference,False,2
+2020,compound_inference,True,15
+2021,compound_inference,False,2
+2021,compound_inference,True,20
+2022,compound_inference,False,5
+2022,compound_inference,True,17
+2023,weather_flag,False,7
+2023,weather_flag,True,15
+2024,weather_flag,False,6
+2024,weather_flag,True,18
+2025,weather_flag,False,2
+2025,weather_flag,True,22

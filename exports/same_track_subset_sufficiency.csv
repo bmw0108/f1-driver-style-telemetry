@@ -1,0 +1,169 @@
+event_name,n_samples,n_sessions,n_drivers_present,n_seasons,subset_name,expected_samples_if_full,full_coverage
+Abu Dhabi Grand Prix,14,3,5,3,distinctive_top5,15,False
+Australian Grand Prix,5,1,5,1,distinctive_top5,5,True
+Austrian Grand Prix,15,3,5,3,distinctive_top5,15,True
+Azerbaijan Grand Prix,10,2,5,2,distinctive_top5,10,True
+Bahrain Grand Prix,15,3,5,3,distinctive_top5,15,True
+Belgian Grand Prix,5,1,5,1,distinctive_top5,5,True
+British Grand Prix,5,1,5,1,distinctive_top5,5,True
+Canadian Grand Prix,5,1,5,1,distinctive_top5,5,True
+Chinese Grand Prix,10,2,5,2,distinctive_top5,10,True
+Dutch Grand Prix,10,2,5,2,distinctive_top5,10,True
+Emilia Romagna Grand Prix,10,2,5,2,distinctive_top5,10,True
+Hungarian Grand Prix,10,2,5,2,distinctive_top5,10,True
+Italian Grand Prix,15,3,5,3,distinctive_top5,15,True
+Japanese Grand Prix,15,3,5,3,distinctive_top5,15,True
+Las Vegas Grand Prix,10,2,5,2,distinctive_top5,10,True
+Mexico City Grand Prix,15,3,5,3,distinctive_top5,15,True
+Miami Grand Prix,15,3,5,3,distinctive_top5,15,True
+Monaco Grand Prix,15,3,5,3,distinctive_top5,15,True
+Qatar Grand Prix,15,3,5,3,distinctive_top5,15,True
+Saudi Arabian Grand Prix,14,3,5,3,distinctive_top5,15,False
+Singapore Grand Prix,15,3,5,3,distinctive_top5,15,True
+Spanish Grand Prix,10,2,5,2,distinctive_top5,10,True
+São Paulo Grand Prix,5,1,5,1,distinctive_top5,5,True
+United States Grand Prix,15,3,5,3,distinctive_top5,15,True
+Abu Dhabi Grand Prix,17,3,6,3,distinctive_top6,18,False
+Australian Grand Prix,6,1,6,1,distinctive_top6,6,True
+Austrian Grand Prix,18,3,6,3,distinctive_top6,18,True
+Azerbaijan Grand Prix,12,2,6,2,distinctive_top6,12,True
+Bahrain Grand Prix,18,3,6,3,distinctive_top6,18,True
+Belgian Grand Prix,6,1,6,1,distinctive_top6,6,True
+British Grand Prix,6,1,6,1,distinctive_top6,6,True
+Canadian Grand Prix,6,1,6,1,distinctive_top6,6,True
+Chinese Grand Prix,12,2,6,2,distinctive_top6,12,True
+Dutch Grand Prix,12,2,6,2,distinctive_top6,12,True
+Emilia Romagna Grand Prix,11,2,6,2,distinctive_top6,12,False
+Hungarian Grand Prix,12,2,6,2,distinctive_top6,12,True
+Italian Grand Prix,18,3,6,3,distinctive_top6,18,True
+Japanese Grand Prix,18,3,6,3,distinctive_top6,18,True
+Las Vegas Grand Prix,12,2,6,2,distinctive_top6,12,True
+Mexico City Grand Prix,18,3,6,3,distinctive_top6,18,True
+Miami Grand Prix,18,3,6,3,distinctive_top6,18,True
+Monaco Grand Prix,18,3,6,3,distinctive_top6,18,True
+Qatar Grand Prix,18,3,6,3,distinctive_top6,18,True
+Saudi Arabian Grand Prix,17,3,6,3,distinctive_top6,18,False
+Singapore Grand Prix,18,3,6,3,distinctive_top6,18,True
+Spanish Grand Prix,12,2,6,2,distinctive_top6,12,True
+São Paulo Grand Prix,6,1,6,1,distinctive_top6,6,True
+United States Grand Prix,18,3,6,3,distinctive_top6,18,True
+Abu Dhabi Grand Prix,23,3,8,3,distinctive_top8,24,False
+Australian Grand Prix,8,1,8,1,distinctive_top8,8,True
+Austrian Grand Prix,24,3,8,3,distinctive_top8,24,True
+Azerbaijan Grand Prix,16,2,8,2,distinctive_top8,16,True
+Bahrain Grand Prix,24,3,8,3,distinctive_top8,24,True
+Belgian Grand Prix,8,1,8,1,distinctive_top8,8,True
+British Grand Prix,8,1,8,1,distinctive_top8,8,True
+Canadian Grand Prix,8,1,8,1,distinctive_top8,8,True
+Chinese Grand Prix,16,2,8,2,distinctive_top8,16,True
+Dutch Grand Prix,16,2,8,2,distinctive_top8,16,True
+Emilia Romagna Grand Prix,15,2,8,2,distinctive_top8,16,False
+Hungarian Grand Prix,16,2,8,2,distinctive_top8,16,True
+Italian Grand Prix,24,3,8,3,distinctive_top8,24,True
+Japanese Grand Prix,24,3,8,3,distinctive_top8,24,True
+Las Vegas Grand Prix,16,2,8,2,distinctive_top8,16,True
+Mexico City Grand Prix,24,3,8,3,distinctive_top8,24,True
+Miami Grand Prix,24,3,8,3,distinctive_top8,24,True
+Monaco Grand Prix,24,3,8,3,distinctive_top8,24,True
+Qatar Grand Prix,24,3,8,3,distinctive_top8,24,True
+Saudi Arabian Grand Prix,23,3,8,3,distinctive_top8,24,False
+Singapore Grand Prix,24,3,8,3,distinctive_top8,24,True
+Spanish Grand Prix,16,2,8,2,distinctive_top8,16,True
+São Paulo Grand Prix,8,1,8,1,distinctive_top8,8,True
+United States Grand Prix,24,3,8,3,distinctive_top8,24,True
+Abu Dhabi Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Australian Grand Prix,6,1,6,1,confusion_union_top3_pairs,6,True
+Austrian Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Azerbaijan Grand Prix,12,2,6,2,confusion_union_top3_pairs,12,True
+Bahrain Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Belgian Grand Prix,6,1,6,1,confusion_union_top3_pairs,6,True
+British Grand Prix,6,1,6,1,confusion_union_top3_pairs,6,True
+Canadian Grand Prix,6,1,6,1,confusion_union_top3_pairs,6,True
+Chinese Grand Prix,12,2,6,2,confusion_union_top3_pairs,12,True
+Dutch Grand Prix,12,2,6,2,confusion_union_top3_pairs,12,True
+Emilia Romagna Grand Prix,11,2,6,2,confusion_union_top3_pairs,12,False
+Hungarian Grand Prix,12,2,6,2,confusion_union_top3_pairs,12,True
+Italian Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Japanese Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Las Vegas Grand Prix,12,2,6,2,confusion_union_top3_pairs,12,True
+Mexico City Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Miami Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Monaco Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Qatar Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Saudi Arabian Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Singapore Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Spanish Grand Prix,12,2,6,2,confusion_union_top3_pairs,12,True
+São Paulo Grand Prix,6,1,6,1,confusion_union_top3_pairs,6,True
+United States Grand Prix,18,3,6,3,confusion_union_top3_pairs,18,True
+Abu Dhabi Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Australian Grand Prix,2,1,2,1,confusion_pair_NOR_PIA,2,True
+Austrian Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Azerbaijan Grand Prix,4,2,2,2,confusion_pair_NOR_PIA,4,True
+Bahrain Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Belgian Grand Prix,2,1,2,1,confusion_pair_NOR_PIA,2,True
+British Grand Prix,2,1,2,1,confusion_pair_NOR_PIA,2,True
+Canadian Grand Prix,2,1,2,1,confusion_pair_NOR_PIA,2,True
+Chinese Grand Prix,4,2,2,2,confusion_pair_NOR_PIA,4,True
+Dutch Grand Prix,4,2,2,2,confusion_pair_NOR_PIA,4,True
+Emilia Romagna Grand Prix,4,2,2,2,confusion_pair_NOR_PIA,4,True
+Hungarian Grand Prix,4,2,2,2,confusion_pair_NOR_PIA,4,True
+Italian Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Japanese Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Las Vegas Grand Prix,4,2,2,2,confusion_pair_NOR_PIA,4,True
+Mexico City Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Miami Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Monaco Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Qatar Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Saudi Arabian Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Singapore Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Spanish Grand Prix,4,2,2,2,confusion_pair_NOR_PIA,4,True
+São Paulo Grand Prix,2,1,2,1,confusion_pair_NOR_PIA,2,True
+United States Grand Prix,6,3,2,3,confusion_pair_NOR_PIA,6,True
+Abu Dhabi Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Australian Grand Prix,2,1,2,1,confusion_pair_GAS_TSU,2,True
+Austrian Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Azerbaijan Grand Prix,4,2,2,2,confusion_pair_GAS_TSU,4,True
+Bahrain Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Belgian Grand Prix,2,1,2,1,confusion_pair_GAS_TSU,2,True
+British Grand Prix,2,1,2,1,confusion_pair_GAS_TSU,2,True
+Canadian Grand Prix,2,1,2,1,confusion_pair_GAS_TSU,2,True
+Chinese Grand Prix,4,2,2,2,confusion_pair_GAS_TSU,4,True
+Dutch Grand Prix,4,2,2,2,confusion_pair_GAS_TSU,4,True
+Emilia Romagna Grand Prix,3,2,2,2,confusion_pair_GAS_TSU,4,False
+Hungarian Grand Prix,4,2,2,2,confusion_pair_GAS_TSU,4,True
+Italian Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Japanese Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Las Vegas Grand Prix,4,2,2,2,confusion_pair_GAS_TSU,4,True
+Mexico City Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Miami Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Monaco Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Qatar Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Saudi Arabian Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Singapore Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Spanish Grand Prix,4,2,2,2,confusion_pair_GAS_TSU,4,True
+São Paulo Grand Prix,2,1,2,1,confusion_pair_GAS_TSU,2,True
+United States Grand Prix,6,3,2,3,confusion_pair_GAS_TSU,6,True
+Abu Dhabi Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Australian Grand Prix,2,1,2,1,confusion_pair_HUL_RUS,2,True
+Austrian Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Azerbaijan Grand Prix,4,2,2,2,confusion_pair_HUL_RUS,4,True
+Bahrain Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Belgian Grand Prix,2,1,2,1,confusion_pair_HUL_RUS,2,True
+British Grand Prix,2,1,2,1,confusion_pair_HUL_RUS,2,True
+Canadian Grand Prix,2,1,2,1,confusion_pair_HUL_RUS,2,True
+Chinese Grand Prix,4,2,2,2,confusion_pair_HUL_RUS,4,True
+Dutch Grand Prix,4,2,2,2,confusion_pair_HUL_RUS,4,True
+Emilia Romagna Grand Prix,4,2,2,2,confusion_pair_HUL_RUS,4,True
+Hungarian Grand Prix,4,2,2,2,confusion_pair_HUL_RUS,4,True
+Italian Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Japanese Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Las Vegas Grand Prix,4,2,2,2,confusion_pair_HUL_RUS,4,True
+Mexico City Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Miami Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Monaco Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Qatar Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Saudi Arabian Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Singapore Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True
+Spanish Grand Prix,4,2,2,2,confusion_pair_HUL_RUS,4,True
+São Paulo Grand Prix,2,1,2,1,confusion_pair_HUL_RUS,2,True
+United States Grand Prix,6,3,2,3,confusion_pair_HUL_RUS,6,True

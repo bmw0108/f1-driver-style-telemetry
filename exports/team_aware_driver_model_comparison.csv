@@ -1,0 +1,13 @@
+dataset,model_family,model_name,n_samples,accuracy,balanced_accuracy,macro_f1,notes
+long_qualifying_2018_2025_top5,sequence_reference,cnn,698,0.9040114613180515,0.9003730882492638,0.9011575144365972,"existing sequence/hybrid result, not retrained in this script"
+long_qualifying_2018_2025_top5,sequence_reference,hybrid_cnn_tabular,698,0.8911174785100286,0.8887800417972833,0.8886834058901609,"existing sequence/hybrid result, not retrained in this script"
+long_qualifying_2018_2025_top5,team_aware_tabular,driver_logistic_l2_plus_oof_team_probabilities,698,0.8094555873925502,0.8073043918811944,0.8085704314107851,"style core features plus OOF team probability features: Alpine, Ferrari, Force India, Haas F1 Team, McLaren, Mercedes, Racing Point, Red Bull Racing, Renault, Sauber, Williams"
+long_qualifying_2018_2025_top5,tabular,direct_driver_logistic_l2,698,0.8080229226361032,0.8051234919730217,0.805942825629457,style core features only
+race_2025_clean_laps_top5,sequence_reference,hybrid_cnn_tabular,4334,0.8567143516382095,0.8559862628159631,0.856407149159734,"existing sequence/hybrid result, not retrained in this script"
+race_2025_clean_laps_top5,sequence_reference,cnn,4334,0.847946469773881,0.8494941151198386,0.846558437390881,"existing sequence/hybrid result, not retrained in this script"
+race_2025_clean_laps_top5,tabular,direct_driver_logistic_l2,4334,0.7974157821873558,0.7978714808608817,0.7965026090059484,style core features only
+race_2025_clean_laps_top5,team_aware_tabular,driver_logistic_l2_plus_oof_team_probabilities,4334,0.7784956160590678,0.7786673615190826,0.778622909506142,"style core features plus OOF team probability features: Ferrari, Haas F1 Team, Red Bull Racing, Williams"
+short_qualifying_2023_2025_top5,sequence_reference,hybrid_cnn_tabular,273,0.9157509157509156,0.9154208754208756,0.9147439815086876,"existing sequence/hybrid result, not retrained in this script"
+short_qualifying_2023_2025_top5,sequence_reference,cnn,273,0.8974358974358975,0.8967676767676768,0.895241272348728,"existing sequence/hybrid result, not retrained in this script"
+short_qualifying_2023_2025_top5,tabular,direct_driver_logistic_l2,273,0.8461538461538461,0.8456565656565657,0.8451045125194246,style core features only
+short_qualifying_2023_2025_top5,team_aware_tabular,driver_logistic_l2_plus_oof_team_probabilities,273,0.8388278388278388,0.8381818181818183,0.838056847553146,"style core features plus OOF team probability features: Alpine, Ferrari, Haas F1 Team, Red Bull Racing, Williams"

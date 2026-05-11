@@ -1,0 +1,2 @@
+model,n_samples,n_drivers,seq_len,n_channels,mean_train_accuracy,mean_test_accuracy,mean_accuracy_gap,mean_train_macro_f1,mean_test_macro_f1,mean_macro_f1_gap,oof_accuracy,oof_balanced_accuracy,oof_macro_f1
+sequence_1d_cnn,273,5,300,5,0.9670185580830296,0.8756902356902356,0.09132832239279394,0.966799787401234,0.8729061610679594,0.09389362633327472,0.8754578754578755,0.8748148148148148,0.8731537856303527

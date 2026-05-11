@@ -1,0 +1,27 @@
+dataset,Driver,Team,n_laps
+short_qualifying_2023_2025_top5,ALB,Williams,55
+short_qualifying_2023_2025_top5,LEC,Ferrari,55
+short_qualifying_2023_2025_top5,OCO,Alpine,32
+short_qualifying_2023_2025_top5,OCO,Haas F1 Team,22
+short_qualifying_2023_2025_top5,SAI,Ferrari,32
+short_qualifying_2023_2025_top5,SAI,Williams,22
+short_qualifying_2023_2025_top5,VER,Red Bull Racing,55
+long_qualifying_2018_2025_top5,HAM,Mercedes,122
+long_qualifying_2018_2025_top5,HAM,Ferrari,22
+long_qualifying_2018_2025_top5,LEC,Ferrari,128
+long_qualifying_2018_2025_top5,LEC,Sauber,17
+long_qualifying_2018_2025_top5,OCO,Alpine,68
+long_qualifying_2018_2025_top5,OCO,Haas F1 Team,22
+long_qualifying_2018_2025_top5,OCO,Renault,15
+long_qualifying_2018_2025_top5,OCO,Force India,9
+long_qualifying_2018_2025_top5,OCO,Racing Point,7
+long_qualifying_2018_2025_top5,SAI,Ferrari,69
+long_qualifying_2018_2025_top5,SAI,McLaren,35
+long_qualifying_2018_2025_top5,SAI,Williams,22
+long_qualifying_2018_2025_top5,SAI,Renault,18
+long_qualifying_2018_2025_top5,VER,Red Bull Racing,144
+race_2025_clean_laps_top5,HAM,Ferrari,867
+race_2025_clean_laps_top5,LEC,Ferrari,875
+race_2025_clean_laps_top5,OCO,Haas F1 Team,911
+race_2025_clean_laps_top5,SAI,Williams,799
+race_2025_clean_laps_top5,VER,Red Bull Racing,882

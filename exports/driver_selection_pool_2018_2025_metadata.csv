@@ -1,0 +1,2 @@
+has_hist_2018_2022_qr,has_current_2023_2025_q,has_current_2023_2025_qr,n_total_rows,n_total_drivers,n_total_seasons,n_total_sessions,note
+True,True,False,149617,43,8,276,"If 2023-2025 race raw laps are absent, total coverage is provisional for R sessions in those seasons."
