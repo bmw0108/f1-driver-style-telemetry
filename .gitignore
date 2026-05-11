@@ -38,6 +38,7 @@ f1_cache/
 
 # Generated PDFs and packaged template exports
 *.pdf
+!thesis_latex/praca_magisterska_preview.pdf
 *.zip
 
 # OS/editor files

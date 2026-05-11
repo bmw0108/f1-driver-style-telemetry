@@ -6,9 +6,9 @@ Praca magisterska dotyczy identyfikacji stylu jazdy kierowców Formuły 1 na pod
 
 Analiza obejmuje trzy główne setupy eksperymentalne:
 
-- kwalifikacje 2023--2025 jako świeże dane z sesji odbywających się w "kontrolowanych warunkach"
-- kwalifikacje 2018--2025 jako dłuższy horyzont poprzedniego okresu
-- czyste okrążenia wyścigowe 2025 jako większy, bardziej zaszumiony zbiór - więcej danych, większy % "odsiew"
+- kwalifikacje 2023--2025 jako świeże dane z sesji odbywających się w "kontrolowanych warunkach",
+- kwalifikacje 2018--2025 jako dłuższy horyzont poprzedniego okresu,
+- czyste okrążenia wyścigowe 2025 jako większy, bardziej zaszumiony zbiór - więcej danych, większy procent odrzuconych okrążeń.
 
 W projekcie porównywane są modele oparte na ręcznie zdefiniowanych cechach, modele sekwencyjne, modele hybrydowe oraz dodatkowe analizy kontrolujące wpływ zespołu i samochodu.
 
@@ -29,8 +29,11 @@ Najlepiej czytać notebooki po kolei:
 ## Dane i wyniki
 
 - `exports/` zawiera pliki CSV wygenerowane przez kolejne etapy analizy.
-- `figures/thesis/` zawiera grafiki używane w pracy.
-- `data/` i `f1_cache/` zawierają lokalne dane robocze oraz cache FastF1.
+- `figures/` zawiera grafiki używane w notebookach i pracy.
+- `scripts/` zawiera najnowsze skrypty Python użyte przy późniejszych eksperymentach.
+- `thesis_latex/` zawiera aktualny kod pracy w LaTeX, bibliografię, klasę dokumentu, logo, figury oraz PDF poglądowy.
+
+Największe surowe pliki telemetryczne nie są wrzucone do repozytorium, ponieważ są zbyt duże dla zwykłego repo GitHub i mogą zostać odtworzone lokalnie przez uruchomienie odpowiednich notebooków lub skryptów.
 
 ## Przygotowanie środowiska
 
@@ -41,13 +44,8 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Notebooki korzystają z lokalnego cache FastF1. Katalog `f1_cache/` jest ignorowany przez Git, ponieważ może być duży i jest odtwarzalny przez ponowne pobranie danych.
-
 ## Praca w LaTeX
 
-Aktualna wersja kodu pracy znajduje się w `thesis_latex/`. Folder zawiera `main.tex`, klasę `mgr.cls`, bibliografię, logo oraz figury wymagane do kompilacji.
+Aktualna wersja kodu pracy znajduje się w `thesis_latex/`. Główny plik to `thesis_latex/main.tex`.
 
-## Duże dane
-
-Największe pliki telemetryczne nie są częścią tej paczki, ponieważ przekraczają praktyczne limity zwykłego repozytorium GitHub. Szczegóły znajdują się w `DATA_NOTES.md`.
-
+PDF poglądowy znajduje się w `thesis_latex/praca_magisterska_preview.pdf`.
