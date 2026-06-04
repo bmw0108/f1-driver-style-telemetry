@@ -54,13 +54,13 @@ def collect_fold_metric_frames() -> pd.DataFrame:
             "Kwalifikacje 2023-2025",
         ),
         (
-            "long_qualifying_top5_sequence_full_rerun_fold_metrics",
-            "long_qualifying_top5_sequence_full_rerun_split_summary",
+            "long_horizon_sequence_fold_metrics",
+            "long_horizon_sequence_split_summary",
             "long_qualifying_2018_2025_top5",
             "Kwalifikacje 2018-2025",
         ),
         (
-            "race_2025_top5_sequence_full_rerun_fold_metrics",
+            "race_2025_sequence_fold_metrics",
             "race_2025_top5_sequence_full_rerun_split_summary",
             "race_2025_clean_laps_top5",
             "Wyścigi 2025",
@@ -71,9 +71,13 @@ def collect_fold_metric_frames() -> pd.DataFrame:
         if not path.exists():
             continue
         df = load_csv(name)
+        if "subset_name" in df.columns:
+            df = df[df["subset_name"] == "balanced_top5"].copy()
         split_path = EXPORT_DIR / f"{split_name}.csv"
         if split_path.exists() and not {"n_train", "n_train_inner", "n_val", "n_test"}.issubset(df.columns):
             split_df = load_csv(split_name)
+            if "subset_name" in split_df.columns:
+                split_df = split_df[split_df["subset_name"] == "balanced_top5"].copy()
             split_cols = [c for c in ["fold", "n_train", "n_train_inner", "n_val", "n_test"] if c in split_df.columns]
             df = df.merge(split_df[split_cols], on="fold", how="left", suffixes=("", "_split"))
         df = df.assign(
@@ -172,13 +176,13 @@ def add_oof_scores(summary: pd.DataFrame) -> pd.DataFrame:
     sources = [
         ("sequence_architecture_fold_metrics.csv", "sequence_architecture_summary", None),
         (
-            "long_qualifying_top5_sequence_full_rerun_fold_metrics.csv",
-            "long_qualifying_top5_sequence_full_rerun_model_summary",
+            "long_horizon_sequence_fold_metrics.csv",
+            "long_horizon_sequence_model_summary",
             None,
         ),
         (
-            "race_2025_top5_sequence_full_rerun_fold_metrics.csv",
-            "race_2025_top5_sequence_full_rerun_model_summary",
+            "race_2025_sequence_fold_metrics.csv",
+            "race_2025_sequence_model_summary",
             None,
         ),
         ("long_horizon_baseline_fold_metrics.csv", "long_horizon_baseline_best_models", None),
