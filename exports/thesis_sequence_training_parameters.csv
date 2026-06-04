@@ -1,0 +1,4 @@
+setup,setup_label,max_epochs,patience,notes
+short_qualifying_2023_2025_top5,Kwalifikacje 2023-2025,150,20,Wartości z 02_short_horizon_qualifying_modeling.ipynb; batch_size w tym pierwotnym treningu wynosił 16.
+long_qualifying_2018_2025_top5,Kwalifikacje 2018-2025,80,10,Wartości z scripts/10_sequence_full_history_rerun.py.
+race_2025_clean_laps_top5,Wyścigi 2025,60,8,Wartości z scripts/10_sequence_full_history_rerun.py.

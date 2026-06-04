@@ -1,0 +1,5 @@
+model,input,layers
+cnn,sequence: 300 x 5,"Conv1D(32,k=7)-Conv1D(32,k=7)-MaxPool(2)-Dropout(0.2)-Conv1D(64,k=5)-Conv1D(64,k=5)-GlobalAveragePooling-Dense(64)-Dropout(0.3)-Dense(n_classes,softmax)"
+hybrid_cnn_tabular,sequence: 300 x 5; tabular features,"sequence branch: Conv1D(32,k=7)-Conv1D(32,k=7)-MaxPool(2)-Dropout(0.2)-Conv1D(64,k=5)-GlobalAveragePooling; tabular branch: Dense(32)-Dropout(0.2); merge: Concatenate-Dense(64)-Dropout(0.3)-Dense(n_classes,softmax)"
+gru,sequence: 300 x 5,"GRU(64,return_sequences=True,dropout=0.2)-GRU(32,dropout=0.2)-Dense(64)-Dropout(0.3)-Dense(n_classes,softmax)"
+lstm,sequence: 300 x 5,"LSTM(64,return_sequences=True,dropout=0.2)-LSTM(32,dropout=0.2)-Dense(64)-Dropout(0.3)-Dense(n_classes,softmax)"

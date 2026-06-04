@@ -1,0 +1,11 @@
+area,parameter,value,notes
+outer_validation,splitter,StratifiedGroupKFold,"Główna walidacja grupowana; grupa odpowiada sesji, aby okrążenia z tej samej sesji nie trafiały równocześnie do train i test."
+outer_validation,n_splits,5,"Odpowiada mniej więcej podziałowi 80/20 w każdym foldzie, ale dokładne proporcje zależą od liczby okrążeń w grupach."
+outer_validation,shuffle/random_state,"shuffle=True, random_state=42",Stały seed zapewnia powtarzalność podziałów.
+tabular_preprocessing,numeric preprocessing,SimpleImputer(strategy='median') + StandardScaler(),W modelach sklearn preprocessing znajduje się w Pipeline i jest fitowany wyłącznie na części treningowej danego folda.
+tabular_preprocessing,categorical preprocessing,SimpleImputer(strategy='most_frequent') + OneHotEncoder(handle_unknown='ignore'),Stosowane tylko w konfiguracjach zawierających zmienne kategoryczne.
+sequence_preprocessing,sequence length/channels,"300 samples; Speed, Throttle, Brake, RPM, nGear",Każde okrążenie resamplowano liniowo do wspólnej długości.
+sequence_preprocessing,scaling,mean/std from inner-training data,Sekwencje i cechy tabularne w modelu hybrydowym standaryzowano parametrami wyliczonymi na części treningowej bez folda walidacyjnego i testowego.
+sequence_training,inner validation,"StratifiedGroupKFold(n_splits=5), first split inside outer train",Inner validation służy do early stoppingu; test fold pozostaje niewidziany podczas treningu.
+sequence_training,optimizer/loss/batch,"Adam(lr=0.001), sparse_categorical_crossentropy, batch_size=32","Wspólna konfiguracja dla CNN, hybrydy, GRU i LSTM."
+sequence_training,early stopping,"monitor='val_loss', restore_best_weights=True",Maksymalna liczba epok i patience zależą od setupu; szczegóły w sequence_training_parameters.
